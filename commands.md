@@ -8,7 +8,7 @@ description: This page list all command and their functions.
 When using the commands don't include `<>` or `[]` brackets.
 {% endhint %}
 
-#### Stats
+## Stats
 
 | Command | Description | Example |
 | :--- | :--- | :---: |
