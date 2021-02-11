@@ -1,0 +1,4 @@
+# Thanks for inviting EasyFortniteStats
+
+
+
