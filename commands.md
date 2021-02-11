@@ -4,6 +4,8 @@ description: This page list all command and their functions.
 
 # Commands
 
+
+
 {% hint style="warning" %}
 When using the commands don't include `<>` or `[]` brackets.
 {% endhint %}
@@ -20,7 +22,7 @@ When using the commands don't include `<>` or `[]` brackets.
 | `!fn unlink` | Remove the linking from your Discord and EpicGames account | **`-`** |
 | `!fn verify` | Verify your EpicGames Account | **`-`** |
 
-#### Nick Stats
+## Nick Stats
 
 | Command | Description | Example |
 | :--- | :--- | :---: |
@@ -29,7 +31,7 @@ When using the commands don't include `<>` or `[]` brackets.
 | `!fn wins` | Enable/Disable the **Wins** in your nickname. | **`-`** |
 | `!fn wins setup` | Enable/disable players on your server to set their **Wins** in their nickname | **`-`** |
 
-#### Shop
+## Shop
 
 | Command | Description | Example |
 | :--- | :--- | :---: |
@@ -37,7 +39,7 @@ When using the commands don't include `<>` or `[]` brackets.
 | `!fn shop setup` | Setup automatically item shop updates | **`-`** |
 | `!fn shop settings` | Manage item shop settings | **`-`** |
 
-#### Challenges
+## Challenges
 
 | Command | Description | Example |
 | :--- | :--- | :---: |
@@ -45,14 +47,14 @@ When using the commands don't include `<>` or `[]` brackets.
 | `!fn challenges setup` | Setup automatically challenges updates | **`-`** |
 | `!fn challenges settings` | Manage challenges settings | **`-`** |
 
-#### News
+## News
 
 | Command | Description | Example |
 | :--- | :--- | :---: |
 | `!fn news` | Display the current **Battle Royale** in-game news | `-` |
 | `!fn news creative` | Display the current **Creative** in-game news | **`-`** |
 
-#### Server Status
+## Server Status
 
 | Command | Description | Example |
 | :--- | :--- | :---: |
@@ -60,14 +62,14 @@ When using the commands don't include `<>` or `[]` brackets.
 | `!fn status setup` | Setup automatically server status updates | **`-`** |
 | `!fn status settings` | Manage server status settings | **`-`** |
 
-#### Map
+## Map
 
 | Command | Description | Example |
 | :--- | :--- | :---: |
 | `!fn map` | Display the current map | `-` |
 | `!fn drop` | Display a random location to drop. | **`-`** |
 
-#### Radio
+## Radio
 
 | Command | Description | Example |
 | :--- | :--- | :---: |
@@ -78,19 +80,19 @@ When using the commands don't include `<>` or `[]` brackets.
 | `!fn radio volume <1-200>` | Set the music playback volume in percent | `!fn radio volume 150` |
 | `!fn radio info` | Get information about the current music playback | **`-`** |
 
-#### Misc
+## Misc
 
 | Command | Description | Example |
 | :--- | :--- | :---: |
 | `!fn event` | Display all in-game events with video playback | `-` |
 
-#### Vote
+## Vote
 
 | Command | Description | Example |
 | :--- | :--- | :---: |
 | `!fn vote` | Display vote instructions and check vote status | `-` |
 
-#### Premium
+## Premium
 
 | Command | Description | Example |
 | :--- | :--- | :---: |
@@ -98,7 +100,7 @@ When using the commands don't include `<>` or `[]` brackets.
 | `!fn premium enable` | Activate Premium on the server where you run the command | **`-`** |
 | `!fn premium disable` | Disable Premium on the server where you run the command | **`-`** |
 
-#### Info
+## Info
 
 | Command | Description | Example |
 | :--- | :--- | :---: |
@@ -108,4 +110,6 @@ When using the commands don't include `<>` or `[]` brackets.
 | `!fn data` | Receive data saved by the bot from your server/user account | **`-`** |
 
 ¹ DiscordUser could be a @Mention or a Name\#Tag
+
+
 
