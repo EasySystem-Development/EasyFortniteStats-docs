@@ -15,9 +15,10 @@ V3 is a completely overhaul of V2. The source code has been 100% re-written and 
 ![](.gitbook/assets/2021_02_02_en.png)
 
 * Account Verification: Verify that you own a specific account and get benefits
-* Nick Stats: Show off your BattlePass level or wins in your nickname. More types comming soon!
+* Nick Stats: Show off your BattlePass level or wins in your nickname. More types coming soon!
 * Global Stats: You now can now also get all stats from all different input types combined
-* Stats image now show off your how often you placed Top 25
+* Stats image now show off how often you placed Top 25
+* Premium now will be automatically granted
 
 ### Fixed
 
@@ -28,7 +29,7 @@ V3 is a completely overhaul of V2. The source code has been 100% re-written and 
 
 ### Removed
 
-* Score, Avarage Kills and Stats won't be displayed anymore, because they where unrelevant or duplicated 
+* Score, Average Kills, and Stats won't be displayed anymore, because they were irrelevant or duplicated 
 
 ## 3.0.1 - 2021-xx-xx
 
