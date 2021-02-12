@@ -1,4 +1,4 @@
 # Welcome to EasyFortniteStats
 
-Welcome to EasyFortniteStats Discord bot.
+EasyFortniteStats is a feature-rich Discord Bot trusted by more than 40,000 Discord Servers. 
 

@@ -4,8 +4,6 @@ description: This page list all command and their functions.
 
 # Commands
 
-
-
 {% hint style="warning" %}
 When using the commands don't include `<>` or `[]` brackets.
 {% endhint %}
@@ -110,6 +108,4 @@ When using the commands don't include `<>` or `[]` brackets.
 | `!fn data` | Receive data saved by the bot from your server/user account | `-` |
 
 ¹ DiscordUser could be a @Mention or a Name\#Tag
-
-
 
