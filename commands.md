@@ -8,6 +8,9 @@ description: This page list all command and their functions.
 When using the commands don't include `<>` or `[]` brackets.
 {% endhint %}
 
+`< >` **•** Required Argument  
+`[ ]` **•** Optional Argument
+
 ## Stats
 
 | Command | Description | Example |
