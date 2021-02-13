@@ -3,6 +3,7 @@
 * Arena Stats
 * Arena Hype in Nickname
 * Seasonal Stats
+* Competetive Turnement Feed + Placement
 * Shop image re-design \(matching current in-game Design\)
 * `!shop info` command for last seen info
 * Bot Channel limitations \(settings\)
