@@ -6,7 +6,7 @@
 
 ## Setup Bot Features
 
-* [Shop Setup](setup-bot-features/shop-setup.md)
+* [Item Shop](setup-bot-features/shop-setup.md)
 * [Challenges Setup](setup-bot-features/challenges-setup.md)
 * [Server Status Setup](setup-bot-features/server-status-setup.md)
 
