@@ -36,15 +36,37 @@ The setup ends if you do not like to set up a mention role.
 
 ### Set Mention Role
 
-The bot now ask for a mention role. You can either enter the role **name**, role **mention** \#channel or insert the role **ID**. Please send a message just including this information.
+The bot now asks for a mention role. You can either enter the role **name**, role **mention** \#channel or insert the role **ID**. Please send a message just including this information.
 
 {% hint style="warning" %}
-If you decide for entering the roles name, you need to check if the rolename is unique in your server.
+If you decide for entering the role name, you need to check if the role name is unique in your server.
 {% endhint %}
 
 #### Possible Errors
 
 * **Role not found** **•** The given Channel doesn't exist in your server.
-* **Role mentionable by everyone•** Servers larger than 250 can't use a role which is mentionable by everyone
+* **Role mentionable by everyone •** Servers larger than 250 members can't use a role that is mentionable by everyone
 * **Missing permissions** **•** The Bot missing mention everyone permissions. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to setup permissions.
+
+## Modify Item Shop Settings
+
+First, enter the following command:
+
+```text
+!fn shop settings
+```
+
+A reaction menu will pop up showing you all shop settings. Click the reaction of the setting you like to modify.
+
+### Set Channel
+
+### Set Mention Role
+
+### Background Image
+
+### Creator Code
+
+### Reset
+
+
 

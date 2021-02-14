@@ -3,6 +3,7 @@
 * [Welcome to EasyFortniteStats](README.md)
 * [Changelog](changelog.md)
 * [Upcoming Features](upcoming-features.md)
+* [FAQ](faq.md)
 
 ## Setup Bot Features
 
@@ -12,7 +13,6 @@
 
 ---
 
-* [FAQ](faq.md)
 * [Commands](commands.md)
 
 ## Beta

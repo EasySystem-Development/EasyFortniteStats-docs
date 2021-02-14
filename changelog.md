@@ -6,15 +6,7 @@ V3 is a complete overhaul of V2. The source code has been 100% re-written and no
 
 ### Added
 
-* New Stats image design \(`!fn stats`\)  
-
-![New Stats Image](.gitbook/assets/stats.png)
-
-* New Item Shop image design \(`!fn shop`\)
-
-![](.gitbook/assets/2021_02_02_en.png)
-
-* Account Verification: Verify that you own a specific account and get benefits \(`!fn verify`\)
+*  Account Verification: Verify that you own a specific account and get benefits \(`!fn verify`\)
 * Nick Stats: Show off your BattlePass level or wins in your nickname. More types coming soon! \(`!fn bplvl`, `!fn wins`\)
 * Global Stats: You now can now also get all stats from all different input types combined
 * News: The bot now supports BattleRoyale and Creative in-game news \(`!news`, `!news creative`\)
@@ -29,19 +21,27 @@ V3 is a complete overhaul of V2. The source code has been 100% re-written and no
 * `!fn data` command to receive the data saved by the bot
 * Prefix setting for **Premium** users \(`!fn settings`\)
 
-### Fixed
-
-* Instability issues have been resolved. Crashes or timeouts should now be rarer.
-* No, half or wrong challenge images were shown
-* No more "Please finish your last action before you can execute another command." 🎉 
-
 ### Changed
+
+* New Stats image design \(`!fn stats`\) 
+
+![New Stats Image Design](.gitbook/assets/stats.png)
+
+* New Item Shop image design \(`!fn shop`\)
+
+![](.gitbook/assets/2021_02_02_en.png)
 
 * `!fn challenges` now support up to 15 instead of 10 weeks
 * `!fn drop` has been overhauled by adding more locations that get automatically updated. Also, the location gets marked on the map. 
 * `!fn drop` has been overhauled by adding more locations that get automatically updated. Also, the location gets marked on the map. 
 * The Information shown in `!fn info` was updated
 * Updated the `!fn event` command with the latest events
+
+### Fixed
+
+* Instability issues have been resolved. Crashes or timeouts should now be rarer.
+* No, half or wrong challenge images were shown
+* No more "Please finish your last action before you can execute another command." 🎉 
 
 ### Removed
 
