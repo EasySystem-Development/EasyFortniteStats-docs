@@ -58,15 +58,45 @@ First, enter the following command:
 
 A reaction menu will pop up showing you all shop settings. Click the reaction of the setting you like to modify.
 
-### Set Channel
+### ![](../.gitbook/assets/text_channel_colored.png) Set Channel
 
-### Set Mention Role
+The bot asks for the channel where the shop should appear. You can either enter the channel **name**, channel **mention** \#channel or insert the channel **ID**. Please send a message just including this information.
 
-### Background Image
+{% hint style="warning" %}
+If you decide for entering the channel's name, you need to check if the channel name is unique in your server.
+{% endhint %}
 
-### Creator Code
+#### Possible Errors
 
-### Reset
+* **Channel not found** **•** The given Channel doesn't exist in your server.
+* **Missing permissions** **•** The Bot missing permissions. The bot shows you which ones are missing. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to setup permissions.
+
+### ![](../.gitbook/assets/role.png) Set Mention Role
+
+The bot asks for a mention role. You can either enter the role **name**, role **mention** \#channel or insert the role **ID**. Please send a message just including this information.
+
+{% hint style="warning" %}
+If you decide for entering the role name, you need to check if the role name is unique in your server.
+{% endhint %}
+
+#### Possible Errors
+
+* **Role not found** **•** The given Channel doesn't exist in your server.
+* **Role mentionable by everyone •** Servers larger than 250 members can't use a role that is mentionable by everyone
+* **Missing permissions** **•** The Bot missing mention everyone permissions. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to setup permissions.
+
+### 🖼 Background Image \[Premium only\]
+
+The bot asks for a background. You need to upload a file wich fulfill the following criterias:
+
+* 
+
+
+ Please send a message just including this information.
+
+### 🎖 Creator Code \[Premium only\] 
+
+### 🗑 Reset
 
 
 
