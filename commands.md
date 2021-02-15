@@ -18,10 +18,11 @@ When using the commands don't include `<>` or `[]` brackets.
 | `!fn` | Retrieve the stats of the account you linked | `-` |
 | `!fn <DiscordUser¹>` | Retrieve the stats of a Discord user | `!fn @Luc1412` |
 | `!fn <PlayerName>` | Retrieve the stats of an EpicGames account | `!fn Ninja` |
-| `!fn faq` | Display frequently asked questions related to stats | `-` |
+| `!fn stats faq` | Display frequently asked questions related to stats | `-` |
 | `!fn link [PlayerName]` | Link your Discord account to your EpicGames account | `!fn link`, `!fn link Ninja` |
 | `!fn unlink` | Remove the linking from your Discord and EpicGames account | `-` |
 | `!fn verify` | Verify your EpicGames Account | `-` |
+| `!fn stats settings`  | Manage challenges settings | `-` |
 
 ## Nick Stats
 
