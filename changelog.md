@@ -23,13 +23,14 @@ V3 is a complete overhaul of V2. The source code has been 100% re-written and no
 
 ### Changed
 
+* Changed the Stats caluclation. More LTM stats and Trio are now included in Stats Calculation
 * New Stats image design \(`!fn stats`\) 
 
 ![New Stats Image Design](.gitbook/assets/stats.png)
 
 * New Item Shop image design \(`!fn shop`\)
 
-![](.gitbook/assets/2021_02_02_en.png)
+![New Shop Image Design](.gitbook/assets/2021_02_02_en.png)
 
 * `!fn challenges` now support up to 15 instead of 10 weeks
 * `!fn drop` has been overhauled by adding more locations that get automatically updated. Also, the location gets marked on the map. 
@@ -47,8 +48,4 @@ V3 is a complete overhaul of V2. The source code has been 100% re-written and no
 
 * Score, Average Kills, and Stats won't be displayed anymore, because they were irrelevant or duplicated 
 * Support for getting stats from other members by Name\#Tag \(This change was made due to Discord limitation and may be changed when Discord add an alternative way\)
-
-## 3.0.1 - 2021-xx-xx
-
-
 

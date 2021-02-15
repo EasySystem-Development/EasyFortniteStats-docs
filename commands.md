@@ -111,5 +111,11 @@ When using the commands don't include `<>` or `[]` brackets.
 | `!fn invite` | Display the invite link of the bot | `-` |
 | `!fn data` | Receive data saved by the bot from your server/user account | `-` |
 
+## Settings
+
+| Command | Description | Example |
+| :--- | :--- | :---: |
+| `!fn settings` | Manage bot settings | `-` |
+
 ¹ DiscordUser could be a @Mention or a Name\#Tag
 
