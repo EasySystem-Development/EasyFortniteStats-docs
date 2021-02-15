@@ -87,16 +87,30 @@ If you decide for entering the role name, you need to check if the role name is 
 
 ### 🖼 Background Image \[Premium only\]
 
-The bot asks for a background. You need to upload a file wich fulfill the following criterias:
+The bot asks for a background. You need to upload a file wich fulfill the following criteria:
 
-* 
+* Image Format: `.png`, `.jpg` and `jpeg`
+* Recommended Image Resolution: `1896x1321` - `1896x14666`
+* Max. image size: `5MB`
 
+ Please send a message just including the image.
 
- Please send a message just including this information.
+#### Possible Errors
+
+* **Invalid Image Format •** Your provided image has is no valid image format
+* **Image too large •** The image size is larger than the given limit
 
 ### 🎖 Creator Code \[Premium only\] 
 
+The bot asks for a creator code. The code has to be valid and enabled.
+
+#### Possible Errors
+
+* **Creator Code not found •** The given creator code either doesn't exist or is not active 
+
 ### 🗑 Reset
+
+This option reset all settings and disable shop
 
 
 
