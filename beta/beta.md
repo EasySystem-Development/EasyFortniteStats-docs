@@ -2,7 +2,7 @@
 
 The Beta Program allows you to test new upcoming features.
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 The BETA bot is unstable and it is very likely that errors will occur
 {% endhint %}
 
