@@ -10,7 +10,12 @@
 
 ![](../.gitbook/assets/screenshot-2021-02-19-at-10.56.56.png)
 
-5. The bot should now entered the choosen server.
+5. You now need to solve the Captcha
+
+![](../.gitbook/assets/screenshot-2021-02-19-at-11.48.43.png)
+
+  
+6. The bot should now entered the choosen server.
 
 ## Which permissions are required for what reason?
 
