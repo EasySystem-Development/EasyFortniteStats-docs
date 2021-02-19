@@ -6,16 +6,17 @@
 * [Upcoming Features](upcoming-features.md)
 * [FAQ](faq.md)
 
-## Setup Bot Features
+## Setup Bot Features <a id="setup"></a>
 
-* [Language](setup-bot-features/language.md)
-* [Item Shop](setup-bot-features/shop-setup.md)
-* [Challenges Setup](setup-bot-features/challenges-setup.md)
-* [Server Status Setup](setup-bot-features/server-status-setup.md)
+* [Invite Bot](setup/invite.md)
+* [Language](setup/language.md)
+* [Item Shop](setup/shop.md)
+* [Challenges Setup](setup/challenges.md)
+* [Server Status Setup](setup/status.md)
 
 ## Beta
 
-* [Beta Info](beta/untitled.md)
+* [Beta Info](beta/beta.md)
 * [Invite Beta Bot](https://easyfnstats.com/beta)
 
 ---
