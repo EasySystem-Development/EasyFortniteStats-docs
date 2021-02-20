@@ -6,7 +6,7 @@ EasyFortniteStats is the ultimate, feature-rich Fortnite Discord Bot which benef
 
 {% page-ref page="setup/invite.md" %}
 
-### You like to get started with all commands?
+### Do you like to get started with all commands?
 
 {% page-ref page="commands.md" %}
 

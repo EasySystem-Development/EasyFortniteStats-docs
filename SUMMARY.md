@@ -4,6 +4,7 @@
 * [Commands](commands.md)
 * [Changelog](changelog.md)
 * [FAQ](faq.md)
+* [Tutorials](tutorials.md)
 * [Upcoming Features](upcoming-features.md)
 
 ## Setup Bot Features <a id="setup"></a>
