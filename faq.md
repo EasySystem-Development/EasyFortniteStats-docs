@@ -1,5 +1,9 @@
 # FAQ
 
+## General
+
+### The bot doesn't respond, what can I do?
+
 ## Stats
 
 ###  **My account was not found. What can I do?**
@@ -17,4 +21,6 @@ EpicGames don't update the stats immediately after each match. You have to wait 
 ###  Why does it say "Playtime since Season 7"?
 
 EpicGames introduced the feature to track playtime in Season 7. That's why it's only been tracked since Season 7 \(even though you played earlier\).
+
+## Nick Stats
 
