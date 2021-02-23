@@ -10,7 +10,7 @@ First, enter the following command:
 !fn challenges setup
 ```
 
-The bot first asks for the channel where the challenges should appear. You can either enter the channel **name**, channel **mention** \#channel or insert the channel **ID**. Please send a message just including this information.
+The bot first asks for the channel where the challenges should appear. You can either enter the channel **name**, channel **mention** \#channel, or insert the channel **ID**. Please send a message just including this information.
 
 {% hint style="warning" %}
 If you decide for entering the channel's name, you need to check if the channel name is unique in your server.

@@ -1,6 +1,20 @@
+---
+description: Video Tutorials for setting-up the bot
+---
+
 # Tutorials
 
-{% embed url="https://easyfnstats.com" %}
+## Admin/Owner Guide
+
+coming soon
+
+## User Guide
+
+coming soon
+
+## Premium Guide
+
+coming soon
 
 
 

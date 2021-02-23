@@ -23,7 +23,9 @@ V3 is a complete overhaul of V2. The source code has been 100% re-written and no
 
 ### Changed
 
-* Changed the Stats caluclation. More LTM stats and Trio are now included in Stats Calculation
+* Changed the Stats caluclation. 
+  * More LTM stats and Trio are now included in Stats Calculation
+  * Bot Lobby rounds are no more counted
 * New Stats image design \(`!fn stats`\) 
 
 ![New Stats Image Design](.gitbook/assets/stats.png)
