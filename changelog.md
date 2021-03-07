@@ -1,6 +1,6 @@
 # Changelog
 
-## V3.0.0 - 2021-02-xx
+## V3.0.0 - 2021-03-08
 
 V3 is a complete overhaul of V2. The source code has been 100% re-written and nothing was copied from the old Bot. This causes that all bugs from old versions to get fixed. V3 offers a fresh new feel and look without being unfamiliar.
 
@@ -50,4 +50,5 @@ V3 is a complete overhaul of V2. The source code has been 100% re-written and no
 
 * Score, Average Kills, and Stats won't be displayed anymore, because they were irrelevant or duplicated 
 * Support for getting stats from other members by Name\#Tag \(This change was made due to Discord limitation and may be changed when Discord add an alternative way\)
+* Removed Danish and Ukraine due to missing translator and low demand 
 
