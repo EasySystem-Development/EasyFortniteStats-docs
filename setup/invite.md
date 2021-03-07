@@ -1,21 +1,39 @@
 # Invite Bot
 
-1. Visit following site: [https://easyfnstats.com/invite](https://easyfnstats.com/invite)
-2. You now may need to login into your account. If you are already logged in, you can skip this step.
-3. You now get a drop down list of all servers you got "Manage Server" permissisons in. Select the server of your choice and continue.  
+### Step one
 
-![](../.gitbook/assets/screenshot-2021-02-19-at-10.38.47.png)
+Visit the following site: [https://easyfnstats.com/invite](https://easyfnstats.com/invite)
 
-4. A new window pops up with a list of all permissions required by EasyFortniteStats. Feel free to customize this list, but keep in mind that the bot requires all these permissions in order to work properly. Finally, click "Authorize"
+### Step two
 
-![](../.gitbook/assets/screenshot-2021-02-19-at-10.56.56.png)
+You should now see a menu like this:
 
-5. You now need to solve the Captcha
+![](../.gitbook/assets/brave_ybpe1iopsy.png)
 
-![](../.gitbook/assets/screenshot-2021-02-19-at-11.48.43.png)
+Now tap or click `Select a server`. A drop-down menu should appear including all servers you got`Manage Server` permissions in. Select the server you want the bot to join. Afterwards click **continue**.
 
-  
-6. The bot should now enter the chosen server.
+![](../.gitbook/assets/q78qvg2jx7.gif)
+
+### Step two
+
+After selecting a server, you should see something like this:
+
+![](../.gitbook/assets/brave_nf4ximbew5.png)
+
+As long you are not experienced with Discord's permissions system, keep all permissions selected.  
+Click the **Authorize** button and complete the **Captcha**. You now should get redirected to [this page](https://docs.easyfnstats.com/invite).
+
+## Invite troubleshooting
+
+###  I can't find my server. What's the reason?
+
+The main reason for your server not appearing in the drop-down menu is the use of the wrong account. Make sure you're logged into the right account which you can check on the top of the invite screen. You should see your profile picture and Discord tag. If it's the wrong account, press the **Not you?** button.
+
+![](../.gitbook/assets/mqwiyupvdw.png)
+
+### Discord asks me to verify my e-mail address.
+
+If you like to add a bot to a server you require an account with a verified e-mail. Head over to your user settings and verify your e-mail.
 
 ## Which permissions are required for what reason?
 
