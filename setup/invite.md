@@ -14,7 +14,7 @@ Now tap or click `Select a server`. A drop-down menu should appear including all
 
 ![](../.gitbook/assets/q78qvg2jx7.gif)
 
-### Step two
+### Step three
 
 After selecting a server, you should see something like this:
 
