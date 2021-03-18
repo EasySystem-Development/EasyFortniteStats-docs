@@ -11,6 +11,8 @@ When using the commands don't include `<>` or `[]` brackets.
 `< >` **•** Required Argument  
 `[ ]` **•** Optional Argument
 
+The command list can be accessed with `!fn help`.  Users with Manage Server or Administrator Permissions can also use `!fn help #channelname` which sends the help into a specific channel.
+
 ## Stats
 
 | Command | Description | Example |
