@@ -47,7 +47,7 @@ The command list can be accessed with `!fn help`.  Users with Manage Server or A
 
 | Command | Description | Example |
 | :--- | :--- | :---: |
-| `!fn challenges [week]` | Display the solutions of the weekly challenges. | `!fn challenges`, `!fn challenges 5` |
+| `!fn challenges [week]` | Display the solutions to the weekly challenges. | `!fn challenges`, `!fn challenges 5` |
 | `!fn challenges setup` | Setup automatically challenges updates. | `-` |
 | `!fn challenges settings` | Manage challenge settings. | `-` |
 
