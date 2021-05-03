@@ -12,15 +12,21 @@
 
 ###  My stats are wrong. How can this be?
 
-The bot retrieves the stats directly from EpicGames, so they can't be wrong. There might be a typo in your EpicGames, PlayStation Network or Xbox Live account name or a wrong account got selected. Also, it isn't possible to compare the stats with other sources, because the bot displays them differently.
+The bot retrieves the stats directly from EpicGames, so they can't be wrong. There might be a typo in your EpicGames, PlayStation Network, or Xbox Live account name, or a wrong account got selected. Also, it isn't possible to compare the stats with other sources, because the bot displays them differently.
 
 ###  My stats are not up to date. What is the reason?
 
-EpicGames don't update the stats immediately after each match. You have to wait a bit until they update. Sometimes it may takes up to multiple hours.
+EpicGames don't update the stats immediately after each match. You have to wait a bit until they update. Sometimes it may take up to multiple hours.
 
 ###  Why does it say "Playtime since Season 7"?
 
 EpicGames introduced the feature to track playtime in Season 7. That's why it's only been tracked since Season 7 \(even though you played earlier\).
 
-## Nick Stats
+### Why is my Arena Hype not displayed?
+
+Due to a limitation of EpicGames we are only able to display the Arena Hype of players who are either in the top 10.000 hype leaderboard or having a player name without a space character.
+
+
+
+
 
