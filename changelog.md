@@ -1,12 +1,36 @@
 # Changelog
 
+## V3.1.0 - 2021-05-XX
+
+### Added
+
+* Competitive Stats: Get just your Arena and Tournament matches including Arena Hype, Division, Earnings, and FortniteTracker.com's Power Ranking \(`!fn comp`\)
+* Seasonal Stats: Only display the stats that you have earned in the current season. \(`!fn stats season`\)
+* Season Command: View info on the current season and progress \(`!fn season`\)
+* Added Trio Stats in Stats image
+* Added Privacy Policy: [https://www.easyfnstats.com/privacy](https://www.easyfnstats.com/privacy/)
+* Added support for server and user data deletion \(`!fn data server delete`, `!fn data user delete`\)
+
+### Changed
+
+* Reformatted Stats Image
+
+
+
+### Fixed
+
+* Fixed issue that selections work when adding the same reaction in another channel
+* Fixed issue that bot lobbies still included
+* Fixed verification error message if an account is claimed
+* Fixed shop command which doesn't work in rare cases
+
 ## V3.0.0 - 2021-03-08
 
 V3 is a complete overhaul of V2. The source code has been 100% re-written and nothing was copied from the old Bot. This causes that all bugs from old versions to get fixed. V3 offers a fresh new feel and look without being unfamiliar.
 
 ### Added
 
-*  Account Verification: Verify that you own a specific account and get benefits \(`!fn verify`\)
+* Account Verification: Verify that you own a specific account and get benefits \(`!fn verify`\)
 * Nick Stats: Show off your BattlePass level or wins in your nickname. More types coming soon! \(`!fn bplvl`, `!fn wins`\)
 * Global Stats: You now can now also get all stats from all different input types combined
 * News: The bot now supports BattleRoyale and Creative in-game news \(`!news`, `!news creative`\)
@@ -23,7 +47,7 @@ V3 is a complete overhaul of V2. The source code has been 100% re-written and no
 
 ### Changed
 
-* Changed the Stats caluclation. 
+* Changed the Stats calculation. 
   * More LTM stats and Trio are now included in Stats Calculation
   * Bot Lobby rounds are no more counted
 * New Stats image design \(`!fn stats`\) 
