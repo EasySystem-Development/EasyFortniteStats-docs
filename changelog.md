@@ -5,17 +5,21 @@
 ### Added
 
 * Competitive Stats: Get just your Arena and Tournament matches including Arena Hype, Division, Earnings, and FortniteTracker.com's Power Ranking \(`!fn comp`\)
+
+![Competitive Stats Image](.gitbook/assets/stats-1-.png)
+
 * Seasonal Stats: Only display the stats that you have earned in the current season. \(`!fn stats season`\)
 * Season Command: View info on the current season and progress \(`!fn season`\)
 * Added Trio Stats in Stats image
 * Added Privacy Policy: [https://www.easyfnstats.com/privacy](https://www.easyfnstats.com/privacy/)
 * Added support for server and user data deletion \(`!fn data server delete`, `!fn data user delete`\)
+* The Bot has been added to [https://discordextremelist.xyz/](https://discordextremelist.xyz/en-US/bots/fortnite)
 
 ### Changed
 
 * Reformatted Stats Image
 
-
+![Reformatted Stats Image](.gitbook/assets/stats%20%281%29.png)
 
 ### Fixed
 
