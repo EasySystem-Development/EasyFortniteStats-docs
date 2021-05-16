@@ -4,6 +4,10 @@
 
 ### The bot doesn't respond, what can I do?
 
+In most cases, this issue is caused by the wrong permission setup. The Bot requires 'View Channel' permissions in the channel you like to use the bot. If you are inexperienced you might grant Administrator permissions.
+
+In rare cases, it might be caused by a bot restart or outage. If you checked the permissions and the bot doesn't answer for more than 10min feel free to contact us on [our support server](https://easyfnstats.com/discord).
+
 ## Stats
 
 ###  **My account was not found. What can I do?**
@@ -26,7 +30,21 @@ EpicGames introduced the feature to track playtime in Season 7. That's why it's 
 
 Due to a limitation of EpicGames we are only able to display the Arena Hype of players who are either in the top 10.000 hype leaderboard or having a player name without a space character.
 
+### My Hype, Divison, Earnings, or Power Ranking isn't up to date. How can this be?
 
+These values depend on FortniteTracker.com. It may take multiple hours to update your competitive data. 
 
+## NickStats
 
+### What happens when I change my name?
+
+You can change your name at any time. You shouldn't write anything behind the stats value.
+
+### How often is my stats value updated?
+
+The stats value gets updated every 2 hours \(1 hour for premium servers\) by the bot. Other delays are caused by EpicGames.
+
+### How do the wins get calculated?
+
+All wins from all rounds where teams are not larger than 4 members are counted. \(Excluding rounds with bots\)
 
