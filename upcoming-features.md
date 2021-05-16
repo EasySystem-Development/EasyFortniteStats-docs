@@ -3,7 +3,6 @@
 * Arena Stats
 * Arena Hype in Nickname
 * Seasonal Stats
-* Seasonal 
 * Re-Design auto channel Settings menus + include those in `!fn settings`
 * Competetive Turnement Feed + Placement
 * Shop image re-design \(matching current in-game Design\)
