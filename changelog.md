@@ -27,6 +27,7 @@
 * Fixed issue that bot lobbies still included
 * Fixed verification error message if an account is claimed
 * Fixed shop command which doesn't work in rare cases
+* Fixed issue that the shop image is sometimes missing 
 
 ## V3.0.0 - 2021-03-08
 
