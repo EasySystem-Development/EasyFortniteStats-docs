@@ -6,7 +6,7 @@
 
 * Competitive Stats: Get just your Arena and Tournament matches including Arena Hype, Division, Earnings, and FortniteTracker.com's Power Ranking \(`!fn comp`\)
 
-![Competitive Stats Image](.gitbook/assets/stats-1-.png)
+![](.gitbook/assets/stats-1-%20%281%29.png)
 
 * Seasonal Stats: Only display the stats that you have earned in the current season. \(`!fn season`\)
 * Season Command: View info on the current season and progress \(`!fn seasoninfo`\)
@@ -19,7 +19,7 @@
 
 * Reformatted Stats Image
 
-![Reformatted Stats Image](.gitbook/assets/stats%20%281%29.png)
+![](.gitbook/assets/stats%20%282%29.png)
 
 * Moved FAQ to docs \(`!fn faq`\)
 
