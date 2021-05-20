@@ -8,8 +8,8 @@
 
 ![Competitive Stats Image](.gitbook/assets/stats-1-.png)
 
-* Seasonal Stats: Only display the stats that you have earned in the current season. \(`!fn stats season`\)
-* Season Command: View info on the current season and progress \(`!fn season`\)
+* Seasonal Stats: Only display the stats that you have earned in the current season. \(`!fn season`\)
+* Season Command: View info on the current season and progress \(`!fn seasoninfo`\)
 * Added Trio Stats in Stats image
 * Added Privacy Policy: [https://www.easyfnstats.com/privacy](https://www.easyfnstats.com/privacy/)
 * Added support for server and user data deletion \(`!fn data server delete`, `!fn data user delete`\)
