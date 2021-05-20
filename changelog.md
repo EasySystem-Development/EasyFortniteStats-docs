@@ -21,6 +21,8 @@
 
 ![Reformatted Stats Image](.gitbook/assets/stats%20%281%29.png)
 
+* Moved FAQ to docs \(`!fn faq`\)
+
 ### Fixed
 
 * Fixed issue that selections work when adding the same reaction in another channel
