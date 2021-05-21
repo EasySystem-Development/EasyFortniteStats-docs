@@ -68,7 +68,6 @@ V3 is a complete overhaul of V2. The source code has been 100% re-written and no
 
 * `!fn challenges` now support up to 15 instead of 10 weeks
 * `!fn drop` has been overhauled by adding more locations that get automatically updated. Also, the location gets marked on the map. 
-* `!fn drop` has been overhauled by adding more locations that get automatically updated. Also, the location gets marked on the map. 
 * The Information shown in `!fn info` was updated
 * Updated the `!fn event` command with the latest events
 
