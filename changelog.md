@@ -6,7 +6,7 @@
 
 * Competitive Stats: Get just your Arena and Tournament matches including Arena Hype, Division, Earnings, and FortniteTracker.com's Power Ranking \(`!fn comp`\)
 
-![](.gitbook/assets/stats-1-%20%281%29.png)
+![New Competitive Stats](.gitbook/assets/stats-comp.png)
 
 * Seasonal Stats: Only display the stats that you have earned in the current season. \(`!fn season`\)
 * Season Command: View info on the current season and progress \(`!fn seasoninfo`\)
@@ -19,7 +19,7 @@
 
 * Reformatted Stats Image
 
-![](.gitbook/assets/stats%20%282%29.png)
+![New Stats Image Design](.gitbook/assets/stats%20%281%29.png)
 
 * Moved FAQ to docs \(`!fn faq`\)
 
@@ -29,7 +29,8 @@
 * Fixed issue that bot lobbies still included
 * Fixed verification error message if an account is claimed
 * Fixed shop command which doesn't work in rare cases
-* Fixed issue that the shop image is sometimes missing 
+* Fixed issue that the shop image is sometimes missing
+* Fix that BattlePass level progress bar broken on too small progresses
 
 ## V3.0.0 - 2021-03-08
 
