@@ -20,10 +20,12 @@ The command list can be accessed with `!fn help`.  Users with Manage Server or A
 | `!fn` | Retrieve the stats of the account you linked. | `-` |
 | `!fn <DiscordUser¹>` | Retrieve the stats of a Discord user. | `!fn @Luc1412` |
 | `!fn <PlayerName>` | Retrieve the stats of an EpicGames account. | `!fn Ninja` |
-| `!fn stats faq` | Display frequently asked questions related to stats. | `-` |
+| `!fn competitive <PlayerName>` | Retrieve the competitive stats of an EpicGames account. | `!fn competitive Luc1412` |
+| `!fn season <PlayerName>` | Retrieve the seasonal stats of an EpicGames account. | `!fn season Luc1412` |
 | `!fn link [PlayerName]` | Link your Discord account to your EpicGames account. | `!fn link`, `!fn link Ninja` |
 | `!fn unlink` | Remove the linking from your Discord and EpicGames account. | `-` |
 | `!fn verify` | Verify your EpicGames Account. | `-` |
+| `!fn seasoninfo` | Display the progress of the current season. | `-` |
 | `!fn stats settings`  | Manage stats settings. | `-` |
 
 ## Nick Stats
