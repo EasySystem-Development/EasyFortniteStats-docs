@@ -30,7 +30,8 @@
 * Fixed verification error message if an account is claimed
 * Fixed shop command which doesn't work in rare cases
 * Fixed issue that the shop image is sometimes missing
-* Fix that BattlePass level progress bar broken on too small progresses
+* Fix that BattlePass level progress bar broken on too small progress
+* Fix reaction doesn't work on verification start
 
 ## V3.0.0 - 2021-03-08
 
