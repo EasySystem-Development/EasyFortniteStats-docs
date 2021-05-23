@@ -30,9 +30,15 @@ EpicGames introduced the feature to track playtime in Season 7. That's why it's 
 
 Due to a limitation of EpicGames we are only able to display the Arena Hype of players who are either in the top 10.000 hype leaderboard or having a player name without a space character.
 
+### What is the Power Ranking?
+
+The Power Ranking, created by [Fortnite Tracker](https://fortnitetracker.com/), ranks the best players in the competitive field of Fortnite Battle Royale. The ranking is updated automatically every 24 hours and players move up based on their results in tournaments. Each tournament has a certain Tier, which is based on the competitive value of the tournament, the number of players, the format, and the prize pool. More Information [here](https://fortnitetracker.com/article/921/announcement-power-rankings-now-live).
+
 ### My Hype, Divison, Earnings, or Power Ranking isn't up to date. How can this be?
 
 These values depend on FortniteTracker.com. It may take multiple hours to update your competitive data. 
+
+
 
 ## NickStats
 
