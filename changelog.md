@@ -1,5 +1,28 @@
 # Changelog
 
+## V3.2.0 - 2021-06-XX \(Currently available in [Beta](beta/info.md)\)
+
+### Added
+
+* Added support for [Discord's new buttons](https://support.discord.com/hc/en-us/articles/1500012250861-Bots-Buttons). Following features support buttons:
+  * Challenges \(including seamless switching between weeks\)
+  * Stats \(including seamless switching between input types and stats types eg. Lifetime\)
+  * News \(including seamless switching between Gamemodes eg. BattleRoyale\)
+  * Radio \(more details below\)
+  * Map \(shortcut to open the map in full quality\)
+  * Drop \(generate a new location with just one click\)
+  * Help \(shortcuts to helpful resources\)
+  * Confirming \(Verification, Data deletion\)
+* Radio Stable Release: Radio has been now finally been implemented. It's more stable and less buggy. All subcommands have been removed. Only `!fn radio` is needed to open the player which lets you manage the bot with the new buttons.
+  * Added 24/7 Playback for **premium users**🔸
+  * Due to the extra required resources, volume control is only available to **premium users** 🔸
+* Stats now let you select an account if there are multiple accounts with the same name
+
+### Fixed
+
+* Fixed that Arena Hype was reset too early for most users
+* Fixed a few wrong terms and typos
+
 ## V3.1.0 - 2021-05-21
 
 ### Added
