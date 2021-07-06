@@ -13,9 +13,11 @@
   * Drop \(generate a new location with just one click\)
   * Help \(shortcuts to helpful resources\)
   * Confirming \(Verification, Data deletion\)
+  * Settings \(General, Shop, Challenges, ServerStatus\)
 * Radio Stable Release: Radio has been now finally been implemented. It's more stable and less buggy. All subcommands have been removed. Only `!fn radio` is needed to open the player which lets you manage the bot with the new buttons.
   * Added 24/7 Playback for **premium users**🔸
   * Due to the extra required resources, volume control is only available to **premium users** 🔸
+* Settings Rework: Settings have been redesigned with buttons. Also `!fn settings` is now a place to reach all bot settings including Shop, Challenges etc.
 * Stats now let you select an account if there are multiple accounts with the same name
 
 ### Fixed
