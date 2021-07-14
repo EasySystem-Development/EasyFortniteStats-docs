@@ -15,6 +15,7 @@
   * Confirming \(Verification, Data deletion\)
   * Settings \(General, Shop, Challenges, ServerStatus\)
   * Voting \(Shortcut to open main Vote page\)
+* Automated News Updates: News can now get automatically posted into a specific channel like challenges or the item shop. This feature can be setup with `!fn news settings`
 * Radio Stable Release: Radio has been now finally been implemented. It's more stable and less buggy. All subcommands have been removed. Only `!fn radio` is needed to open the player which lets you manage the bot with the new buttons.
   * Added 24/7 Playback for **premium users**🔸
   * Due to the extra required resources, volume control is only available to **premium users** 🔸
