@@ -1,6 +1,6 @@
 # Changelog
 
-## V3.2.0 - 2021-09-XX \(Currently available in [Beta](beta/info.md)\)
+## V3.2.0 - 2021-09-04
 
 ### Added
 
