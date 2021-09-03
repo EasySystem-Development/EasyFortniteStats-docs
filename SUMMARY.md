@@ -12,8 +12,11 @@
 * [Invite Bot](setup/invite.md)
 * [Language](setup/language.md)
 * [Item Shop](setup/shop.md)
-* [Challenges Setup](setup/challenges.md)
-* [Server Status Setup](setup/status.md)
+* [Challenges](setup/challenges.md)
+* [Server Status](setup/status.md)
+* [News](setup/news.md)
+* [Nick Stats](setup/nick-stats.md)
+* [Stats](setup/stats.md)
 
 ## Beta
 

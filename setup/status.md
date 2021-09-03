@@ -1,25 +1,33 @@
-# Server Status Setup
+# Server Status
 
-## Setup Server Status
+## Setup Server Status updates
 
-### Set channel
+If you are using the bot for the first time or you have reset the settings, you have to set up the Server Status function for the first time.
 
 First, enter the following command:
 
 ```text
-!fn status setup
+!fn status settings
 ```
 
-The bot first asks for the channel where the server status should appear. You can either enter the channel **name**, channel **mention** \#channel, or insert the channel **ID**. Please send a message just including this information.
+Click the blue button to set up Server Status updates. If you can't see this button, you have already set up Challenges. Then you can continue in the [modify Server Status settings section](status.md#modify-server-status-settings).
 
-{% hint style="warning" %}
-If you decide for entering the channel's name, you need to check if the channel name is unique in your server.
-{% endhint %}
+![](../.gitbook/assets/9s6imjkidd.gif)
+
+The bot asks for the channel where the Server Status should appear. You can either enter the channel **name**, channel **mention** \#channel, or insert the channel **ID**. Please send a message just including this information.
+
+![](../.gitbook/assets/0majy0bnvp.gif)
 
 #### Possible Errors
 
 * **Channel not found** **•** The given Channel doesn't exist in your server.
-* **Missing permissions** **•** The Bot missing permissions. The bot shows you which ones are missing. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to setup permissions.
+* **Missing permissions** **•** The Bot missing permissions. The bot shows you which ones are missing. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to set up permissions.
+
+It may take up to a few seconds until it finishes the setup.
+
+{% hint style="success" %}
+Automatic Server Status posts have been successfully enabled.
+{% endhint %}
 
 ## Modify Server Status Settings
 
@@ -29,24 +37,24 @@ First, enter the following command:
 !fn status settings
 ```
 
-A reaction menu will pop up showing you all server status settings. Click the reaction of the setting you like to modify.
+### Set Channel
 
-### ![](../.gitbook/assets/text_channel_colored.png) Set Channel
+The bot asks for the channel where the Server Status should appear. You can either enter the channel **name**, channel **mention** \#channel, or insert the channel **ID**. Please send a message just including this information.
 
-The bot asks for the channel where the server status should appear. You can either enter the channel **name**, channel **mention** \#channel, or insert the channel **ID**. Please send a message just including this information.
-
-{% hint style="warning" %}
-If you decide for entering the channel's name, you need to check if the channel name is unique in your server.
-{% endhint %}
+![](../.gitbook/assets/qywfthmu60.gif)
 
 #### Possible Errors
 
 * **Channel not found** **•** The given Channel doesn't exist in your server.
-* **Missing permissions** **•** The Bot missing permissions. The bot shows you which ones are missing. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to setup permissions.
+* **Missing permissions** **•** The Bot missing permissions. The bot shows you which ones are missing. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to set up permissions.
 
-### 🗑 Reset
+## Enable/Disable Server Status updates
 
-This option reset all settings and disable server status
+If you already set up the Server Statzs updates you can toggle the function by clicking the first Enable or Disable button.
 
+![](../.gitbook/assets/9hu065w2yo.gif)
 
+## Reset Settings
+
+You can also reset all settings when you press the button in the settings selection.
 

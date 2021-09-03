@@ -1,6 +1,6 @@
 # Changelog
 
-## V3.2.0 - 2021-06-XX \(Currently available in [Beta](beta/info.md)\)
+## V3.2.0 - 2021-09-XX \(Currently available in [Beta](beta/info.md)\)
 
 ### Added
 
@@ -11,27 +11,36 @@
   * Radio \(more details below\)
   * Map \(shortcut to open the map in full quality\)
   * Drop \(generate a new location with just one click\)
-  * Help \(shortcuts to helpful resources\)
+  * Help \(more details below\)
   * Confirming \(Verification, Data deletion\)
   * Settings \(General, Shop, Challenges, ServerStatus\)
   * Voting \(Shortcut to open main Vote page\)
-* Automated News Updates: News can now get automatically posted into a specific channel like challenges or the item shop. This feature can be setup with `!fn news settings`
+* Automated News Updates: News can now get automatically posted into a specific channel like challenges or the item shop. This feature can be set up with `!fn news settings`
 * Radio Stable Release: Radio has been now finally been implemented. It's more stable and less buggy. All subcommands have been removed. Only `!fn radio` is needed to open the player which lets you manage the bot with the new buttons.
   * Added 24/7 Playback for **premium users**🔸
   * Due to the extra required resources, volume control is only available to **premium users** 🔸
-* Settings Rework: Settings have been redesigned with buttons. Also `!fn settings` is now a place to reach all bot settings including Shop, Challenges etc.
+* Help rework: The help command has been fully reworked and now supports buttons and dropdown menus.
+  * Commands are now sorted into categories
+  * Categories can be navigated with a dropdown menu
+  * A bot news section has been added to the help command
+* Settings Rework: Settings have been redesigned with buttons. Also `!fn settings` is now a place to reach all bot settings including Shop, Challenges, etc.
 * Stats now let you select an account if there are multiple accounts with the same name
 * Added `!fn review` to show off all pages to review the bot. 
+* After setting up automatic updates, initially all data is sent into the channel. \(latest shop, current seasons cheat cheats, etc.\)
 
-### Changed
+### Changed/Improved
 
+* The bot doesn't require the "Add Reactions" permission anymore
+* The general bot speed has been optimized
 * Dates and Times shown by the bot are now based on your timezone
-* Countdowns/Relatives Dates/Times now automatically update
+* Countdowns/Relatives Dates/Times now automatically updated
 
 ### Fixed
 
-* Fixed that Arena Hype was reset too early for most users
+* Fixed that Arena Hype was reset too early for most users 
 * Fixed a few wrong terms and typos
+* Nick Stats setup has been fixed
+* Fixed mentions in shop updates
 
 ## V3.1.0 - 2021-05-21
 

@@ -14,8 +14,14 @@ First, enter the following command to get into the settings menu:
 !fn settings
 ```
 
-React with the language flag emoji. In case you change the language the first time, it should be the US flag 🇺🇸   
-Now a further menu should appear including all available languages. React with the flag of the language of your choice.
+Click the `Language` Button:
+
+![](../.gitbook/assets/7w0ix7g0d7.gif)
+
+  
+Now a further menu will appear. You can click the dropdown to select the language:
+
+![](../.gitbook/assets/nthsqpafiq.gif)
 
 {% hint style="success" %}
 The language has now been successfully switched.

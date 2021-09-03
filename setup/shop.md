@@ -6,47 +6,46 @@ description: >-
 
 # Item Shop
 
-## Setup Item Shop
+## Setup Item Shop updates
 
-### Set channel
+If you are using the bot for the first time or you have reset the settings, you have to set up the Item Shop function for the first time.
 
 First, enter the following command:
 
 ```text
-!fn shop setup
+!fn shop settings
 ```
 
-The bot first asks for the channel where the shop should appear. You can either enter the channel **name**, channel **mention** \#channel or insert the channel **ID**. Please send a message just including this information.
+Click the blue button to set up Item Shop updates. If you can't see this button, you have already set up the Item Shop. Then you can continue in the [modify Item Shop settings section](shop.md#modify-item-shop-settings).
 
-{% hint style="warning" %}
-If you decide for entering the channel's name, you need to check if the channel name is unique in your server.
-{% endhint %}
+![](../.gitbook/assets/sbmds8h7gk.gif)
+
+The bot asks for the channel where the Item Shop should appear. You can either enter the channel **name**, channel **mention** \#channel, or insert the channel **ID**. Please send a message just including this information.
+
+![](../.gitbook/assets/qblpegninu.gif)
 
 #### Possible Errors
 
 * **Channel not found** **•** The given Channel doesn't exist in your server.
-* **Missing permissions** **•** The Bot missing permissions. The bot shows you which ones are missing. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to setup permissions.
+* **Missing permissions** **•** The Bot missing permissions. The bot shows you which ones are missing. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to set up permissions.
 
-### Enable mention Role
+Once it's done you now can decide whether you like to set up a role that should be mentioned once a new Item Shop appears. 
 
-Now the bot asks whether a role should be mentioned.   
-React with ✅ if you like to set up a role. If not react with ❌.
+If you don't need this, you can skip this step, press the red X and finish up the Item Shop setup.
 
-The setup ends if you do not like to set up a mention role.
+If you like to continue setting up an Item Shop mention role, you can continue by clicking the green checkmark.
 
-### Set Mention Role
+![](../.gitbook/assets/os05hhxczq.gif)
 
-The bot now asks for a mention role. You can either enter the role **name**, role **mention** \#channel or insert the role **ID**. Please send a message just including this information.
+The bot asks for a mention role. You can either enter the role **name**, role **mention** \#channel or insert the role **ID**. Please send a message just including this information.
 
-{% hint style="warning" %}
-If you decide for entering the role name, you need to check if the role name is unique in your server.
+![](../.gitbook/assets/pkhzhaduui.gif)
+
+It may take up to a few seconds until it finishes the setup.
+
+{% hint style="success" %}
+Automatic Item Shop posts have been successfully enabled.
 {% endhint %}
-
-#### Possible Errors
-
-* **Role not found** **•** The given Channel doesn't exist in your server.
-* **Role mentionable by everyone •** Servers larger than 250 members can't use a role that is mentionable by everyone
-* **Missing permissions** **•** The Bot missing mention everyone permissions. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to setup permissions.
 
 ## Modify Item Shop Settings
 
@@ -56,36 +55,30 @@ First, enter the following command:
 !fn shop settings
 ```
 
-A reaction menu will pop up showing you all shop settings. Click the reaction of the setting you like to modify.
+### Set Channel
 
-### ![](../.gitbook/assets/text_channel_colored.png) Set Channel
+The bot asks for the channel where the Item Shop should appear. You can either enter the channel **name**, channel **mention** \#channel, or insert the channel **ID**. Please send a message just including this information.
 
-The bot asks for the channel where the shop should appear. You can either enter the channel **name**, channel **mention** \#channel, or insert the channel **ID**. Please send a message just including this information.
-
-{% hint style="warning" %}
-If you decide for entering the channel's name, you need to check if the channel name is unique in your server.
-{% endhint %}
+![](../.gitbook/assets/wg8nkowpis%20%281%29.gif)
 
 #### Possible Errors
 
 * **Channel not found** **•** The given Channel doesn't exist in your server.
-* **Missing permissions** **•** The Bot missing permissions. The bot shows you which ones are missing. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to setup permissions.
+* **Missing permissions** **•** The Bot missing permissions. The bot shows you which ones are missing. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to set up permissions.
 
-### ![](../.gitbook/assets/role.png) Set Mention Role
+### Set Mention Role
 
 The bot asks for a mention role. You can either enter the role **name**, role **mention** \#channel or insert the role **ID**. Please send a message just including this information.
 
-{% hint style="warning" %}
-If you decide for entering the role name, you need to check if the role name is unique in your server.
-{% endhint %}
+![](../.gitbook/assets/79gnuaijbt.gif)
 
 #### Possible Errors
 
 * **Role not found** **•** The given Channel doesn't exist in your server.
 * **Role mentionable by everyone •** Servers larger than 250 members can't use a role that is mentionable by everyone
-* **Missing permissions** **•** The Bot missing mention everyone permissions. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to setup permissions.
+* **Missing permissions** **•** The Bot missing mention everyone permissions. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to set up permissions.
 
-### 🖼 Background Image \[Premium only\]
+### 🔸Background Image \[Premium only\]
 
 The bot asks for a background. You need to upload a file wich fulfill the following criteria:
 
@@ -93,24 +86,40 @@ The bot asks for a background. You need to upload a file wich fulfill the follow
 * Recommended Image Resolution: `1896x1321` - `1896x14666`
 * Max. image size: `5MB`
 
- Please send a message just including the image.
+ Send a message just including the image.
+
+![](../.gitbook/assets/ceymutmzc0.gif)
 
 #### Possible Errors
 
 * **Invalid Image Format •** Your provided image has is no valid image format
 * **Image too large •** The image size is larger than the given limit
 
-### 🎖 Creator Code \[Premium only\] 
+### 🔸Creator Code \[Premium only\] 
 
 The bot asks for a creator code. The code has to be valid and enabled.
+
+![](../.gitbook/assets/nvsvmrhfls.gif)
 
 #### Possible Errors
 
 * **Creator Code not found •** The given creator code either doesn't exist or is not active 
 
-### 🗑 Reset
+## Enable/Disable Item Shop updates
 
-This option reset all settings and disable shop
+If you already set up the Item Shop updates you can toggle the function by clicking the first Enable or Disable button.
 
+![](../.gitbook/assets/09jjysbx3a.gif)
 
+## Reset Settings
+
+You can reset the following settings:
+
+* Mention Role
+* Background
+* Creator Code
+
+You first need to select the setting and press the red Reset button.
+
+You can also reset all settings when you press the button in the settings selection.
 

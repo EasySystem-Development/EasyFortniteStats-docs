@@ -1,59 +1,63 @@
-# Challenges
+# News
 
-## Setup Challenges updates
+## Setup News updates
 
-If you are using the bot for the first time or you have reset the settings, you have to set up the Challenges function for the first time.
+If you are using the bot for the first time or you have reset the settings, you have to set up the News function for the first time.
 
 First, enter the following command:
 
 ```text
-!fn challenges settings
+!fn news settings
 ```
 
-Click the blue button to set up Challenges updates. If you can't see this button, you have already set up Challenges. Then you can continue in the [modify Challenges settings section](challenges.md#modify-challenges-settings).
+Then click the game mode you like to configure. In this example BattleRoyale News get configured.
 
-![](../.gitbook/assets/6q1zusoxm9.gif)
+Click the blue button to set up News updates. If you can't see this button, you have already set up News. Then you can continue in the [modify News settings section](news.md#modify-news-settings).
 
-The bot asks for the channel where the Challenges should appear. You can either enter the channel **name**, channel **mention** \#channel, or insert the channel **ID**. Please send a message just including this information.
+![](../.gitbook/assets/zfrfd0gf6m.gif)
 
-![](../.gitbook/assets/sgfj5cblin.gif)
+The bot asks for the channel where the News should appear. You can either enter the channel **name**, channel **mention** \#channel, or insert the channel **ID**. Please send a message just including this information.
+
+![](../.gitbook/assets/r0mqr6ndci.gif)
 
 #### Possible Errors
 
 * **Channel not found** **•** The given Channel doesn't exist in your server.
 * **Missing permissions** **•** The Bot missing permissions. The bot shows you which ones are missing. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to set up permissions.
 
-Once it's done you now can decide whether you like to set up a role that should be mentioned once new Challenges appears. 
+Once it's done you now can decide whether you like to set up a role that should be mentioned once new News appears. 
 
-If you don't need this, you can skip this step, press the red X and finish up the Challenges setup.
+If you don't need this, you can skip this step, press the red X and finish up the News setup.
 
-If you like to continue setting up a Challenges mention role, you can continue by clicking the green checkmark.
+If you like to continue setting up a News mention role, you can continue by clicking the green checkmark.
 
-![](../.gitbook/assets/kpaplbnqdm.gif)
+![](../.gitbook/assets/zeamuad0gl.gif)
 
 The bot asks for a mention role. You can either enter the role **name**, role **mention** \#channel or insert the role **ID**. Please send a message just including this information.
 
-![](../.gitbook/assets/pbg1tnbpkg.gif)
+![](../.gitbook/assets/u62azapxxs.gif)
 
 It may take up to a few seconds until it finishes the setup.
 
 {% hint style="success" %}
-Automatic Challenges posts have been successfully enabled.
+Automatic News posts have been successfully enabled.
 {% endhint %}
 
-## Modify Challenges Settings
+## Modify News Settings
 
 First, enter the following command:
 
 ```text
-!fn challenges settings
+!fn news settings
 ```
+
+Then click the game mode you like to configure. In this example BattleRoyale News get configured.
 
 ### Set Channel
 
-The bot asks for the channel where the challenges should appear. You can either enter the channel **name**, channel **mention** \#channel, or insert the channel **ID**. Please send a message just including this information.
+The bot asks for the channel where the News should appear. You can either enter the channel **name**, channel **mention** \#channel, or insert the channel **ID**. Please send a message just including this information.
 
-![](../.gitbook/assets/wts1hbpvvj.gif)
+![](../.gitbook/assets/qll27qzns1.gif)
 
 #### Possible Errors
 
@@ -64,7 +68,7 @@ The bot asks for the channel where the challenges should appear. You can either 
 
 The bot asks for a mention role. You can either enter the role **name**, role **mention** \#channel, or insert the role **ID**. Please send a message just including this information.
 
-![](../.gitbook/assets/njwlxvugms.gif)
+![](../.gitbook/assets/mx2o5fjdk6.gif)
 
 #### Possible Errors
 
@@ -72,11 +76,11 @@ The bot asks for a mention role. You can either enter the role **name**, role **
 * **Role mentionable by everyone •** Servers larger than 250 members can't use a role that is mentionable by everyone
 * **Missing permissions** **•** The Bot missing mention everyone permissions. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to set up permissions.
 
-## Enable/Disable Challenges updates
+## Enable/Disable News updates
 
-If you already set up the challenges uppdates you can toggle the function by clicking the first Enable or Disable button.
+If you already set up the news uppdates you can toggle the function by clicking the first Enable or Disable button.
 
-![](../.gitbook/assets/1o3hszddll.gif)
+![](../.gitbook/assets/4mlb06mhz4.gif)
 
 ## Reset Settings
 
