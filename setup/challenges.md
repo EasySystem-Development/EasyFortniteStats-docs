@@ -1,5 +1,9 @@
 # Challenges
 
+{% hint style="danger" %}
+Due to the new challenges format introduced in Season 8 challenges help is currently not available.
+{% endhint %}
+
 ## Setup Challenges updates
 
 If you are using the bot for the first time or you have reset the settings, you have to set up the Challenges function for the first time.
@@ -10,7 +14,7 @@ First, enter the following command:
 !fn challenges settings
 ```
 
-Click the blue button to set up Challenges updates. If you can't see this button, you have already set up Challenges. Then you can continue in the [modify Challenges settings section](challenges.md#modify-challenges-settings).
+Click the blue-button to set up Challenges updates. If you can't see this button, you have already set up Challenges. Then you can continue in the [modify Challenges settings section](challenges.md#modify-challenges-settings).
 
 ![](../.gitbook/assets/6q1ZusOXm9.gif)
 
