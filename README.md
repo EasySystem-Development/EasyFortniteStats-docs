@@ -4,11 +4,13 @@ EasyFortniteStats is the ultimate, feature-rich Fortnite Discord Bot which benef
 
 ### Get Started with inviting the bot:
 
-{% page-ref page="setup/invite.md" %}
+{% content-ref url="setup/invite.md" %}
+[invite.md](setup/invite.md)
+{% endcontent-ref %}
 
 ### Do you like to get started with all commands?
 
-{% page-ref page="commands.md" %}
-
-
+{% content-ref url="commands.md" %}
+[commands.md](commands.md)
+{% endcontent-ref %}
 

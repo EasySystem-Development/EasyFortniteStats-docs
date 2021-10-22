@@ -2,9 +2,9 @@
 
 ## Modify Nick Stats settings
 
-First, enter the following command. It doesn't matter if you like to set up BattlePass Level or Wins: 
+First, enter the following command. It doesn't matter if you like to set up BattlePass Level or Wins:&#x20;
 
-```text
+```
 !fn bplvl settings
 ```
 
@@ -12,15 +12,14 @@ First, enter the following command. It doesn't matter if you like to set up Batt
 
 Depending on which Nick Stats type you like to set up you can press the appropriate button. Green means enabled, red means disabled.
 
-![](../.gitbook/assets/z47qocchud.gif)
+![](../.gitbook/assets/Z47qOcchUD.gif)
 
-### 🔸Forbid Changes \[Premium only\]
+### :small\_orange\_diamond:Forbid Changes \[Premium only]
 
 You can toggle this feature by pressing the button. Green means enabled, red means disabled.
 
-![](../.gitbook/assets/ojv2vdhsaj.gif)
+![](../.gitbook/assets/ojV2vdhsaj.gif)
 
 ## Reset Settings
 
 You can also reset all settings when you press the button in the settings selection.
-

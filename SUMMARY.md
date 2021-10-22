@@ -7,7 +7,7 @@
 * [Tutorials](tutorials.md)
 * [Upcoming Features](upcoming-features.md)
 
-## Setup Bot Features <a id="setup"></a>
+## Setup Bot Features <a href="setup" id="setup"></a>
 
 * [Invite Bot](setup/invite.md)
 * [Language](setup/language.md)
@@ -23,10 +23,8 @@
 * [Beta Info](beta/info.md)
 * [Invite Beta Bot](https://easyfnstats.com/beta)
 
----
+***
 
 * [Thanks for inviting EasyFortniteStats](invite.md)
 * [Join Discord Support Server](https://easyfnstats.com/discord)
-* [You successfully authenticated with your Fortnite account](oauth-success.md)
-* [An error occurred while verifying your Fortnite Account](oauth-error.md)
-
+* [How to solve verification issues](oauth-error.md)
