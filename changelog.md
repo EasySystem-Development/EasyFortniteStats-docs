@@ -1,5 +1,29 @@
 # Changelog
 
+## V3.2.1 - 2021-10-23
+
+### Changed/Improved
+
+* Switched the verification System: The new verification isn't based anymore on acepting a freind request and providing a 4-digit code. Now you just need to log in with your account on the EpicGames website and need to authorize EasyFortniteStats to verify your account
+* Temporarily disabled the challenges command, due to the new challenges format which has been introduced in Season 8.
+* Reduced radio quality from 384kb to 128kb for a more stable experience
+
+### Fixed
+
+* Fixed problem which caused that the verification stopped when clicking the checkmark icon in direct messages
+* Fixed a problem caused that other users were able to interact with buttons from commands invoked by other users.
+* Fixed an error that occurred when using `!fn challenges [week]` with a non-number argument for the week.&#x20;
+* Fixed an issue that news wasn't updated properly
+* Fixed possible errors which occured while setting up a bot feature and messages were already deleted
+* Fixed a problem which caused that the hype amount displayed where wrong.
+* Fixed problem which didn't fully respect pre-seasons and may caused displaying the wrong arena hype value
+
+
+
+
+
+
+
 ## V3.2.0 - 2021-09-04
 
 ### Added
