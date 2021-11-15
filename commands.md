@@ -77,14 +77,9 @@ The command list can be accessed with `!fn help`.  Users with Manage Server or A
 
 ## Radio
 
-| Command                    | Description                                       |         Example        |
-| -------------------------- | ------------------------------------------------- | :--------------------: |
-| `!fn radio`                | List all radio-related commands.                  |           `-`          |
-| `!fn radio play`           | Select a radio channel and start music playback.  |           `-`          |
-| `!fn radio switch`         | Switch the radio channel.                         |           `-`          |
-| `!fn radio stop`           | Stop music playback.                              |           `-`          |
-| `!fn radio volume <1-200>` | Set the music playback volume in percent.         | `!fn radio volume 150` |
-| `!fn radio info`           | Get information about the current music playback. |           `-`          |
+| Command     | Description                                         | Example |
+| ----------- | --------------------------------------------------- | :-----: |
+| `!fn radio` | Open the radio player and start the radio playback. |   `-`   |
 
 ## Misc
 
