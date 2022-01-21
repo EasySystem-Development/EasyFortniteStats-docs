@@ -1,12 +1,29 @@
 # Changelog
 
-## V3.3.0 - 2022-01-xx - BETA
+## V3.3.0 - 2022-01-XX - BETA
+
+{% hint style="danger" %}
+This update introduces a 3 month transition period from normal Text Commands (eg.`!fn shop`) to the new Slash Commands (eg.`/shop`). On 04/01 all text commands will finally be disabled.
+{% endhint %}
 
 ### Added
 
 * Added support for [SlashCommands](https://support.discord.com/hc/en-us/articles/1500000368501-Slash-Commands-FAQ). All previous available commands are available as normal commands and slash commands.
   * Some command error messages are now [Ephemeral Messages](https://support.discord.com/hc/en-us/articles/1500000580222-Ephemeral-Messages-FAQ), which will only be shown to the user who invoked the command
-  *
+  * The stats and Link command now allow Playernames&#x20;
+  * `/challenges` now provide you a list of available weeks
+* Added `/cosmetics` Command which provide details about a specific cosmetic.
+  * This command is only available as a slash command
+  * Cosmetic Names can be autocompleted
+  * Pro mode command option available. This will provide more details often useful for leaks.
+* Nick Stats now support Arena Hype using `/nickstats stats-type:Arena Hype points`
+
+5ed3e095cff7307050558c3de2a83a18544731e0
+
+### Fixed
+
+* Fix error which blocked creative news setup
+* Fix error which occasionally occurred when clicking on a button in the stats menu
 
 ## V3.2.1 - 2021-10-23
 
