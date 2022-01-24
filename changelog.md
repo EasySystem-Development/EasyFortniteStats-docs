@@ -8,17 +8,27 @@ This update introduces a 3 month transition period from normal Text Commands (eg
 
 ### Added
 
-* Added support for [SlashCommands](https://support.discord.com/hc/en-us/articles/1500000368501-Slash-Commands-FAQ). All previous available commands are available as normal commands and slash commands.
+* Added support for [Slash Commands](https://support.discord.com/hc/en-us/articles/1500000368501-Slash-Commands-FAQ). All previous available commands are available as normal commands and slash commands.
   * Some command error messages are now [Ephemeral Messages](https://support.discord.com/hc/en-us/articles/1500000580222-Ephemeral-Messages-FAQ), which will only be shown to the user who invoked the command
-  * The stats and Link command now allow Playernames&#x20;
-  * `/challenges` now provide you a list of available weeks
+  * The `/stats` and `/link` command now allow player names to be autocompleted. Furthermore it provides the list of available input types.
+  * `/challenges` now provide you a list of available weeks for the optional week argument
+  * `/news` now provides the list of modes to select from
+  * `/radio` provides you the list of available radio stations
+  * Instead of having individual `!fn bplvl` or `!fn wins` commands, the sash command implementation uses `/nick-stats`. This also provides a list of available types.
+  * `!fn seasoninfo` command was renamed to `/season` as slash command
+* Added a Context User Command which allows to receive the stats of a specific user. Just right click a user in your server -> Click ''Apps" -> Select "User Stats"
 * Added `/cosmetics` Command which provide details about a specific cosmetic.
   * This command is only available as a slash command
   * Cosmetic Names can be autocompleted
   * Pro mode command option available. This will provide more details often useful for leaks.
+* Added an option to `/settings` which allows the bot to prefer the user's language over the server language. On by default.
 * Nick Stats now support Arena Hype using `/nickstats stats-type:Arena Hype points`
+* Added game-info argument to `/season` command. This provides general information about the game. \[Slash command only]
 
-5ed3e095cff7307050558c3de2a83a18544731e0
+### Changed/Improved
+
+* Improved speed of receiving stats
+* When using a text command the bot replies to the users command.
 
 ### Fixed
 
