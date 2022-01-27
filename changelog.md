@@ -33,8 +33,9 @@ This update introduces a 3 month transition period from normal Text Commands (eg
 ### Fixed
 
 * Fix error which blocked creative news setup
-* Fix error which occasionally when pre selected an input type and switching the stats type wich didn't have stats for the desired type yet
+* Fix error which occasionally when pre selected an input type and switching the stats type which didn't have stats for the desired type yet
 * Fix issue that the bot doesn't respond if selecting an input type which the player never played with
+* Fix an error which was raised when using a quote like character in the stats text command (eg. `"`, `‘`, `《`)
 
 ## V3.2.1 - 2021-10-23
 
