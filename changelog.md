@@ -38,6 +38,7 @@ This update introduces a 3 month transition period from normal Text Commands (eg
 * Fix an error which was raised when using a quote like character in the stats text command (eg. `"`, `‘`, `《`)
 * Fixed error which occurred when setting up automatic updates and providing an invalid channel or role and the bot got no permissions to respond
 * Fixed rare issue which caused an error when starting the radio
+* Fix rare issue which breaks the auto channel setup
 
 ## V3.2.1 - 2021-10-23
 
