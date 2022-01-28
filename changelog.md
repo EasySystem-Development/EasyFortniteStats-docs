@@ -8,34 +8,34 @@ This update introduces a 3 month transition period from normal Text Commands (eg
 
 ### Additions
 
-* Added support for [Slash Commands](https://support.discord.com/hc/en-us/articles/1500000368501-Slash-Commands-FAQ). All previous available commands are available as normal commands and slash commands.
+* Added support for [Slash Commands](https://support.discord.com/hc/en-us/articles/1500000368501-Slash-Commands-FAQ). All previously available commands are available as normal commands and slash commands.
   * Some command error messages are now [Ephemeral Messages](https://support.discord.com/hc/en-us/articles/1500000580222-Ephemeral-Messages-FAQ), which will only be shown to the user who invoked the command
-  * The `/stats` and `/link` command now allow player names to be autocompleted. Furthermore it provides the list of available input types.
+  * The `/stats` and `/link` command now allow player names to be autocompleted. Furthermore, it provides a list of available input types.
   * `/challenges` now provide you a list of available weeks for the optional week argument
   * `/news` now provides the list of modes to select from
   * `/radio` provides you the list of available radio stations
   * Instead of having individual `!fn bplvl` or `!fn wins` commands, the sash command implementation uses `/nick-stats`. This also provides a list of available types.
-  * `!fn seasoninfo` command was renamed to `/season` as slash command
-* Added a Context User Command which allows to receive the stats of a specific user. Just right click a user in your server -> Click ''Apps" -> Select "User Stats"
-* Added `/cosmetics` Command which provide details about a specific cosmetic.
+  * `!fn seasoninfo` command was renamed to `/season` as a slash command
+* Added a Context User Command which allows receiving the stats of a specific user. Just right-click a user in your server -> Click ''Apps" -> Select "User Stats"
+* Added `/cosmetics` Command which provides details about a specific cosmetic.
   * This command is only available as a slash command
   * Cosmetic Names can be autocompleted
   * Pro mode command option available. This will provide more details often useful for leaks.
-* Added an option to `/settings` which allows the bot to prefer the user's language over the server language. On by default.
+* Added an option to `/settings` that allow the bot to prefer the user's language over the server language. Active by default.
 * Nick Stats now support Arena Hype using `/nickstats stats-type:Arena Hype points`
 * Added game-info argument to `/season` command. This provides general information about the game. \[Slash command only]
 
 ### Changes/Improvements
 
 * Improved speed of receiving stats
-* When using a text command the bot replies to the users command.
+* When using a text command the bot replies to the user's command.
 
 ### Fixes
 
-* Fix error which blocked creative news setup
-* Fix error which occasionally when pre selected an input type and switching the stats type which didn't have stats for the desired type yet
-* Fix issue that the bot doesn't respond if selecting an input type which the player never played with
-* Fix an error which was raised when using a quote like character in the stats text command (eg. `"`, `‘`, `《`)
+* Fixed error which blocked creative news setup
+* Fixed error which occasionally when pre-selected an input type and switching the stats type which didn't have stats for the desired type yet
+* Fixed issue that the bot doesn't respond if selecting an input type which the player never played with
+* Fixed an error that was raised when using a quote like character in the stats text command (eg. `"`, `‘`, `《`)
 * Fixed error which occurred when setting up automatic updates and providing an invalid channel or role and the bot got no permissions to respond
 * Fixed rare issue which caused an error when starting the radio
 * Fix rare issue which breaks the auto channel setup
