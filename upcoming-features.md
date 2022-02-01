@@ -2,8 +2,8 @@
 
 These are the planned features. They are sorted on how likely it is and how soon it gets implemented.
 
-* Arena Hype in Nickname **(Available in BETA 3.3.0)**
-* Slash Commands **(Available in BETA 3.3.0)**
+* Arena Hype in Nickname **(Available in 3.3.0)**
+* Slash Commands **(Available in 3.3.0)**
 * Looking for Game feature
 * Competetive Turnement Feed + Placement
 * Shop image re-design (matching current in-game Design)

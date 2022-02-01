@@ -7,21 +7,21 @@ If you are using the bot for the first time or you have reset the settings, you 
 First, enter the following command:
 
 ```
-!fn status settings
+/setup server-status
 ```
 
 Click the blue button to set up Server Status updates. If you can't see this button, you have already set up Challenges. Then you can continue in the [modify Server Status settings section](status.md#modify-server-status-settings).
 
 ![](../.gitbook/assets/9s6IMJKidd.gif)
 
-The bot asks for the channel where the Server Status should appear. You can either enter the channel **name**, channel **mention **#channel, or insert the channel **ID**. Please send a message just including this information.
+The bot asks for the channel where the Server Status should appear. You can either enter the channel **name**, channel **mention** #channel, or insert the channel **ID**. Please send a message just including this information.
 
 ![](../.gitbook/assets/0majy0Bnvp.gif)
 
 #### Possible Errors
 
 * **Channel not found** **•** The given Channel doesn't exist in your server.
-* **Missing permissions** **• **The Bot missing permissions. The bot shows you which ones are missing. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to set up permissions.
+* **Missing permissions** **•** The Bot missing permissions. The bot shows you which ones are missing. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to set up permissions.
 
 It may take up to a few seconds until it finishes the setup.
 
@@ -34,7 +34,7 @@ Automatic Server Status posts have been successfully enabled.
 First, enter the following command:
 
 ```
-!fn status settings
+/setup server-status
 ```
 
 ### Set Channel
@@ -46,7 +46,7 @@ The bot asks for the channel where the Server Status should appear. You can eith
 #### Possible Errors
 
 * **Channel not found** **•** The given Channel doesn't exist in your server.
-* **Missing permissions** **• **The Bot missing permissions. The bot shows you which ones are missing. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to set up permissions.
+* **Missing permissions** **•** The Bot missing permissions. The bot shows you which ones are missing. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to set up permissions.
 
 ## Enable/Disable Server Status updates
 

@@ -4,116 +4,100 @@ description: This page list all command and their functions.
 
 # Commands
 
-{% hint style="warning" %}
-When using the commands don't include `<>` or `[]` brackets.
-{% endhint %}
+The command list can be accessed with `/help`.&#x20;
 
-`< >` **• **Required Argument\
-`[ ]` **• **Optional Argument
+## Stats Commands
 
-The command list can be accessed with `!fn help`.  Users with Manage Server or Administrator Permissions can also use `!fn help #channelname` which sends the help into a specific channel.
+| Command              | Description                                                 |
+| -------------------- | ----------------------------------------------------------- |
+| `/stats lifetime`    | Retrieve the **lifetime** stats of a Fortnite account.      |
+| `/stats season`      | Retrieve the **season** stats of a Fortnite account.        |
+| `/stats competitive` | Retrieve the **competitive** stats of a Fortnite account.   |
+| `/link`              | Link your Discord account to your EpicGames account.        |
+| `/unlink`            | Remove the linking from your Discord and EpicGames account. |
+| `/verify`            | Verify the ownership of your Fortnite Account.              |
+| `/nickstats`         | Display the progress of the current season.                 |
+| `/setup stats`       | Setup and modify the stats settings.                        |
 
-## Stats
+## Shop Settings
 
-| Command                        | Description                                                 |            Example           |
-| ------------------------------ | ----------------------------------------------------------- | :--------------------------: |
-| `!fn`                          | Retrieve the stats of the account you linked.               |              `-`             |
-| `!fn <DiscordUser¹>`           | Retrieve the stats of a Discord user.                       |        `!fn @Luc1412`        |
-| `!fn <PlayerName>`             | Retrieve the stats of an EpicGames account.                 |          `!fn Ninja`         |
-| `!fn competitive <PlayerName>` | Retrieve the competitive stats of an EpicGames account.     |   `!fn competitive Luc1412`  |
-| `!fn season <PlayerName>`      | Retrieve the seasonal stats of an EpicGames account.        |     `!fn season Luc1412`     |
-| `!fn link [PlayerName]`        | Link your Discord account to your EpicGames account.        | `!fn link`, `!fn link Ninja` |
-| `!fn unlink`                   | Remove the linking from your Discord and EpicGames account. |              `-`             |
-| `!fn verify`                   | Verify your EpicGames Account.                              |              `-`             |
-| `!fn seasoninfo`               | Display the progress of the current season.                 |              `-`             |
-| `!fn stats settings`           | Manage stats settings.                                      |              `-`             |
+| Command       | Description                              |
+| ------------- | ---------------------------------------- |
+| `/shop`       | Display the current in-game item shop.   |
+| `/setup shop` | Setup and modify the item shop settings. |
 
-## Nick Stats
+## Challenges Commands
 
-| Command           | Description                                                                                | Example |
-| ----------------- | ------------------------------------------------------------------------------------------ | :-----: |
-| `!fn bplvl`       | Enable/Disable the **Battle Pass level** in your nickname.                                 |   `-`   |
-| `!fn bplvl setup` | Enable/disable players on your server to set their **BattlePass level** in their nickname. |   `-`   |
-| `!fn wins`        | Enable/Disable the **Wins** in your nickname.                                              |   `-`   |
-| `!fn wins setup`  | Enable/disable players on your server to set their **Wins** in their nickname.             |   `-`   |
+| Command             | Description                               |
+| ------------------- | ----------------------------------------- |
+| `/challenges`       | Display help for the weekly challenges.   |
+| `/setup challenges` | Setup and modify the challenges settings. |
 
-## Shop
+## News Commands
 
-| Command             | Description                             | Example |
-| ------------------- | --------------------------------------- | :-----: |
-| `!fn shop`          | Display the current Fortnite item shop. |   `-`   |
-| `!fn shop setup`    | Setup automatically item shop updates.  |   `-`   |
-| `!fn shop settings` | Manage item shop settings.              |   `-`   |
-
-## Challenges
-
-| Command                   | Description                                     |                Example               |
-| ------------------------- | ----------------------------------------------- | :----------------------------------: |
-| `!fn challenges [week]`   | Display the solutions to the weekly challenges. | `!fn challenges`, `!fn challenges 5` |
-| `!fn challenges setup`    | Setup automatically challenges updates.         |                  `-`                 |
-| `!fn challenges settings` | Manage challenge settings.                      |                  `-`                 |
-
-## News
-
-| Command             | Description                                         | Example |
-| ------------------- | --------------------------------------------------- | :-----: |
-| `!fn news`          | Display the current **Battle Royale** in-game news. |   `-`   |
-| `!fn news creative` | Display the current **Creative** in-game news.      |   `-`   |
+| Command       | Description                         |
+| ------------- | ----------------------------------- |
+| `/news`       | Display the current in-game news.   |
+| `/news setup` | Setup and modify the news settings. |
 
 ## Server Status
 
-| Command               | Description                                 | Example |
-| --------------------- | ------------------------------------------- | :-----: |
-| `!fn status`          | Display the current Fortnite server status. |   `-`   |
-| `!fn status setup`    | Setup automatically server status updates.  |   `-`   |
-| `!fn status settings` | Manage server status settings.              |   `-`   |
+| Command                | Description                                  |
+| ---------------------- | -------------------------------------------- |
+| `/server-status`       | Display the current Fortnite server status.  |
+| `/setup server-status` | Setup and modify the server status settings. |
 
-## Map
+## Map Commands
 
-| Command    | Description                        | Example |
-| ---------- | ---------------------------------- | :-----: |
-| `!fn map`  | Display the current Fortnite map.  |   `-`   |
-| `!fn drop` | Display a random location to drop. |   `-`   |
+| Command | Description                        |
+| ------- | ---------------------------------- |
+| `/map`  | Display the current Fortnite map.  |
+| `/drop` | Display a random location to drop. |
 
-## Radio
+## Radio Commands
 
-| Command     | Description                                         | Example |
-| ----------- | --------------------------------------------------- | :-----: |
-| `!fn radio` | Open the radio player and start the radio playback. |   `-`   |
+| Command  | Description                                         |
+| -------- | --------------------------------------------------- |
+| `/radio` | Open the radio player and start the radio playback. |
 
-## Misc
+## Misc Commands
 
-| Command     | Description                                     | Example |
-| ----------- | ----------------------------------------------- | :-----: |
-| `!fn event` | Display all in-game events with video playback. |   `-`   |
+| Command     | Description                                     |
+| ----------- | ----------------------------------------------- |
+| `/cosmetic` | Get information about in-game cosmetics.        |
+| `/season`   | Display the progress of the current season.     |
+| `/event`    | Display all in-game events with video playback. |
 
-## Vote
+## Vote & Review Commands
 
-| Command    | Description                                      | Example |
-| ---------- | ------------------------------------------------ | :-----: |
-| `!fn vote` | Display vote instructions and check vote status. |   `-`   |
+| Command   | Description                                               |
+| --------- | --------------------------------------------------------- |
+| Command   | Description                                               |
+| `/vote`   | Display vote instructions and check vote status.          |
+| `/review` | Display information on how to write a review for the bot. |
 
-## Premium
+## Premium Commands
 
-| Command               | Description                                                | Example |
-| --------------------- | ---------------------------------------------------------- | :-----: |
-| `!fn premium`         | Display Premium Info and Instructions on how to subscribe. |   `-`   |
-| `!fn premium enable`  | Activate Premium on the server where you run the command.  |   `-`   |
-| `!fn premium disable` | Disable Premium on the server where you run the command.   |   `-`   |
+| Command            | Description                                                |
+| ------------------ | ---------------------------------------------------------- |
+| `/premium info`    | Display Premium Info and Instructions on how to subscribe. |
+| `/premium enable`  | Activate Premium on the server where you run the command.  |
+| `/premium disable` | Disable Premium on the server where you run the command.   |
 
-## Info
+## Bot Info Commands
 
-| Command       | Description                                                  | Example |
-| ------------- | ------------------------------------------------------------ | :-----: |
-| `!fn info`    | Display general information and stats about this bot.        |   `-`   |
-| `!fn cluster` | Display information about the bot's clusters.                |   `-`   |
-| `!fn invite`  | Display the invite link of the bot.                          |   `-`   |
-| `!fn data`    | Receive data saved by the bot from your server/user account. |   `-`   |
+| Command              | Description                                           |
+| -------------------- | ----------------------------------------------------- |
+| `/info`              | Display general information and stats about this bot. |
+| `/cluster`           | Display information about the bot's clusters.         |
+| `/invite`            | Show the invite link of the bot.                      |
+| `/data guild get`    | Receive data saved by the bot from your server.       |
+| `/data guild delete` | Delete data saved by the bot from your server.        |
+| `/data user get`     | Receive data saved by the bot from your user account. |
+| `/data user delete`  | Delete data saved by the bot from your user account.  |
 
 ## Settings
 
-| Command        | Description          | Example |
-| -------------- | -------------------- | :-----: |
-| `!fn settings` | Manage bot settings. |   `-`   |
-
-¹ DiscordUser could be a @Mention or a Name#Tag
+| Command     | Description                |
+| ----------- | -------------------------- |
+| `/settings` | Manage the bot's settings. |

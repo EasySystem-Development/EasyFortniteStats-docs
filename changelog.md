@@ -1,6 +1,6 @@
 # Changelog
 
-## V3.3.0 - 2022-01-XX - BETA
+## V3.3.0 - 2022-02-01
 
 {% hint style="danger" %}
 This update introduces a 3 month transition period from normal Text Commands (eg.`!fn shop`) to the new Slash Commands (eg.`/shop`). On 04/01 all text commands will finally be disabled.
@@ -14,7 +14,7 @@ This update introduces a 3 month transition period from normal Text Commands (eg
   * `/challenges` now provide you a list of available weeks for the optional week argument
   * `/news` now provides the list of modes to select from
   * `/radio` provides you the list of available radio stations
-  * Instead of having individual `!fn bplvl` or `!fn wins` commands, the sash command implementation uses `/nick-stats`. This also provides a list of available types.
+  * Instead of having individual `!fn bplvl` or `!fn wins` commands, the slash command implementation uses `/nick-stats`. This also provides a list of available types.
   * `!fn seasoninfo` command was renamed to `/season` as a slash command
 * Added a Context User Command which allows receiving the stats of a specific user. Just right-click a user in your server -> Click ''Apps" -> Select "User Stats"
 * Added `/cosmetics` Command which provides details about a specific cosmetic.

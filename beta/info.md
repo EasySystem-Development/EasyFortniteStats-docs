@@ -18,7 +18,3 @@ If you don't mind the things mentioned above, you can invite the beta bot at the
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
-
-{% hint style="info" %}
-The beta bot's prefix is `b!fn` eg. `b!fn shop`
-{% endhint %}

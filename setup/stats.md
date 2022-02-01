@@ -5,7 +5,7 @@
 First, enter the following command:
 
 ```
-!fn stats settings
+/setup stats
 ```
 
 ### :small\_orange\_diamond:Lifetime/Season Background Image \[Premium only]
@@ -23,7 +23,7 @@ The bot asks for a background. You need to upload a file wich fulfill the follow
 #### Possible Errors
 
 * **Invalid Image Format •** Your provided image has is no valid image format
-* **Image too large • **The image size is larger than the given limit
+* **Image too large •** The image size is larger than the given limit
 
 ### :small\_orange\_diamond:Competitive Background \[Premium only]&#x20;
 

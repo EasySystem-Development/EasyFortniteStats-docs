@@ -5,7 +5,7 @@
 First, enter the following command. It doesn't matter if you like to set up BattlePass Level or Wins:&#x20;
 
 ```
-!fn bplvl settings
+/setup nickstats
 ```
 
 ### Enable/Disable Nick Stats

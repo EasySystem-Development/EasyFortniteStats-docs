@@ -7,7 +7,7 @@ If you are using the bot for the first time or you have reset the settings, you 
 First, enter the following command:
 
 ```
-!fn news settings
+/setup news
 ```
 
 Then click the game mode you like to configure. In this example BattleRoyale News get configured.
@@ -16,14 +16,14 @@ Click the blue button to set up News updates. If you can't see this button, you 
 
 ![](../.gitbook/assets/zfRfd0gF6m.gif)
 
-The bot asks for the channel where the News should appear. You can either enter the channel **name**, channel **mention **#channel, or insert the channel **ID**. Please send a message just including this information.
+The bot asks for the channel where the News should appear. You can either enter the channel **name**, channel **mention** #channel, or insert the channel **ID**. Please send a message just including this information.
 
 ![](../.gitbook/assets/R0MQr6nDCI.gif)
 
 #### Possible Errors
 
 * **Channel not found** **•** The given Channel doesn't exist in your server.
-* **Missing permissions** **• **The Bot missing permissions. The bot shows you which ones are missing. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to set up permissions.
+* **Missing permissions** **•** The Bot missing permissions. The bot shows you which ones are missing. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to set up permissions.
 
 Once it's done you now can decide whether you like to set up a role that should be mentioned once new News appears.&#x20;
 
@@ -33,7 +33,7 @@ If you like to continue setting up a News mention role, you can continue by clic
 
 ![](../.gitbook/assets/ZeAMUAd0Gl.gif)
 
-The bot asks for a mention role. You can either enter the role **name**, role **mention **#channel or insert the role **ID**. Please send a message just including this information.
+The bot asks for a mention role. You can either enter the role **name**, role **mention** #channel or insert the role **ID**. Please send a message just including this information.
 
 ![](../.gitbook/assets/U62AzapXXs.gif)
 
@@ -48,7 +48,7 @@ Automatic News posts have been successfully enabled.
 First, enter the following command:
 
 ```
-!fn news settings
+/setup news
 ```
 
 Then click the game mode you like to configure. In this example BattleRoyale News get configured.
@@ -62,19 +62,19 @@ The bot asks for the channel where the News should appear. You can either enter 
 #### Possible Errors
 
 * **Channel not found** **•** The given Channel doesn't exist in your server.
-* **Missing permissions** **• **The Bot missing permissions. The bot shows you which ones are missing. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to set up permissions.
+* **Missing permissions** **•** The Bot missing permissions. The bot shows you which ones are missing. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to set up permissions.
 
 ### Set Mention Role
 
-The bot asks for a mention role. You can either enter the role **name**, role **mention **#channel, or insert the role **ID**. Please send a message just including this information.
+The bot asks for a mention role. You can either enter the role **name**, role **mention** #channel, or insert the role **ID**. Please send a message just including this information.
 
 ![](../.gitbook/assets/MX2o5fjDk6.gif)
 
 #### Possible Errors
 
 * **Role not found** **•** The given Channel doesn't exist in your server.
-* **Role mentionable by everyone • **Servers larger than 250 members can't use a role that is mentionable by everyone
-* **Missing permissions** **• **The Bot missing mention everyone permissions. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to set up permissions.
+* **Role mentionable by everyone •** Servers larger than 250 members can't use a role that is mentionable by everyone
+* **Missing permissions** **•** The Bot missing mention everyone permissions. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to set up permissions.
 
 ## Enable/Disable News updates
 

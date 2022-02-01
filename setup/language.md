@@ -11,7 +11,7 @@ All translations except german are community-based and might not meet the defaul
 First, enter the following command to get into the settings menu:
 
 ```
-!fn settings
+/settings
 ```
 
 Click the `Language` Button:

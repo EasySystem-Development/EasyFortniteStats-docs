@@ -13,21 +13,21 @@ If you are using the bot for the first time or you have reset the settings, you 
 First, enter the following command:
 
 ```
-!fn shop settings
+/setup shop
 ```
 
 Click the blue button to set up Item Shop updates. If you can't see this button, you have already set up the Item Shop. Then you can continue in the [modify Item Shop settings section](shop.md#modify-item-shop-settings).
 
 ![](../.gitbook/assets/SBMdS8h7gK.gif)
 
-The bot asks for the channel where the Item Shop should appear. You can either enter the channel **name**, channel **mention **#channel, or insert the channel **ID**. Please send a message just including this information.
+The bot asks for the channel where the Item Shop should appear. You can either enter the channel **name**, channel **mention** #channel, or insert the channel **ID**. Please send a message just including this information.
 
 ![](../.gitbook/assets/qblpeGNINU.gif)
 
 #### Possible Errors
 
 * **Channel not found** **•** The given Channel doesn't exist in your server.
-* **Missing permissions** **• **The Bot missing permissions. The bot shows you which ones are missing. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to set up permissions.
+* **Missing permissions** **•** The Bot missing permissions. The bot shows you which ones are missing. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to set up permissions.
 
 Once it's done you now can decide whether you like to set up a role that should be mentioned once a new Item Shop appears.&#x20;
 
@@ -37,7 +37,7 @@ If you like to continue setting up an Item Shop mention role, you can continue b
 
 ![](../.gitbook/assets/OS05HhxCzQ.gif)
 
-The bot asks for a mention role. You can either enter the role **name**, role **mention **#channel or insert the role **ID**. Please send a message just including this information.
+The bot asks for a mention role. You can either enter the role **name**, role **mention** #channel or insert the role **ID**. Please send a message just including this information.
 
 ![](../.gitbook/assets/pkhzhadUuI.gif)
 
@@ -52,7 +52,7 @@ Automatic Item Shop posts have been successfully enabled.
 First, enter the following command:
 
 ```
-!fn shop settings
+/setup shop
 ```
 
 ### Set Channel
@@ -64,19 +64,19 @@ The bot asks for the channel where the Item Shop should appear. You can either e
 #### Possible Errors
 
 * **Channel not found** **•** The given Channel doesn't exist in your server.
-* **Missing permissions** **• **The Bot missing permissions. The bot shows you which ones are missing. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to set up permissions.
+* **Missing permissions** **•** The Bot missing permissions. The bot shows you which ones are missing. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to set up permissions.
 
 ### Set Mention Role
 
-The bot asks for a mention role. You can either enter the role **name**, role **mention **#channel or insert the role **ID**. Please send a message just including this information.
+The bot asks for a mention role. You can either enter the role **name**, role **mention** #channel or insert the role **ID**. Please send a message just including this information.
 
 ![](../.gitbook/assets/79gnuAIjBt.gif)
 
 #### Possible Errors
 
 * **Role not found** **•** The given Channel doesn't exist in your server.
-* **Role mentionable by everyone • **Servers larger than 250 members can't use a role that is mentionable by everyone
-* **Missing permissions** **• **The Bot missing mention everyone permissions. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to set up permissions.
+* **Role mentionable by everyone •** Servers larger than 250 members can't use a role that is mentionable by everyone
+* **Missing permissions** **•** The Bot missing mention everyone permissions. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to set up permissions.
 
 ### :small\_orange\_diamond:Background Image \[Premium only]
 
@@ -93,7 +93,7 @@ The bot asks for a background. You need to upload a file wich fulfill the follow
 #### Possible Errors
 
 * **Invalid Image Format •** Your provided image has is no valid image format
-* **Image too large • **The image size is larger than the given limit
+* **Image too large •** The image size is larger than the given limit
 
 ### :small\_orange\_diamond:Creator Code \[Premium only]&#x20;
 

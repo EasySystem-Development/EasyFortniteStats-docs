@@ -11,21 +11,21 @@ If you are using the bot for the first time or you have reset the settings, you 
 First, enter the following command:
 
 ```
-!fn challenges settings
+/setup challenges
 ```
 
 Click the blue-button to set up Challenges updates. If you can't see this button, you have already set up Challenges. Then you can continue in the [modify Challenges settings section](challenges.md#modify-challenges-settings).
 
 ![](../.gitbook/assets/6q1ZusOXm9.gif)
 
-The bot asks for the channel where the Challenges should appear. You can either enter the channel **name**, channel **mention **#channel, or insert the channel **ID**. Please send a message just including this information.
+The bot asks for the channel where the Challenges should appear. You can either enter the channel **name**, channel **mention** #channel, or insert the channel **ID**. Please send a message just including this information.
 
 ![](../.gitbook/assets/SgfJ5CbliN.gif)
 
 #### Possible Errors
 
 * **Channel not found** **•** The given Channel doesn't exist in your server.
-* **Missing permissions** **• **The Bot missing permissions. The bot shows you which ones are missing. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to set up permissions.
+* **Missing permissions** **•** The Bot missing permissions. The bot shows you which ones are missing. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to set up permissions.
 
 Once it's done you now can decide whether you like to set up a role that should be mentioned once new Challenges appears.&#x20;
 
@@ -35,7 +35,7 @@ If you like to continue setting up a Challenges mention role, you can continue b
 
 ![](../.gitbook/assets/KpAPLBNQDm.gif)
 
-The bot asks for a mention role. You can either enter the role **name**, role **mention **#channel or insert the role **ID**. Please send a message just including this information.
+The bot asks for a mention role. You can either enter the role **name**, role **mention** #channel or insert the role **ID**. Please send a message just including this information.
 
 ![](../.gitbook/assets/PbG1tNbPKg.gif)
 
@@ -50,7 +50,7 @@ Automatic Challenges posts have been successfully enabled.
 First, enter the following command:
 
 ```
-!fn challenges settings
+/setup challenges
 ```
 
 ### Set Channel
@@ -62,19 +62,19 @@ The bot asks for the channel where the challenges should appear. You can either 
 #### Possible Errors
 
 * **Channel not found** **•** The given Channel doesn't exist in your server.
-* **Missing permissions** **• **The Bot missing permissions. The bot shows you which ones are missing. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to set up permissions.
+* **Missing permissions** **•** The Bot missing permissions. The bot shows you which ones are missing. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to set up permissions.
 
 ### Set Mention Role
 
-The bot asks for a mention role. You can either enter the role **name**, role **mention **#channel, or insert the role **ID**. Please send a message just including this information.
+The bot asks for a mention role. You can either enter the role **name**, role **mention** #channel, or insert the role **ID**. Please send a message just including this information.
 
 ![](../.gitbook/assets/NJwLXVuGms.gif)
 
 #### Possible Errors
 
 * **Role not found** **•** The given Channel doesn't exist in your server.
-* **Role mentionable by everyone • **Servers larger than 250 members can't use a role that is mentionable by everyone
-* **Missing permissions** **• **The Bot missing mention everyone permissions. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to set up permissions.
+* **Role mentionable by everyone •** Servers larger than 250 members can't use a role that is mentionable by everyone
+* **Missing permissions** **•** The Bot missing mention everyone permissions. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to set up permissions.
 
 ## Enable/Disable Challenges updates
 
