@@ -16,7 +16,7 @@ The command list can be accessed with `/help`.&#x20;
 | `/link`              | Link your Discord account to your EpicGames account.        |
 | `/unlink`            | Remove the linking from your Discord and EpicGames account. |
 | `/verify`            | Verify the ownership of your Fortnite Account.              |
-| `/nickstats`         | Display the progress of the current season.                 |
+| `/nickstats`         | Show off your stats in your nickname.                       |
 | `/setup stats`       | Setup and modify the stats settings.                        |
 
 ## Shop Settings
