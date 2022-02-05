@@ -10,7 +10,7 @@ This update introduces a 3 month transition period from normal Text Commands (eg
 
 * Added support for [Slash Commands](https://support.discord.com/hc/en-us/articles/1500000368501-Slash-Commands-FAQ). All previously available commands are available as normal commands and slash commands.
   * Some command error messages are now [Ephemeral Messages](https://support.discord.com/hc/en-us/articles/1500000580222-Ephemeral-Messages-FAQ), which will only be shown to the user who invoked the command
-  * The `/stats` and `/link` command now allow player names to be autocompleted. Furthermore, it provides a list of available input types.
+  * The `/stats` provides a list of available input types.
   * `/challenges` now provide you a list of available weeks for the optional week argument
   * `/news` now provides the list of modes to select from
   * `/radio` provides you the list of available radio stations
