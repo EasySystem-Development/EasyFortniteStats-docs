@@ -2,6 +2,26 @@
 
 ## General
 
+### Why are the normal text commands no longer available?
+
+On May 1, bots can no longer read all message content. This means that the bot no longer knows whether and which command was executed. This provides more privacy, but forces the messenger developers to switch to slash commands at the same time. Read more [here](https://support-dev.discord.com/hc/en-us/articles/4404772028055-Message-Content-Privileged-Intent-for-Verified-Bots).
+
+### How do slash commands work?
+
+You only need to type `/` in the chat window, which opens a menu with all available commands, sorted by bot. You just need to select the command of your choice. Read more [here](https://support.discord.com/hc/en-us/articles/1500000368501-Slash-Commands-FAQ) about slash commands.
+
+![How to execute the /help command.](.gitbook/assets/2x6C3RQ.gif)
+
+### I can't see a slash command, how can I change that?
+
+#### No Permissions
+
+Users may not be able to use slash commands in this channel. For this, the users who should be able to use the commands must get the **Use Application Commands** permissions.&#x20;
+
+#### Slash Commands disabled
+
+It may be that when the bot was invited, it was not given all the requested permissions. This blocks them from creating Slash Commands. A server administrator must then [re-invite the bot](setup/invite.md).
+
 ### The bot doesn't respond, what can I do?
 
 In most cases, this issue is caused by the wrong permission setup. The Bot requires 'View Channel' permissions in the channel you like to use the bot. If you are inexperienced you might grant Administrator permissions.

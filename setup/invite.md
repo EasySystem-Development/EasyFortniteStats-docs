@@ -21,7 +21,7 @@ After selecting a server, you should see something like this:
 ![](../.gitbook/assets/brave\_NF4XimBew5.png)
 
 As long you are not experienced with Discord's permissions system, keep all permissions selected.\
-Click the **Authorize **button and complete the **Captcha**. You now should get redirected to [this page](https://docs.easyfnstats.com/invite).
+Click the **Authorize** button and complete the **Captcha**. You now should get redirected to [this page](https://docs.easyfnstats.com/invite).
 
 ## Invite troubleshooting
 
