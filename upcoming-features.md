@@ -4,7 +4,7 @@ These are the planned features. They are sorted on how likely it is and how soon
 
 * Arena Hype in Nickname **(Available in 3.3.0)**
 * Slash Commands **(Available in 3.3.0)**
-* Looking for Game feature
+* Save the World mission alerts
 * Competetive Turnement Feed + Placement
 * Shop image re-design (matching current in-game Design)
 * Button below Item Shop message for Shop History
