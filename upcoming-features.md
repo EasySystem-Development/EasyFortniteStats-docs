@@ -2,14 +2,12 @@
 
 These are the planned features. They are sorted on how likely it is and how soon it gets implemented.
 
-* Arena Hype in Nickname **(Available in 3.3.0)**
-* Slash Commands **(Available in 3.3.0)**
 * Save the World mission alerts
 * Competetive Turnement Feed + Placement
 * Shop image re-design (matching current in-game Design)
 * Button below Item Shop message for Shop History
-* Bot Channel limitations (settings)
 * Overhaul news command with blog entries + Blog entry auto channel
 * LTM Updates + Active command
+* Item Shop Reminders
 * Item Shop Voting with global results
 * Weapon Info command

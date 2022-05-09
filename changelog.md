@@ -1,5 +1,31 @@
 # Changelog
 
+## V3.3.1 - 2022-05-XX - BETA
+
+This patch comes with mostly under the hood changes implementing recently released Discord features.
+
+{% hint style="warning" %}
+Discord extended the Slash Command enforcement until 09/31/2022. Our migration period has been extended until 09/01/2022
+{% endhint %}
+
+### Additions
+
+* Implemeneted Discords new command permissions system available unter `Server Settings -> Integrations -> EasyFortniteStats`
+
+### Changes/Improvements
+
+* The stats command's name option now provides a search functionality for Fortnite Player names.
+* The `/radio` command can now be used without selecting a radio station in the command itself. Instead a button selection is shown. This is espaccally useful when just resuming a radio session.
+* We fixed a performance lack which should result in better perfomance and should reduce "Interaction doesn't respond" error messages
+* Most commands have been enabled in direct messages
+* Selecting a player name and a Discord user at the same time in the `/stats` command now result in an error message for clarification.
+* Improved a few messages to make things more clear
+
+### Fixes
+
+* Premium enabled server wasn't able to use the `/data` server commands.
+* When changing the station in the radio menu the icon of the button wasn't properly updated
+
 ## V3.3.0 - 2022-02-01
 
 {% hint style="danger" %}
