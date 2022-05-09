@@ -28,6 +28,12 @@ In most cases, this issue is caused by the wrong permission setup. The Bot requi
 
 In rare cases, it might be caused by a bot restart or outage. If you checked the permissions and the bot doesn't answer for more than 10min feel free to contact us on [our support server](https://easyfnstats.com/discord).
 
+### How can I disable certain commands?
+
+Discord recently introduced the [Command Permissions System](https://discord.com/blog/slash-commands-permissions-discord-apps-bots). This allows you to allow or deny specific **Slash Commands** to certain roles, users or channels. To get started go to "Server Settings" -> "Integrations" -> "EasyFortniteStats" and modify the given settings.
+
+![](.gitbook/assets/NVIDIA\_Share\_ZvSuTTiHDu.gif)
+
 ## Stats
 
 ### &#x20;**My account was not found. What can I do?**
