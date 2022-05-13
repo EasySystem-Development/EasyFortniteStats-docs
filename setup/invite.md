@@ -8,17 +8,17 @@ Visit the following site: [https://easyfnstats.com/invite](https://easyfnstats.c
 
 You should now see a menu like this:
 
-![](../.gitbook/assets/brave\_YBpE1iopsY.png)
+![](../.gitbook/assets/brave\_ybpe1iopsy.png)
 
 Now tap or click `Select a server`. A drop-down menu should appear including all servers you got`Manage Server` permissions in. Select the server you want the bot to join. Afterwards click **continue**.
 
-![](../.gitbook/assets/q78Qvg2jx7.gif)
+![](../.gitbook/assets/q78qvg2jx7.gif)
 
 ### Step three
 
 After selecting a server, you should see something like this:
 
-![](../.gitbook/assets/brave\_NF4XimBew5.png)
+![](../.gitbook/assets/brave\_nf4ximbew5.png)
 
 As long you are not experienced with Discord's permissions system, keep all permissions selected.\
 Click the **Authorize** button and complete the **Captcha**. You now should get redirected to [this page](https://docs.easyfnstats.com/invite).
@@ -29,7 +29,7 @@ Click the **Authorize** button and complete the **Captcha**. You now should get 
 
 The main reason for your server not appearing in the drop-down menu is the use of the wrong account. Make sure you're logged into the right account which you can check on the top of the invite screen. You should see your profile picture and Discord tag. If it's the wrong account, press the **Not you?** button.
 
-![](../.gitbook/assets/mQwiyUpVdw.png)
+![](../.gitbook/assets/mqwiyupvdw.png)
 
 ### Discord asks me to verify my e-mail address.
 
@@ -48,7 +48,6 @@ If you like to add a bot to a server you require an account with a verified e-ma
 | Read Message History                    | Automatically Shop, Challenges and Server Status updates                                 |
 | Mention @everyone, @here, and All Roles | Automatically Shop, Challenges, and Server Status updates (when mention role is enabled) |
 | Add reactions                           | All commands with selections                                                             |
-| Use External Emojis                     | Many commands                                                                            |
 | Connect                                 | Fortnite Radio feature                                                                   |
 | Speak                                   | Fortnite Radio feature                                                                   |
 

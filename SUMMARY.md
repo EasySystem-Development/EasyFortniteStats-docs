@@ -7,13 +7,14 @@
 * [Tutorials](tutorials.md)
 * [Upcoming Features](upcoming-features.md)
 
-## Setup Bot Features <a href="setup" id="setup"></a>
+## Setup Bot Features <a href="#setup" id="setup"></a>
 
 * [Invite Bot](setup/invite.md)
 * [Language](setup/language.md)
 * [Item Shop](setup/shop.md)
 * [Challenges](setup/challenges.md)
 * [Server Status](setup/status.md)
+* [Radio](setup/radio.md)
 * [News](setup/news.md)
 * [Nick Stats](setup/nick-stats.md)
 * [Stats](setup/stats.md)

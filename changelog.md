@@ -132,7 +132,7 @@ This update introduces a 3 month transition period from normal Text Commands (eg
 
 * Competitive Stats: Get just your Arena and Tournament matches including Arena Hype, Division, Earnings, and FortniteTracker.com's Power Ranking (`!fn comp`)
 
-![](<.gitbook/assets/Stats Competitive.png>)
+![](.gitbook/assets/stats-competitive.png)
 
 * Seasonal Stats: Only display the stats that you have earned in the current season. (`!fn season`)
 * Season Command: View info on the current season and progress (`!fn seasoninfo`)
@@ -145,7 +145,7 @@ This update introduces a 3 month transition period from normal Text Commands (eg
 
 * Reformatted Stats Image
 
-![](<.gitbook/assets/Stats (1).png>)
+![](<.gitbook/assets/stats (1).png>)
 
 * Moved FAQ to docs (`!fn faq`)
 
@@ -187,7 +187,7 @@ V3 is a complete overhaul of V2. The source code has been 100% re-written and no
   * Bot Lobby rounds are no more counted
 * New Stats image design (`!fn stats`)&#x20;
 
-![New Stats Image Design](.gitbook/assets/Stats.png)
+![New Stats Image Design](.gitbook/assets/stats.png)
 
 * New Item Shop image design (`!fn shop`)
 
