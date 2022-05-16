@@ -22,6 +22,7 @@ Discord extended the Slash Command enforcement until 09/01/2022. Our migration p
 * The `/radio` command can now be used without selecting a radio station in the command itself. Instead a dropdown selection is shown. This is especially useful when just resuming a radio session.
 * The `/radio` menu always shows a dropdown for switching the radio station, instead going trough 2 steps.
 * We fixed a performance lack which should result in better performance and should reduce "Interaction doesn't respond" error messages
+* Improved stats image creation speed
 * Most commands have been enabled in direct messages
 * Selecting a player name and a Discord user at the same time in the `/stats` command now result in an error message for clarification.
 * Improved a few messages to make things more clear
