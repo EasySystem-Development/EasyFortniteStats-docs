@@ -5,18 +5,22 @@
 This patch comes with mostly under the hood changes implementing recently released Discord features.
 
 {% hint style="warning" %}
-Discord extended the Slash Command enforcement until 09/31/2022. Our migration period has been extended until 09/01/2022. This date marks the end of the availability of text commands. (eg.`!fn shop`)
+Discord extended the Slash Command enforcement until 09/01/2022. Our migration period has been extended until 08/01/2022. This date marks the end of the availability of text commands. (eg.`!fn shop`)
 {% endhint %}
 
 ### Additions
 
-* Implemented Discords new [Command Permissions System](https://discord.com/blog/slash-commands-permissions-discord-apps-bots) available under `Server Settings -> Integrations -> EasyFortniteStats`&#x20;
-  *
+* Implemented Discords new [Command Permissions System](https://discord.com/blog/slash-commands-permissions-discord-apps-bots) available under `Server Settings -> Integrations -> EasyFortniteStats`
+  * `/setup`, `/settings`, `/data` commands are only available for members with Manage Server permissions
 
 ### Changes/Improvements
 
 * The stats command's name option now provides a search functionality for Fortnite Player names.
-* The `/radio` command can now be used without selecting a radio station in the command itself. Instead a button selection is shown. This is especially useful when just resuming a radio session.
+  * This function supports searching for EpicGames, Xbox Live and Playstation Network playernames.
+  * EpicGames player IDs are also supported
+  * Alternatively, you can enter a name or ID without selecting an option.
+* The `/radio` command can now be used without selecting a radio station in the command itself. Instead a dropdown selection is shown. This is especially useful when just resuming a radio session.
+* The `/radio` menu always shows a dropdown for switching the radio station, instead going trough 2 steps.
 * We fixed a performance lack which should result in better performance and should reduce "Interaction doesn't respond" error messages
 * Most commands have been enabled in direct messages
 * Selecting a player name and a Discord user at the same time in the `/stats` command now result in an error message for clarification.
@@ -24,8 +28,9 @@ Discord extended the Slash Command enforcement until 09/31/2022. Our migration p
 
 ### Fixes
 
+* Fixed an issue that caused an endless loading state when retrieving your stats or linking your account
 * Premium enabled server wasn't able to use the `/data` server commands.
-* When changing the station in the radio menu the icon of the button wasn't properly updated
+* Fixing issue problems when interaction with the radio menu while bot is disconnected&#x20;
 
 ## V3.3.0 - 2022-02-01
 
