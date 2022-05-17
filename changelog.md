@@ -1,6 +1,6 @@
 # Changelog
 
-## V3.3.1 - 2022-05-XX - BETA
+## V3.3.1 - 2022-05-17
 
 This patch comes with mostly under the hood changes implementing recently released Discord features.
 
