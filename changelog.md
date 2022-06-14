@@ -11,23 +11,24 @@ Discord extended the Slash Command enforcement until 09/01/2022. Our migration p
 ### Additions
 
 * Added `/fn` command which will be suggested by Discord when using the text commands on Desktop.
+* Added support for multi-language for the item shop
 
 ### Changes/Improvements
 
-* Improve player name check when using the stats command without autocomplete
+* Improve player name-check when using the stats command without autocomplete
 
 ### Bugfixes
 
 * **The bot crashed in the past while generating the shop occasionally. This sometimes caused complete bot crashes after a few hours.**
 * Fix `/shop` command if a user set their Discord language to Japanese and Korean
-* Shop image now show Japanese, Korean and Russian characters correctly
+* Shop images now show Japanese, Korean, and Russian characters correctly
 * Fix `/info`, `/server-status`, `/stats`, `/shop`  command in DMs
-* Fix `/radio`, `/nickstats` command being available in DMs. These command now only show up in servers
-* Fix buttons in stats menu sometimes failing
+* Fix `/radio`, `/nickstats` command being available in DMs. These commands now only show up on servers.
+* Fix buttons in the stats menu sometimes failing
 
 ## V3.3.1 - 2022-05-17
 
-This patch comes with mostly under the hood changes implementing recently released Discord features.
+This patch mainly contains under-the-hood changes that implement recently released Discord features.
 
 ### Additions
 
@@ -36,23 +37,23 @@ This patch comes with mostly under the hood changes implementing recently releas
 
 ### Changes/Improvements
 
-* The stats command's name option now provides a search functionality for Fortnite Player names.
-  * This function supports searching for EpicGames, Xbox Live and Playstation Network playernames.
+* The stats command's name option now provides search functionality for Fortnite Player names.
+  * This function supports searching for EpicGames, Xbox Live, and Playstation Network player names.
   * EpicGames player IDs are also supported
   * Alternatively, you can enter a name or ID without selecting an option.
-* The `/radio` command can now be used without selecting a radio station in the command itself. Instead a dropdown selection is shown. This is especially useful when just resuming a radio session.
-* The `/radio` menu always shows a dropdown for switching the radio station, instead going trough 2 steps.
+* The `/radio` command can now be used without selecting a radio station in the command itself. Instead, a dropdown selection is shown. This is especially useful when just resuming a radio session.
+* The `/radio` menu always shows a dropdown for switching the radio station, instead of going through 2 steps.
 * We fixed a performance lack which should result in better performance and should reduce "Interaction doesn't respond" error messages
 * Improved stats image creation speed
 * Most commands have been enabled in direct messages
-* Selecting a player name and a Discord user at the same time in the `/stats` command now result in an error message for clarification.
-* Improved a few messages to make things more clear
+* Selecting a player name and a Discord user at the same time in the `/stats` command now results in an error message for clarification.
+* Improved a few messages to make things clear
 
 ### Fixes
 
 * Fixed an issue that caused an endless loading state when retrieving your stats or linking your account
 * Premium enabled server wasn't able to use the `/data` server commands.
-* Fixing issue problems when interaction with the radio menu while bot is disconnected&#x20;
+* Fixing issue problems when interacting with the radio menu while the bot is disconnected&#x20;
 
 ## V3.3.0 - 2022-02-01
 
