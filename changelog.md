@@ -1,12 +1,33 @@
 # Changelog
 
-## V3.3.1 - 2022-05-17
+## V3.3.2 - 2022-06-15
 
-This patch comes with mostly under the hood changes implementing recently released Discord features.
+This patch is an emergency fix due to recent bot crashes.
 
 {% hint style="warning" %}
 Discord extended the Slash Command enforcement until 09/01/2022. Our migration period has been extended until 08/01/2022. This date marks the end of the availability of text commands. (eg.`!fn shop`)
 {% endhint %}
+
+### Additions
+
+* Added `/fn` command which will be suggested by Discord when using the text commands on Desktop.
+
+### Changes/Improvements
+
+* Improve player name check when using the stats command without autocomplete
+
+### Bugfixes
+
+* **The bot crashed in the past while generating the shop occasionally. This sometimes caused complete bot crashes after a few hours.**
+* Fix `/shop` command if a user set their Discord language to Japanese and Korean
+* Shop image now show Japanese, Korean and Russian characters correctly
+* Fix `/info`, `/server-status`, `/stats`, `/shop`  command in DMs
+* Fix `/radio`, `/nickstats` command being available in DMs. These command now only show up in servers
+* Fix buttons in stats menu sometimes failing
+
+## V3.3.1 - 2022-05-17
+
+This patch comes with mostly under the hood changes implementing recently released Discord features.
 
 ### Additions
 
