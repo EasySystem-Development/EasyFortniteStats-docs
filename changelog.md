@@ -1,5 +1,31 @@
 # Changelog
 
+## V3.4.0 - BETA
+
+This patch is the finalize the migration from prefixed commands (e.g. `!fn shop`) to slash commands (e.g. `/shop`).
+
+### Changes/Improvements
+
+* All mentions of commands are now clickable. When you click on them you can execute the command directly
+* Setting up automatic updates like Item Shop, News, etc. has been temporarily changed to a modal, a popup with 2 text fields. This is a temporary measure while we wait for the already announced dropdown menus that support channel and role selection.
+* Setting custom creator codes now works via a modal, a popup with a text field.
+* Rework `/event` command. It now include better timestamps and includes all events.
+* Improved handling of prompts which require to confirm and possible follow-up messages
+* Improved button menus that cause fewer problems and improve performance
+
+### Fixes
+
+* Fixed error message when activating nick stats although another nick stats type is already enabled
+* Fixed an issue that caused data to not be saved properly, resulting in data loss or delayed availability.
+* Improve overall performance by reducing the high workload caused by background tasks
+* Users who use Portuguese (Brazil) language, some parts of the bot were displayed in normal Portuguese. This issue has been fixed.
+
+### Removals
+
+* All prefixed commands (commands starting with `!fn`, such as `!fn shop`) have been removed. The bot now works exclusively with slash commands
+* Removed support for custom prefixes for premium users. This change is accompanied by the removal of prefixed commands.
+* Remove [discordlist.space](https://discordlist.space) support due to shutdown
+
 ## V3.3.2 - 2022-06-15
 
 This patch is an emergency fix due to recent bot crashes.
