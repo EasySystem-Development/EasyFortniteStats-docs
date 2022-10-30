@@ -50,7 +50,7 @@ The bot asks for the channel where the Server Status should appear. You can eith
 
 ## Enable/Disable Server Status updates
 
-If you already set up the Server Statzs updates you can toggle the function by clicking the first Enable or Disable button.
+If you already set up the Server Status updates you can toggle the function by clicking the first Enable or Disable button.
 
 ![](../.gitbook/assets/9Hu065w2Yo.gif)
 
