@@ -7,9 +7,10 @@ This patch is the finalize the migration from prefixed commands (e.g. `!fn shop`
 ### Changes/Improvements
 
 * All mentions of commands are now clickable. When you click on them you can execute the command directly
-* Setting up automatic updates like Item Shop, News, etc. has been temporarily changed to a modal, a popup with 2 text fields. This is a temporary measure while we wait for the already announced dropdown menus that support channel and role selection.
+* Setting up automatic updates like Item Shop, News, etc. has been temporarily changed to dropdown menus.
 * Setting custom creator codes now works via a modal, a popup with a text field.
 * Rework `/event` command. It now include better timestamps and includes all events.
+* Improved volume selection for radio
 * Improved handling of prompts which require to confirm and possible follow-up messages
 * Improved button menus that cause fewer problems and improve performance
 
