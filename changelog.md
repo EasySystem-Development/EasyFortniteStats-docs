@@ -4,11 +4,26 @@
 
 This patch is the finalize the migration from prefixed commands (e.g. `!fn shop`) to slash commands (e.g. `/shop`).
 
+### Additions
+
+* Added a new `/image` command to manage images for premium custom backgrounds
+
+### Ad
+
 ### Changes/Improvements
 
+* **Reworked Item Shop image:** Item Shop image has been reworked. This now looks similar to the game.
+  * Readability has been improved by decreasing the vertical size accomplished by the new form factor and split
+  * Shop Categories, Bundle discounts and an icon referring to special items had been added
+  * Creator Code visibility has been improved
+
+<figure><img src="https://shop-beta.easyfnstats.com/443432012095946753/2022_12_02_en.png?t=1669939208" alt=""><figcaption></figcaption></figure>
+
+* Item shop image, stats image, season progress bar image and drop image generation speed have been improved
 * All mentions of commands are now clickable. When you click on them you can execute the command directly
 * Setting up automatic updates like Item Shop, News, etc. has been temporarily changed to dropdown menus.
 * Setting custom creator codes now works via a modal, a popup with a text field.
+* Changing premium custom background is now accomplished by a dropdown menu. These image can be managed with `/image`&#x20;
 * Rework `/event` command. It now include better timestamps and includes all events.
 * Improved volume selection for radio
 * Improved handling of prompts which require to confirm and possible follow-up messages
@@ -25,6 +40,7 @@ This patch is the finalize the migration from prefixed commands (e.g. `!fn shop`
 
 * All prefixed commands (commands starting with `!fn`, such as `!fn shop`) have been removed. The bot now works exclusively with slash commands
 * Removed support for custom prefixes for premium users. This change is accompanied by the removal of prefixed commands.
+* Remove Challenge related features
 * Remove [discordlist.space](https://discordlist.space) support due to shutdown
 
 ## V3.3.2 - 2022-06-15
