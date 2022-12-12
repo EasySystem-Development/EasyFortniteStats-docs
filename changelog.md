@@ -8,8 +8,6 @@ This patch is the finalize the migration from prefixed commands (e.g. `!fn shop`
 
 * Added a new `/image` command to manage images for premium custom backgrounds
 
-### Ad
-
 ### Changes/Improvements
 
 * **Reworked Item Shop image:** Item Shop image has been reworked. This now looks similar to the game.
