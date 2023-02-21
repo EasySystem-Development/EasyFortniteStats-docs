@@ -32,7 +32,7 @@ This patch is the finalize the migration from prefixed commands (e.g. `!fn shop`
 
 * Fixed error message when activating nick stats although another nick stats type is already enabled
 * Fixed an issue that caused data to not be saved properly, resulting in data loss or delayed availability
-* Fixed arena hype lookup when a player is in top 10.000 ranking
+* Fixed arena hype lookup
 * Improve overall performance by reducing the high workload caused by background tasks
 * Users who use Portuguese (Brazil) language, some parts of the bot were displayed in normal Portuguese. This issue has been fixed.
 
@@ -40,7 +40,6 @@ This patch is the finalize the migration from prefixed commands (e.g. `!fn shop`
 
 * All prefixed commands (commands starting with `!fn`, such as `!fn shop`) have been removed. The bot now works exclusively with slash commands
 * Removed support for custom prefixes for premium users. This change is accompanied by the removal of prefixed commands.
-* Removed arena hype lookup for people that are not in the top 10.000 ranking due to a restriction enforced by EpicGames
 * Remove Challenge related features
 * Remove [discordlist.space](https://discordlist.space) support due to shutdown
 
