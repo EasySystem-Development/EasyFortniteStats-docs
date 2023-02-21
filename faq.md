@@ -38,7 +38,7 @@ Discord recently introduced the [Command Permissions System](https://discord.com
 
 ### &#x20;**My account was not found. What can I do?**
 
-&#x20;Normally all accounts should be found. First, check if you might have a typo in your name. Also, if you are an Xbox or PlayStation 4 player, you may need to upgrade your Fortnite account on [https://epicgames.com/](https://epicgames.com) to a full EpicGames account.
+&#x20;Normally all accounts should be found. First, check if you might have a typo in your name. Also, if you are an Xbox or PlayStation 4 player, you may need to upgrade your Fortnite account on [https://epicgames.com/](https://epicgames.com/) to a full EpicGames account.
 
 ### &#x20;My stats are wrong. How can this be?
 
@@ -58,7 +58,7 @@ Due to a limitation of EpicGames we are only able to display the Arena Hype of p
 
 ### What is the Power Ranking?
 
-The Power Ranking, created by [Fortnite Tracker](https://fortnitetracker.com), ranks the best players in the competitive field of Fortnite Battle Royale. The ranking is updated automatically every 24 hours and players move up based on their results in tournaments. Each tournament has a certain Tier, which is based on the competitive value of the tournament, the number of players, the format, and the prize pool. More Information [here](https://fortnitetracker.com/article/921/announcement-power-rankings-now-live).
+The Power Ranking, created by [Fortnite Tracker](https://fortnitetracker.com/), ranks the best players in the competitive field of Fortnite Battle Royale. The ranking is updated automatically every 24 hours and players move up based on their results in tournaments. Each tournament has a certain Tier, which is based on the competitive value of the tournament, the number of players, the format, and the prize pool. More Information [here](https://fortnitetracker.com/article/921/announcement-power-rankings-now-live).
 
 ### My Hype, Divison, Earnings, or Power Ranking isn't up to date. How can this be?
 

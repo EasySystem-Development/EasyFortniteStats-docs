@@ -6,6 +6,22 @@ This patch is the finalize the migration from prefixed commands (e.g. `!fn shop`
 
 ### Additions
 
+* Added new Account Management System \[BETA]: This new System allows you to manage your Fortnite Account right from Discord
+  * `/account login` - Login into your Fortnite account
+  * `/account locker` - View your locker items, filter them and check your account value
+  * `/account info` - Get an overview of your account
+  * `/account claim-daily` - Claim your daily Save the World reward
+  * `/account creator-code` - Set your current creator code
+  * `/account shop buy` - Buy an item from the item shop
+  * `/account shop gift` - Gift an item from the item shop to a friend&#x20;
+  * `/account shop undo` - Undo a recent purchase
+  * `/account shop refund` - Refund a purchase using a refund token
+  * `/account friend add` - Add a player as a friend
+  * `/account friend remove` - Refund a purchase using a refund token
+  * More coming soon including: Friends overview, Auto Creator Code, Auto Daily Claiming
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 * Added a new `/image` command to manage images for premium custom backgrounds
 * Added [discordlist.gg](https://discordlist.gg/bot/444203099331231746) support
 
@@ -18,6 +34,7 @@ This patch is the finalize the migration from prefixed commands (e.g. `!fn shop`
 
 <figure><img src="https://shop-beta.easyfnstats.com/443432012095946753/2022_12_02_en.png?t=1669939208" alt=""><figcaption></figcaption></figure>
 
+* Source for cosmetics in `/cosmetics` are now available for almost any item, however just in english
 * Item shop image, stats image, season progress bar image and drop image generation speed have been improved
 * All mentions of commands are now clickable. When you click on them you can execute the command directly
 * Setting up automatic updates like Item Shop, News, etc. has been temporarily changed to dropdown menus.
