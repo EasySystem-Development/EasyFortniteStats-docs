@@ -34,7 +34,7 @@ This patch is the finalize the migration from prefixed commands (e.g. `!fn shop`
 
 <figure><img src="https://shop-beta.easyfnstats.com/443432012095946753/2022_12_02_en.png?t=1669939208" alt=""><figcaption></figcaption></figure>
 
-* Source for cosmetics in `/cosmetics` are now available for almost any item, however just in english
+* Source for cosmetics in `/cosmetics` are now available for almost any item, however just in English
 * Item shop image, stats image, season progress bar image and drop image generation speed have been improved
 * All mentions of commands are now clickable. When you click on them you can execute the command directly
 * Setting up automatic updates like Item Shop, News, etc. has been temporarily changed to dropdown menus.
