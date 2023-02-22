@@ -18,7 +18,7 @@ This patch is the finalize the migration from prefixed commands (e.g. `!fn shop`
   * `/account shop refund` - Refund a purchase using a refund token
   * `/account friend add` - Add a player as a friend
   * `/account friend remove` - Refund a purchase using a refund token
-  * More coming soon including: Friends overview, Auto Creator Code, Auto Daily Claiming
+  * With more coming soon including: Friends overview, Auto Creator Code, Auto Daily Claiming
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 

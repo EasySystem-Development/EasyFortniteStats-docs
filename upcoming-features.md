@@ -1,13 +1,33 @@
 # Upcoming Features
 
-These are the planned features. They are sorted on how likely it is and how soon it gets implemented.
+These are the planned features.
+
+#### Upcoming Update \[V3.4.0]
+
+* Shop image re-design (matching current in-game Design)&#x20;
+* Account Management System&#x20;
+
+#### Next Update
+
+* Account System: Friends overview
+* Account System: Auto Creator Code and Auto Daily Reward Claiming
+* Account System: Code claiming and viewing information
+
+#### Soon
+
+* [Linked Roles](https://discord.com/build/linked-roles): Fortnite Connection
+* Button below Item Shop message for Shop History
+
+#### Near Future
+
+* Competetive Turnement Feed + Placement
+* Overhaul news command with blog entries + Blog entry auto channel
+* Item Shop Reminders + Autobuy for Account System
+* Command translations
+
+#### Unforeseeable future
 
 * Save the World mission alerts
-* Competetive Turnement Feed + Placement
-* Shop image re-design (matching current in-game Design)
-* Button below Item Shop message for Shop History
-* Overhaul news command with blog entries + Blog entry auto channel
 * LTM Updates + Active command
-* Item Shop Reminders
 * Item Shop Voting with global results
 * Weapon Info command
