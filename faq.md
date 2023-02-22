@@ -64,8 +64,6 @@ The Power Ranking, created by [Fortnite Tracker](https://fortnitetracker.com/), 
 
 These values depend on FortniteTracker.com. It may take multiple hours to update your competitive data.&#x20;
 
-
-
 ## NickStats
 
 ### What happens when I change my name?
@@ -79,3 +77,31 @@ The stats value gets updated every 2 hours (1 hour for premium servers) by the b
 ### How do the wins get calculated?
 
 All wins from all rounds where teams are not larger than 4 members are counted. (Excluding rounds with bots)
+
+## Account System \[`/account`]
+
+### How does this system work?
+
+With this feature, you can log into your Fortnite account via the bot. This allows you to manage them trough Discord.&#x20;
+
+Like any other bot with such a function, this one then gets full access to the Fortnite account. This is the only way to provide such features. As a result, you have to trust our bot. In the following section we explain why you can trust us.
+
+### Can I trust EasyFortniteStats?
+
+We would say that EasyFortniteStats is one of the most trustworthy bots for the following reasons:
+
+* EasyFortniteStats has been around since 2018 and has not made any mistakes that would allow unauthorized people to access such data. We have always prioritized our morals throughout these years to provide the best possible experience for our users.
+* We take security seriously. Our server is secured according to the latest security standards. Additionally sensitive data is encrypted with military grade encryption
+* The owner (Luc1412#1412) is working with EpicGames to maintain the Discords bots in the official Fortnite Germany Discord
+* We have decided against possibly higher profits and have included a verification that should restrain account trading with the bot.
+* We inform the users about possible risks and security measures.
+
+### Can I get banned for using it?
+
+There are no known cases in recent years where players have been banned for using such a feature. In very rare cases accounts were deactivated, but these can be reactivated via support. We have also taken measures to prevent this completely.&#x20;
+
+Bans may occur at the most when exploiting bugs with the help of the bot. However, we actively choose not to make such exploits available
+
+### What does \[BETA] mean for this feature?
+
+This feature is currently still in a beta testing phase, although it is available in the normal bot. Currently, we have only been able to test and optimized the feature based on a small number of accounts so far. We can't guarantee that it will work with every account at the moment, so we're making it publicly available for anyone interested so we can improve the bot. However, these errors can only restrict the function of the bot, but cannot cause any damage to your account.
