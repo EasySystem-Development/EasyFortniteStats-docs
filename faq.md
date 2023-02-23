@@ -78,7 +78,7 @@ The stats value gets updated every 2 hours (1 hour for premium servers) by the b
 
 All wins from all rounds where teams are not larger than 4 members are counted. (Excluding rounds with bots)
 
-## Account System \[`/account`]
+## Account System \[`/account`] <a href="#account-system" id="account-system"></a>
 
 ### How does this system work?
 
