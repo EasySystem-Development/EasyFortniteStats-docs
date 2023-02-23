@@ -82,9 +82,7 @@ All wins from all rounds where teams are not larger than 4 members are counted. 
 
 ### How does this system work?
 
-With this feature, you can log into your Fortnite account via the bot. This allows you to manage them trough Discord.&#x20;
-
-Like any other bot with such a function, this one then gets full access to the Fortnite account. This is the only way to provide such features. As a result, you have to trust our bot. In the following section we explain why you can trust us.
+With this feature, you can log into your Fortnite account through the bot. This way, you can manage it via Discord. Like any other bot with such a feature, it will then have full access to the Fortnite account. This is the only way to provide such features. Therefore, you need to trust our bot. In the following section we will explain why you can trust us.
 
 ### Can I trust EasyFortniteStats?
 
