@@ -82,7 +82,11 @@ All wins from all rounds where teams are not larger than 4 members are counted. 
 
 ### How does this system work?
 
-With this feature, you can log into your Fortnite account through the bot. This way, you can manage it via Discord. Like any other bot with such a feature, it will then have full access to the Fortnite account. This is the only way to provide such features. Therefore, you need to trust our bot. In the following section we will explain why you can trust us.
+With this feature, you can log into your Fortnite account through the bot. This way, you can manage it via Discord. Like any other bot with such a feature, it will then have full access to the Fortnite account, as this is the only way to provide such features.&#x20;
+
+This entails the risks that either other&#x20;
+
+The following sections explain why you can trust us and what measures we take to protect you.
 
 ### Can I trust EasyFortniteStats?
 
@@ -96,9 +100,9 @@ We would say that EasyFortniteStats is one of the most trustworthy bots for the 
 
 ### Can I get banned for using it?
 
-There are no known cases in recent years where players have been banned for using such a feature. In very rare cases accounts were deactivated, but these can be reactivated via support. We have also taken measures to prevent this completely.&#x20;
+There are no known cases in recent years where players have been banned for using such a feature. In rare cases, accounts were temporarily disabled or passwords were reset. As long as you have full access to the account and its mail, you can always regain access to the account. We also have taken measures to prevent such annoyances.&#x20;
 
-Bans may occur at the most when exploiting bugs with the help of the bot. However, we actively choose not to make such exploits available
+Bans can be imposed at most if bugs are exploited with the help of the bot (e.g. XP glitches). However, we actively choose not to make such exploits available.
 
 ### What does \[BETA] mean for this feature?
 
