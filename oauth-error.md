@@ -4,7 +4,7 @@ You seem to have landed here because the verification failed. Here are some sugg
 
 ### Wrong linked account
 
-You might link the wrong account. Make sure you own the account which you linked with `!fn link`
+You might link the wrong account. Make sure you own the account which you linked with `/link`.
 
 ### Wrong logged in account
 
