@@ -104,4 +104,6 @@ Bans can be imposed at most if bugs are exploited with the help of the bot (e.g.
 
 ### What does \[BETA] mean for this feature?
 
-This feature is currently still in a beta testing phase, although it is available in the normal bot. Currently, we have only been able to test and optimized the feature based on a small number of accounts so far. We can't guarantee that it will work with every account at the moment, so we're making it publicly available for anyone interested so we can improve the bot. However, these errors can only restrict the function of the bot, but cannot cause any damage to your account.
+This feature is currently still in a beta testing phase, although it is available in the normal bot. This means all features are free to use. In the future we'll lock features behind an affordable premium subscription.
+
+Also currently, we have only been able to test and optimized the feature based on a small number of accounts so far. We can't guarantee that it will work with every account at the moment, so we're making it publicly available for anyone interested so we can improve the bot. However, these errors can only restrict the function of the bot, but cannot cause any damage to your account.
