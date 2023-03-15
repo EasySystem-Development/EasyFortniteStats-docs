@@ -1,6 +1,6 @@
 # Changelog
 
-## V3.4.0 - BETA | ETA: 2023-02
+## V3.4.0 - BETA | ETA: 2023-03
 
 This patch is the finalize the migration from prefixed commands (e.g. `!fn shop`) to slash commands (e.g. `/shop`).
 
@@ -35,6 +35,7 @@ This patch is the finalize the migration from prefixed commands (e.g. `!fn shop`
 <figure><img src="https://shop-beta.easyfnstats.com/443432012095946753/2022_12_02_en.png?t=1669939208" alt=""><figcaption></figcaption></figure>
 
 * Source for cosmetics in `/cosmetics` are now available for almost any item, however just in English
+* Radio stability has been improved. Especially 24/7 mode works now more reliable.
 * Item shop image, stats image, season progress bar image and drop image generation speed have been improved
 * All mentions of commands are now clickable. When you click on them you can execute the command directly
 * Setting up automatic updates like Item Shop, News, etc. has been temporarily changed to dropdown menus.
@@ -52,6 +53,7 @@ This patch is the finalize the migration from prefixed commands (e.g. `!fn shop`
 * Fixed arena hype lookup
 * Improve overall performance by reducing the high workload caused by background tasks
 * Users who use Portuguese (Brazil) language, some parts of the bot were displayed in normal Portuguese. This issue has been fixed.
+* Fixed `/drop` image markers being off due to a change in Season 2
 
 ### Removals
 

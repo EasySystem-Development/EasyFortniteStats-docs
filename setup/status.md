@@ -1,5 +1,9 @@
 # Server Status
 
+## 🔸Premium features
+
+* **Priority Updates** - Receive server status updates in your server up to 10 minutes faster
+
 ## Setup Server Status updates
 
 If you are using the bot for the first time or you have reset the settings, you have to set up the Server Status function for the first time.

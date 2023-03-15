@@ -1,5 +1,9 @@
 # Stats
 
+## 🔸Premium features
+
+* **Custom Background Image** - Use a custom image as background image for the stats. You can select individual images for lifetime/season and competitive stats.
+
 ## Modify Item Shop Settings
 
 First, enter the following command:

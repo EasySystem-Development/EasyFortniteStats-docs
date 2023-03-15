@@ -1,5 +1,9 @@
 # News
 
+## 🔸Premium features
+
+* **Priority Updates** - Receive news posts in your server up to 10 minutes faster
+
 ## Setup News updates
 
 If you are using the bot for the first time or you have reset the settings, you have to set up the News function for the first time.

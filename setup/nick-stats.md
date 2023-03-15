@@ -1,5 +1,10 @@
 # Nick Stats
 
+## 🔸Premium features
+
+* **Faster updates** - Nicks will update every 1 hour instead of every 3 hours
+* **Forbid Changes** - Prevent users from providing fake stats in their name
+
 ## Modify Nick Stats settings
 
 First, enter the following command. It doesn't matter if you like to set up BattlePass Level or Wins:&#x20;
