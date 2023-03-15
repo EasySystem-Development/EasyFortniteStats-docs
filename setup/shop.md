@@ -8,8 +8,8 @@ description: >-
 
 ## 🔸Premium features
 
-* **Priority Updates** - Receive the shop image in your server up to 15 minutes faster
-* **Custom Background Image** - Use a custom image as background image for the shop
+* **Priority Updates** - Receive the item shop image in your server up to 15 minutes faster
+* **Custom Background Image** - Use a custom image as background image for the item shop
 * **No Advertising** - Remove the ad for voting and the bots Creator Code
 * **Custom Support A Creator Code** - Set a custom creator code that is always displayed
 
