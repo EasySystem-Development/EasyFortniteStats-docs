@@ -7,7 +7,7 @@ To start a radio session, simply join a voice channel where the bot also has acc
 ## 🔸Premium features
 
 * **24/7 playback** - The player won't stop, if you leave the channel and also reconnect, after the bot restarts
-* **Volume control** - By default volume is set to 50% to save bandwidth. You will be able to adjust it up to 200%.
+* **Volume control** - By default volume is set to 50% to save bandwidth. You will be able to adjust it up to 200%
 
 ## Permissions and DJ Role
 
