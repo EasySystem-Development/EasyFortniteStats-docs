@@ -37,18 +37,18 @@ If you like to add a bot to a server you require an account with a verified e-ma
 
 ## Which permissions are required for what reason?
 
-| Permission                              | Required by                                                                              |
-| --------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Manage Nicknames                        | NickStats¹                                                                               |
-| Manage Webhooks                         | Automatically Shop, Challenges and Server Status updates                                 |
-| View Audit Log                          | Optional for NickStats¹                                                                  |
-| Send Messages                           | All Commands                                                                             |
-| Manage messages                         | All commands with selections + keep the chat clean                                       |
-| Embed Links                             | Almost every command                                                                     |
-| Read Message History                    | Automatically Shop, Challenges and Server Status updates                                 |
-| Mention @everyone, @here, and All Roles | Automatically Shop, Challenges, and Server Status updates (when mention role is enabled) |
-| Add reactions                           | All commands with selections                                                             |
-| Connect                                 | Fortnite Radio feature                                                                   |
-| Speak                                   | Fortnite Radio feature                                                                   |
+| Manage Nicknames                        | NickStats¹                                                                         |
+| --------------------------------------- | ---------------------------------------------------------------------------------- |
+| Manage Webhooks                         | Automatically Shop, Challenges and Server Status updates                           |
+| View Audit Log                          | Optional for NickStats¹                                                            |
+| Send Messages (in Threads)              | All Commands                                                                       |
+| Embed Links                             | Almost every command                                                               |
+| Attach Files                            | Few commands upload files like images                                              |
+| Read Message History                    | Automatically Shop, Challenges and Server Status updates                           |
+| Mention @everyone, @here, and All Roles | Automatically Shop, News, and Server Status updates (when mention role is enabled) |
+| Use External Emojis                     | Many commands, for a better visual experience                                      |
+| Connect                                 | Fortnite Radio feature                                                             |
+| Speak                                   | Fortnite Radio feature                                                             |
+| Defean Members                          | Fortnite Radio feature                                                             |
 
 ¹ Members can set their BattlePass level or wins in their nickname
