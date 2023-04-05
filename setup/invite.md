@@ -41,7 +41,8 @@ If you like to add a bot to a server you require an account with a verified e-ma
 | --------------------------------------- | ---------------------------------------------------------------------------------- |
 | Manage Webhooks                         | Automatically Shop, Challenges and Server Status updates                           |
 | View Audit Log                          | Optional for NickStats¹                                                            |
-| Send Messages (in Threads)              | All Commands                                                                       |
+| Read Messages                           | Optional for some interactions                                                     |
+| Send Messages (in Threads)              | Optional for some interactions                                                     |
 | Embed Links                             | Almost every command                                                               |
 | Attach Files                            | Few commands upload files like images                                              |
 | Read Message History                    | Automatically Shop, Challenges and Server Status updates                           |
