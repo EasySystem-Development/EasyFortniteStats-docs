@@ -20,7 +20,7 @@ This patch is the finalize the migration from prefixed commands (e.g. `!fn shop`
   * `/account friend remove` - Refund a purchase using a refund token
   * With more coming soon including: Friends overview, Auto Creator Code, Auto Daily Claiming
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Added new `/player-count` command that's displays the current and past player count history
 
