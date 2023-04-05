@@ -22,7 +22,7 @@ This patch is the finalize the migration from prefixed commands (e.g. `!fn shop`
 
 <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-* Added new /player-count command that's displays the current and past player count history
+* Added new `/player-count` command that's displays the current and past player count history
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
