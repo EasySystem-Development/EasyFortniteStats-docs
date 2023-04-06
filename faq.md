@@ -18,10 +18,6 @@ You only need to type `/` in the chat window, which opens a menu with all availa
 
 Users may not be able to use slash commands in this channel. For this, the users who should be able to use the commands must get the **Use Application Commands** permissions.&#x20;
 
-#### Slash Commands disabled
-
-It may be that when the bot was invited, it was not given all the requested permissions. This blocks them from creating Slash Commands. A server administrator must then [re-invite the bot](setup/invite.md).
-
 ### The bot doesn't respond, what can I do?
 
 In most cases, this issue is caused by the wrong permission setup. The Bot requires 'View Channel' permissions in the channel you like to use the bot. If you are inexperienced you might grant Administrator permissions.
