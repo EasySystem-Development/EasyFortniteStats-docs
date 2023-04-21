@@ -2,7 +2,7 @@
 
 These are the planned features.
 
-#### Upcoming Update \[V3.4.0]
+#### Just Implemented \[V3.4.0]
 
 * Shop image re-design (matching current in-game Design)&#x20;
 * Account Management System&#x20;

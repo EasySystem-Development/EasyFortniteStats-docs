@@ -1,6 +1,6 @@
 # Changelog
 
-## V3.4.0 - BETA | ETA: 2023-03
+## V3.4.0 - 2023-04-21
 
 This patch is the finalize the migration from prefixed commands (e.g. `!fn shop`) to slash commands (e.g. `/shop`).
 
