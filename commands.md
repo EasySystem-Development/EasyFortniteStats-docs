@@ -70,11 +70,12 @@ The command list can be accessed with `/help`.&#x20;
 
 ## Vote & Review Commands
 
-| Command   | Description                                               |
-| --------- | --------------------------------------------------------- |
-| Command   | Description                                               |
-| `/vote`   | Display vote instructions and check vote status.          |
-| `/review` | Display information on how to write a review for the bot. |
+| Command         | Description                                               |
+| --------------- | --------------------------------------------------------- |
+| Command         | Description                                               |
+| `/vote`         | Display vote instructions and check vote status.          |
+| `/review`       | Display information on how to write a review for the bot. |
+| `/player-count` | Display statistics about the Fortnite player count.       |
 
 ## Premium Commands
 
@@ -98,6 +99,9 @@ The command list can be accessed with `/help`.&#x20;
 
 ## Settings
 
-| Command     | Description                |
-| ----------- | -------------------------- |
-| `/settings` | Manage the bot's settings. |
+| Command         | Description                 |
+| --------------- | --------------------------- |
+| `/settings`     | Manage the bot's settings.  |
+| `/image upload` | Upload an image to the bot. |
+| `/image delete` | Delete an uploaded image.   |
+| `/image list`   | List all uploaded images    |
