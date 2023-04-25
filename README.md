@@ -1,6 +1,6 @@
 # Welcome to EasyFortniteStats
 
-EasyFortniteStats is the ultimate, feature-rich Fortnite Discord Bot which benefits your Fortnite or Gaming Community and is trusted by more than 50,000 Discord Server.
+EasyFortniteStats is the ultimate, feature-rich Fortnite Discord Bot which benefits your Fortnite or Gaming Community and is trusted by more than 60,000 Discord Server.
 
 ### Get Started with inviting the bot:
 
