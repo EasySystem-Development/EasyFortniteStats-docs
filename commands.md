@@ -26,13 +26,6 @@ The command list can be accessed with `/help`.&#x20;
 | `/shop`       | Display the current in-game item shop.   |
 | `/setup shop` | Setup and modify the item shop settings. |
 
-## Challenges Commands
-
-| Command             | Description                               |
-| ------------------- | ----------------------------------------- |
-| `/challenges`       | Display help for the weekly challenges.   |
-| `/setup challenges` | Setup and modify the challenges settings. |
-
 ## News Commands
 
 | Command       | Description                         |
