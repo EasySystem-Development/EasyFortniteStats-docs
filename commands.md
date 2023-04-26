@@ -19,7 +19,26 @@ The command list can be accessed with `/help`.&#x20;
 | `/nickstats`         | Show off your stats in your nickname.                       |
 | `/setup stats`       | Setup and modify the stats settings.                        |
 
-## Shop Settings
+## Account Commands
+
+| Command                   | Description                                                                       |
+| ------------------------- | --------------------------------------------------------------------------------- |
+| `/account login`          | Login into your Fortnite account.                                                 |
+| `/account logout`         | Logout of your Fortnite account.                                                  |
+| `/account logout-all`     | Logout of all devices. This can be useful when your account has been compromised. |
+| `/account locker`         | View your account locker.                                                         |
+| `/account info`           | View your profile including V-Bucks.                                              |
+| `/account claim-daily`    | Collect your daily Save the World rewards.                                        |
+| `/account shop buy`       | Buy an item from the item shop.                                                   |
+| `/account shop gift`      | Gift an item to a friend.                                                         |
+| `/account shop undo`      | Undo the last purchase you made from the item shop.                               |
+| `/account shop refund`    | Refund a purchase you bought from the item shop. Some require a refund token.     |
+| `/account friends add`    | Add a player as a friend or accept their friend request.                          |
+| `/account friends remove` | Remove a friend or reject their friend request.                                   |
+| `/account platform`       | Change your V-Bucks platform.                                                     |
+| `/account creator-code`   | Set your creator code.                                                            |
+
+## Shop Commands
 
 | Command       | Description                              |
 | ------------- | ---------------------------------------- |
@@ -55,20 +74,20 @@ The command list can be accessed with `/help`.&#x20;
 
 ## Misc Commands
 
-| Command     | Description                                     |
-| ----------- | ----------------------------------------------- |
-| `/cosmetic` | Get information about in-game cosmetics.        |
-| `/season`   | Display the progress of the current season.     |
-| `/event`    | Display all in-game events with video playback. |
+| Command         | Description                                         |
+| --------------- | --------------------------------------------------- |
+| `/cosmetic`     | Get information about in-game cosmetics.            |
+| `/season`       | Display the progress of the current season.         |
+| `/event`        | Display all in-game events with video playback.     |
+| `/player-count` | Display statistics about the Fortnite player count. |
 
 ## Vote & Review Commands
 
-| Command         | Description                                               |
-| --------------- | --------------------------------------------------------- |
-| Command         | Description                                               |
-| `/vote`         | Display vote instructions and check vote status.          |
-| `/review`       | Display information on how to write a review for the bot. |
-| `/player-count` | Display statistics about the Fortnite player count.       |
+| Command   | Description                                               |
+| --------- | --------------------------------------------------------- |
+| Command   | Description                                               |
+| `/vote`   | Display vote instructions and check vote status.          |
+| `/review` | Display information on how to write a review for the bot. |
 
 ## Premium Commands
 
@@ -80,15 +99,15 @@ The command list can be accessed with `/help`.&#x20;
 
 ## Bot Info Commands
 
-| Command              | Description                                           |
-| -------------------- | ----------------------------------------------------- |
-| `/info`              | Display general information and stats about this bot. |
-| `/cluster`           | Display information about the bot's clusters.         |
-| `/invite`            | Show the invite link of the bot.                      |
-| `/data guild get`    | Receive data saved by the bot from your server.       |
-| `/data guild delete` | Delete data saved by the bot from your server.        |
-| `/data user get`     | Receive data saved by the bot from your user account. |
-| `/data user delete`  | Delete data saved by the bot from your user account.  |
+| Command               | Description                                           |
+| --------------------- | ----------------------------------------------------- |
+| `/info`               | Display general information and stats about this bot. |
+| `/cluster`            | Display information about the bot's clusters.         |
+| `/invite`             | Show the invite link of the bot.                      |
+| `/data server get`    | Receive data saved by the bot from your server.       |
+| `/data server delete` | Delete data saved by the bot from your server.        |
+| `/data user get`      | Receive data saved by the bot from your user account. |
+| `/data user delete`   | Delete data saved by the bot from your user account.  |
 
 ## Settings
 
