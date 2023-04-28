@@ -51,45 +51,33 @@ In addition, you can select a role that should always be mentioned when a new it
 
 ### :small\_orange\_diamond:Background Image \[Premium only]
 
-The bot asks for a background. You need to upload a file wich fulfill the following criteria:
+You might want to select a custom background image for the item shop. Therefore you first need to upload an image with `/image upload`. If it falls below the maximum image size specified below, you can select it.&#x20;
 
 * Image Format: `.png`, `.jpg` and `jpeg`
-* Recommended Image Resolution: `1896x1321` - `1896x14666`
+* Recommended Image Resolution: The resolution of the image may differ a lot. The bot will automatically resize the image to fit the card, so high resolution images are recommended.
 * Max. image size: `5MB`
 
-&#x20;Send a message just including the image.
+<figure><img src="../.gitbook/assets/DiscordPTB_fTmFaorU58.gif" alt=""><figcaption><p>Setting a custom Background Image</p></figcaption></figure>
 
-![](../.gitbook/assets/CEYmUTmZC0.gif)
-
-#### Possible Errors
-
-* **Invalid Image Format •** Your provided image has is no valid image format
-* **Image too large •** The image size is larger than the given limit
+You can also deselect the image from the dropdown menu, which will disable the custom background image.
 
 ### :small\_orange\_diamond:Creator Code \[Premium only]&#x20;
 
-The bot asks for a creator code. The code has to be valid and enabled.
+As a premium member, the bots Creator Code will be hidden from the Item Shop image. You my also want to provide your own Creator Code. After Clicking the Creator Code Button, a popup will appear where you can enter the Code in a text field.
 
-![](../.gitbook/assets/nvsvmrhFLs.gif)
+<figure><img src="../.gitbook/assets/DiscordPTB_361ln6Y1RV.gif" alt=""><figcaption></figcaption></figure>
 
 #### Possible Errors
 
 * **Creator Code not found •** The given creator code either doesn't exist or is not active&#x20;
 
+Once a Creator Code has been set, the popup always show the current code in the text field. You can disable the code by removing the code from the text field and submitting it.
+
 ## Enable/Disable Item Shop updates
 
-If you already set up the Item Shop updates you can toggle the function by clicking the first Enable or Disable button.
+You can disable or enable Item Shop posts while keeping all settings. Just click the Enable or Disable button
 
-![](../.gitbook/assets/09jJYsBX3a.gif)
+* If the green Disable button is shown, Item Shop posts are currently active
+* If the red Enable button is shown, Item Shop posts are currently disabled
 
-## Reset Settings
-
-You can reset the following settings:
-
-* Mention Role
-* Background
-* Creator Code
-
-You first need to select the setting and press the red Reset button.
-
-You can also reset all settings when you press the button in the settings selection.
+<figure><img src="../.gitbook/assets/DiscordPTB_LtgZ7cnwCf.gif" alt=""><figcaption></figcaption></figure>
