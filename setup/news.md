@@ -22,7 +22,7 @@ Now you need to **select** at least one **channel** where the News will be broad
 
 You can set a channel by selecting it from the dropdown menu:
 
-
+<figure><img src="../.gitbook/assets/DiscordPTB_xTHyCdyCwV.gif" alt=""><figcaption><p>Set News Channel</p></figcaption></figure>
 
 #### Possible Errors
 
@@ -33,13 +33,9 @@ Once you have selected a channel, the news are set up. It should now appear in t
 
 ### Set Mention Role
 
-The bot asks for a mention role. You can either enter the role **name**, role **mention** #channel or insert the role **ID**. Please send a message just including this information
-
-### Set Mention Role
-
 In addition, you can select a role that should always be mentioned when a new news post appears. This can be selected via the second dropdown menu as follows:
 
-
+<figure><img src="../.gitbook/assets/DiscordPTB_jeQ6EEJRKF (1).gif" alt=""><figcaption><p>Set News Mention Role</p></figcaption></figure>
 
 #### Possible Errors
 
@@ -53,3 +49,4 @@ You can disable or enable News posts while keeping all settings. Just click the 
 * If the green Disable button is shown, News posts are currently active
 * If the red Enable button is shown, News posts are currently disabled
 
+<figure><img src="../.gitbook/assets/DiscordPTB_PYwH5fRT8O.gif" alt=""><figcaption><p>Enable/Disable News</p></figcaption></figure>
