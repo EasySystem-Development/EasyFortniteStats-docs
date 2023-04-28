@@ -14,6 +14,6 @@ To start a radio session, simply join a voice channel where the bot also has acc
 By default, the currently active player is owned by the player who started it. Additionally all users with `Administrator` or `Manage Server` permission can also interact with the player. Furthermore a role named `Fortnite Radio` (name isn't case sensitive) is also able to control the player at any time.
 
 {% hint style="info" %}
-If only team members should be able to access the radio, for example, because it runs in 24/7 mode, all users should have their permissions removed for the /radio slash command.
+If only team members should be able to access the radio, for example, because it runs in 24/7 mode, all users should have their permissions removed for the `/radio slash` command.
 {% endhint %}
 

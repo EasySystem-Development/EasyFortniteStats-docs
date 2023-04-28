@@ -36,7 +36,7 @@ You can set a channel by selecting it from the dropdown menu:
 * **Missing permissions** **•** The Bot missing permissions. The bot shows you which ones are missing. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to set up permissions.
 * **Too Many Webhooks** **•** The selected channel got too many webhooks. You need to delete at least one in the channel settings.
 
-Once you have selected a channel, the item store is set up. It should now appear in the selected channel.
+Once you have selected a channel, the item shop is set up. It should now appear in the selected channel.
 
 ### Set Mention Role
 
@@ -73,11 +73,11 @@ As a premium member, the bots Creator Code will be hidden from the Item Shop ima
 
 Once a Creator Code has been set, the popup always show the current code in the text field. You can disable the code by removing the code from the text field and submitting it.
 
-## Enable/Disable Item Shop updates
+### Enable/Disable Item Shop updates
 
 You can disable or enable Item Shop posts while keeping all settings. Just click the Enable or Disable button
 
-* If the green Disable button is shown, Item Shop posts are currently active
-* If the red Enable button is shown, Item Shop posts are currently disabled
+* If the green Disable button is shown, Server Status posts are currently active
+* If the red Enable button is shown, Server Status posts are currently disabled
 
 <figure><img src="../.gitbook/assets/DiscordPTB_LtgZ7cnwCf.gif" alt=""><figcaption></figcaption></figure>
