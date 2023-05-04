@@ -12,7 +12,7 @@ These are the planned features.
 * Account System: Friends overview
 * Account System: Auto Creator Code and Auto Daily Reward Claiming
 * Account System: Code claiming and viewing information
-* `/account info`: Ban Information
+* `/account info`: Ban Information, XP Information
 * `/player-count`: more timewindows including 1 Month, 1 Year
 
 #### Soon
