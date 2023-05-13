@@ -103,3 +103,15 @@ Bans can be imposed at most if bugs are exploited with the help of the bot (e.g.
 This feature is currently still in a beta testing phase, although it is available in the normal bot. This means all features are free to use. In the future we'll lock features behind an affordable premium subscription.
 
 Also currently, we have only been able to test and optimized the feature based on a small number of accounts so far. We can't guarantee that it will work with every account at the moment, so we're making it publicly available for anyone interested so we can improve the bot. However, these errors can only restrict the function of the bot, but cannot cause any damage to your account.
+
+### How do we handle our Creator Code?
+
+We're pleased to advertise our Creator Code through the account feature. We appreciate every user who supports us as the costs associated with this feature have increased. Our Creator Code is only set with the user's knowledge and consent in the following scenarios:
+
+* After the user logs in with `/account login` and confirms their consent
+* If the user confirms their consent before purchasing or gifting items using the `/account shop` command, and only if no other code has been set
+* If the user selects our code using the `/account creator-code` command
+* If the code has expired and our code was the last one used, it will be renewed&#x20;
+
+We prioritize transparency and user consent in all aspects of our platform and strive to provide a seamless and enjoyable experience for all users.
+
