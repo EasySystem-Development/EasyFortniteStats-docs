@@ -7,14 +7,19 @@ These are the planned features.
 * Shop image re-design (matching current in-game Design)&#x20;
 * Account Management System&#x20;
 
+#### Upcoming Update \[V3.4.1]
+
+* Account System: Buy BattlePass and Levels
+
 #### Next Update
 
 * Account System: Friends overview
-* Account System: Auto Creator Code and Auto Daily Reward Claiming
+* Account System: Auto Creator Code and Auto Daily Reward Claiming (Premium)
 * Account System: Code claiming and viewing information
-* Account System: Buy BattlePass, Battle Stars
+* Account System: Creator Code earnings Stats (Premium)
 * `/account info`: Ban Information, XP Information
-* `/player-count`: more timewindows including 1 Month, 1 Year
+* `/account creator-code`: Creator code search support
+* `/player-count`: more time windows including 1 Month, 1 Year
 
 #### Soon
 
