@@ -4,7 +4,7 @@
 
 ## Additions
 
-* Added new commands to purchase the Battle Pass and additional&#x20;
+* Added new commands to purchase the Battle Pass and additional  levels:
   * `/account battlepass buy` - Purchase the Battle Pass or the Battle Bundle (Battle Pass + 25 levels)
   * `/account battlepass buy-levels` - Purchase addional Battle Pass levels. Discounts like the 25 level bundle get applied automatically
 
