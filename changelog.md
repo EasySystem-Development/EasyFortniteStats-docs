@@ -1,5 +1,18 @@
 # Changelog
 
+## V3.4.1 - 2023-06-09 \[BETA]
+
+## Additions
+
+* Added new commands to purchase the Battle Pass and additional&#x20;
+  * `/account battlepass buy` - Purchase the Battle Pass or the Battle Bundle (Battle Pass + 25 levels)
+  * `/account battlepass buy-levels` - Purchase addional Battle Pass levels. Discounts like the 25 level bundle get applied automatically
+
+### Fixes
+
+* During the first few weeks after the V3.4.0 release we deployed more than 50 fixes for the new released account system. Currently it already works pretty well with some minor quirks
+* We fixed the text when gifting an item with `/account shop gift`
+
 ## V3.4.0 - 2023-04-21
 
 This patch is the finalize the migration from prefixed commands (e.g. `!fn shop`) to slash commands (e.g. `/shop`).
@@ -20,7 +33,11 @@ This patch is the finalize the migration from prefixed commands (e.g. `!fn shop`
   * `/account friend remove` - Refund a purchase using a refund token
   * With more coming soon including: Friends overview, Auto Creator Code, Auto Daily Claiming
 
+<div align="center">
+
 <figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 * Added new `/player-count` command that's displays the current and past player count history
 
