@@ -16,11 +16,13 @@
   * Level progress bar that shows the current XP
   * Information about current and past bans
   * Simplification of the Season section&#x20;
+* Simplify response for `/data server get` and `/data user get`
 
 ### Fixes
 
 * During the first few weeks after the V3.4.0 release we deployed more than 50 fixes for the new released account system. Currently it already works pretty well with some minor quirks
-* We fixed the text when gifting an item with `/account shop gift`
+* Fixed the text when gifting an item with `/account shop gift`
+* Fixed `/data user get` for users that are logged in in the account system
 
 ## V3.4.0 - 2023-04-21
 
