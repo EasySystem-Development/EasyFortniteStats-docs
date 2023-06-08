@@ -1,6 +1,6 @@
 # Changelog
 
-## V3.4.1 - 2023-06-09 \[BETA]
+## V3.4.1 - ETA: 2023-06-09 \[BETA]
 
 ## Additions
 
