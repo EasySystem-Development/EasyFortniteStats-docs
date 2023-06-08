@@ -4,9 +4,18 @@
 
 ## Additions
 
-* Added new commands to purchase the Battle Pass and additional  levels:
+* Added new commands to purchase the Battle Pass and additional levels:
   * `/account battlepass buy` - Purchase the Battle Pass or the Battle Bundle (Battle Pass + 25 levels)
   * `/account battlepass buy-levels` - Purchase addional Battle Pass levels. Discounts like the 25 level bundle get applied automatically
+
+### Changes/Improvements
+
+* The `/account info` got updated including:
+  * Information about Supercharged XP
+  * Amount of  purchased BattlePass levels
+  * Level progress bar that shows the current XP
+  * Information about current and past bans
+  * Simplification of the Season section&#x20;
 
 ### Fixes
 
