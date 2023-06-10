@@ -23,6 +23,8 @@
 * During the first few weeks after the V3.4.0 release we deployed more than 50 fixes for the new released account system. Currently it already works pretty well with some minor quirks
 * Fixed the text when gifting an item with `/account shop gift`
 * Fixed `/data user get` for users that are logged in in the account system
+* Fixed issues with Gift History and friend name autocomplete
+* Fixed error which appeared in some cases when purchasing something, but missing vbucks
 
 ## V3.4.0 - 2023-04-21
 
