@@ -17,6 +17,7 @@
   * Information about current and past bans
   * Simplification of the Season section&#x20;
 * Simplify response for `/data server get` and `/data user get`
+* Volume selection is now persistent in the radio menu, instead of being hidden behind a button
 
 ### Fixes
 
