@@ -26,6 +26,8 @@
 * Fixed `/data user get` for users that are logged in in the account system
 * Fixed issues with Gift History and friend name autocomplete
 * Fixed error which appeared in some cases when purchasing something, but missing vbucks
+* Fixed issue when gifting items
+* Fixed issue that friend related commands doesn't work
 
 ## V3.4.0 - 2023-04-21
 
