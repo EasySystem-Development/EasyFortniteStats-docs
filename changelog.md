@@ -4,25 +4,26 @@
 
 ## Additions
 
-* Added new commands to purchase the Battle Pass and additional levels:
-  * `/account battlepass buy` - Purchase the Battle Pass or the Battle Bundle (Battle Pass + 25 levels)
-  * `/account battlepass buy-levels` - Purchase addional Battle Pass levels. Discounts like the 25 level bundle get applied automatically
+* Introduced new commands for Battle Pass and additional levels:
+  * `/account battlepass buy`: Purchase the Battle Pass or the Battle Bundle (Battle Pass + 25 levels)
+  * `/account battlepass buy-levels`: Purchase additional Battle Pass levels. Discounts, like the 25 level bundle, are automatically applied
 
 ### Changes/Improvements
 
-* The `/account info` got updated including:
-  * Information about Supercharged XP
-  * Amount of  purchased BattlePass levels
-  * Level progress bar that shows the current XP
-  * Information about current and past bans
-  * Simplification of the Season section&#x20;
-* Simplify response for `/data server get` and `/data user get`
-* Volume selection is now persistent in the radio menu, instead of being hidden behind a button
+* Updated`/account info`:
+  * Added information about Supercharged XP
+  * Included the number of purchased Battle Pass levels
+  * Added a level progress bar to display the current XP
+  * Provided information about current and past bans
+  * Simplified the Season section&#x20;
+* Simplified responses for the `/data server get` and `/data user get` commands
+* Made volume selection persistent in the radio menu, eliminating the need for a separate button
+* The Bot now displays users who choose a new username without the `#0` at the end
 
 ### Fixes
 
-* During the first few weeks after the V3.4.0 release we deployed more than 50 fixes for the new released account system. Currently it already works pretty well with some minor quirks
-* Fixed the text when gifting an item with `/account shop gift`
+* Deployed over 50 fixes for the new account system introduced in V3.4.0. The system now works well with only minor quirks
+* Fixed the text in `/account shop gift` command when gifting an item.
 * Fixed `/data user get` for users that are logged in in the account system
 * Fixed issues with Gift History and friend name autocomplete
 * Fixed error which appeared in some cases when purchasing something, but missing vbucks
