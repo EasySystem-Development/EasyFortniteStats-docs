@@ -23,12 +23,13 @@
 ### Fixes
 
 * Deployed over 50 fixes for the new account system introduced in V3.4.0. The system now works well with only minor quirks
+* Fixed a major issue that could blocked users from accessing any `/account` command for an hour
+* Fixed issue that friend related commands autocomplete doesn't work, which prevented users from accessing these
+* Fixed issue that prevent users from gifting items, due to a bugged gift wrap selection
 * Fixed the text in `/account shop gift` command when gifting an item.
-* Fixed `/data user get` for users that are logged in in the account system
-* Fixed issues with Gift History and friend name autocomplete
-* Fixed error which appeared in some cases when purchasing something, but missing vbucks
-* Fixed issue when gifting items
-* Fixed issue that friend related commands doesn't work
+* Fixed `/data user get` for users that are logged in to the account system
+* Fixed issues with the Gift History in `/account info`
+* Fixed error which appeared in some cases when purchasing something with an insufficient amount of V-Bucks
 
 ## V3.4.0 - 2023-04-21
 
