@@ -1,6 +1,8 @@
 # Changelog
 
-## V3.4.1 - ETA: 2023-06-09 \[BETA]
+## V3.4.1 - ETA: 2023-06-09
+
+This updates focuses on Bugfixes and Improvements for the recently introduced Account System
 
 ## Additions
 
