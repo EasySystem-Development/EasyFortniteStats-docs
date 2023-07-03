@@ -1,5 +1,15 @@
 # Changelog
 
+## V3.4.2 - 2023-07-XX \[BETA]
+
+### Additions
+
+* Implement new Ranked Stats:
+  * Build and Zero Build Rank with progress
+  * Unreal Global Ranking
+  * Lifetime Competitive Stats including: Ranked Stats, Tournament Stats, Legacy Arena Stats
+* Added new location option for `/drop` command&#x20;
+
 ## V3.4.1 - 2023-06-09
 
 This updates focuses on Bugfixes and Improvements for the recently introduced Account System
