@@ -4,7 +4,7 @@
 
 ### Additions
 
-* Implement new Ranked Stats:
+* Implemented new Ranked Stats:
   * Build and Zero Build Rank with progress
   * Unreal Global Ranking
   * Lifetime Competitive Stats including: Ranked Stats, Tournament Stats, Legacy Arena Stats
