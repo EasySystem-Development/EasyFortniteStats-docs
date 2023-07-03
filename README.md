@@ -1,10 +1,22 @@
 ---
-layout: landing
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # Welcome to EasyFortniteStats
 
 EasyFortniteStats is the ultimate, feature-rich Fortnite Discord Bot which benefits your Fortnite or Gaming Community and is trusted by more than 60,000 Discord Server.
+
+<figure><img src=".gitbook/assets/Frame 3.png" alt=""><figcaption></figcaption></figure>
 
 ### Get Started with inviting the bot:
 

@@ -1,3 +1,7 @@
+---
+layout: landing
+---
+
 # Thanks for inviting EasyFortniteStats
 
 #### You have successfully invited EasyFortniteStats!&#x20;

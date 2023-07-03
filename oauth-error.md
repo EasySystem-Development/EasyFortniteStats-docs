@@ -1,3 +1,7 @@
+---
+layout: landing
+---
+
 # How to solve verification issues
 
 You seem to have landed here because the verification failed. Here are some suggested solutions for verification problems.
