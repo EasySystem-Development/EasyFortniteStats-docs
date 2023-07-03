@@ -7,11 +7,11 @@
 * Implemented new Ranked Stats:
   * Build and Zero Build Rank with progress
   * Unreal Global Ranking
-  * Lifetime Competitive Stats including: Ranked Stats, Tournament Stats, Legacy Arena Stats
+  * Lifetime Competitive Stats now includes: Ranked Stats, Tournament Stats, Legacy Arena Stats
 
-<figure><img src=".gitbook/assets/CleanShot 2023-07-03 at 23.49.16@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/CleanShot 2023-07-03 at 23.49.16@2x.png" alt=""><figcaption><p>New Competitive Stats including Ranked</p></figcaption></figure>
 
-* Added new location option for `/drop` command&#x20;
+* Added new location option for `/drop` command to only select named locations
 
 ## V3.4.1 - 2023-06-09
 
