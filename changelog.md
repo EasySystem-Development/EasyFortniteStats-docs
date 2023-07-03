@@ -8,6 +8,9 @@
   * Build and Zero Build Rank with progress
   * Unreal Global Ranking
   * Lifetime Competitive Stats including: Ranked Stats, Tournament Stats, Legacy Arena Stats
+
+<figure><img src=".gitbook/assets/CleanShot 2023-07-03 at 23.49.16@2x.png" alt=""><figcaption></figcaption></figure>
+
 * Added new location option for `/drop` command&#x20;
 
 ## V3.4.1 - 2023-06-09
