@@ -2,12 +2,7 @@
 
 These are the planned features.
 
-#### Just Implemented \[V3.4.0]
-
-* Shop image re-design (matching current in-game Design)&#x20;
-* Account Management System&#x20;
-
-#### Upcoming Update \[V3.4.1] (available in Beta)
+#### Just Implemented \[V3.4.1]
 
 * Account System: Buy BattlePass and Levels
 
