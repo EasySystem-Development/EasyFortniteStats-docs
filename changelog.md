@@ -1,17 +1,38 @@
 # Changelog
 
-## V3.4.2 - 2023-07-XX \[BETA]
+## V3.4.2 - 2023-08-XX \[BETA]
 
 ### Additions
 
-* Implemented new Ranked Stats:
-  * Build and Zero Build Rank with progress
+* **New Ranked Stats:**
+  * Build and Zero Build Rank with progress tracking
   * Unreal Global Ranking
-  * Lifetime Competitive Stats now includes: Ranked Stats, Tournament Stats, Legacy Arena Stats
+  * Lifetime Competitive Stats expansion: now includes Ranked Stats, Tournament Stats, and Legacy Arena Stats.
 
 <figure><img src=".gitbook/assets/CleanShot 2023-07-03 at 23.49.16@2x.png" alt=""><figcaption><p>New Competitive Stats including Ranked</p></figcaption></figure>
 
-* Added new location option for `/drop` command to only select named locations
+* **Discord App Premium Integration:**
+  * Subscription is now available both via the Bot's profile and the [App Directory](https://ptb.discord.com/application-directory/444203099331231746)
+  * ubscription pricing remains the same ($5 + tax). However, a $0.5 discount is applied on Patreon to offset fees
+  * Enhanced view for the Premium overview
+* Added a feature to the `/drop` command: users can now choose only named locations. _\[Suggested by `@fhl09`]_
+
+### Changes/Improvements
+
+*   **Stats Commands Overhaul:**
+
+    * Stats commands now mandatorily require the `player` option. This lets users select the linked account or Discord user or search for a player.
+    * The input type option and pre-selection has been removed, instead the accumulated Global input is selected by default
+
+    **Streamlined Account Linking:**
+
+    * The Link and Verify processes have been merged into a single system. Users simply need to open the EpicGames verification page.
+* Disabled the account verification feature in the account system due to its confusing nature and potential misuse by account traders.
+* The `/cosmetics` command's shop history now groups consecutive days, offering a clearer overview.
+
+### Fixes
+
+* Resolved an error encountered when using `/account refund` and `/account undo` if a user had no recent purchases.
 
 ## V3.4.1 - 2023-06-09
 
