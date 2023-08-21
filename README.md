@@ -1,4 +1,8 @@
 ---
+description: >-
+  EasyFortniteStats is the ultimate, feature-rich Fortnite Discord Bot which
+  benefits your Fortnite or Gaming Community and is trusted by more than 60,000
+  Discord servers.
 layout:
   title:
     visible: true
@@ -12,9 +16,7 @@ layout:
     visible: true
 ---
 
-# Welcome to EasyFortniteStats
-
-EasyFortniteStats is the ultimate, feature-rich Fortnite Discord Bot which benefits your Fortnite or Gaming Community and is trusted by more than 60,000 Discord Server.
+# EasyFortniteStats Documentation
 
 <figure><img src=".gitbook/assets/Frame 3.png" alt=""><figcaption></figcaption></figure>
 

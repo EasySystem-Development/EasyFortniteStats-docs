@@ -1,7 +1,7 @@
 ---
 description: >-
-  This article shows you how the setup automatic item shop updates in your
-  Discord server
+  Gear up in style! Configure EasyFortniteStats to show Fortnite's latest item
+  shop offerings right within your Discord.
 ---
 
 # Item Shop

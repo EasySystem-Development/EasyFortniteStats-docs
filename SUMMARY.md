@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to EasyFortniteStats](README.md)
+* [EasyFortniteStats Documentation](README.md)
 * [Commands](commands.md)
 * [Changelog](changelog.md)
 * [FAQ](faq.md)

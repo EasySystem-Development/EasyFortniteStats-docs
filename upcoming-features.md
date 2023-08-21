@@ -1,3 +1,9 @@
+---
+description: >-
+  Get a sneak peek! Discover what's on the horizon for the EasyFortniteStats
+  Bot.
+---
+
 # Upcoming Features
 
 These are the planned features.

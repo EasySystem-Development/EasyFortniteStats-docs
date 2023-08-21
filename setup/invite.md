@@ -1,3 +1,9 @@
+---
+description: >-
+  Ready to level up? Follow our simple steps to invite the EasyFortniteStats Bot
+  to your server.
+---
+
 # Invite Bot
 
 ### Step one

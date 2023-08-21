@@ -1,3 +1,9 @@
+---
+description: >-
+  Speak your language! Learn how to customise the EasyFortniteStats Bot to
+  communicate in your preferred language.
+---
+
 # Language
 
 The bot offers various languages that can be useful when setting up the bot or can be set for communities whose members speak only one specific language.&#x20;

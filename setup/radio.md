@@ -1,3 +1,9 @@
+---
+description: >-
+  Tune in and game on! Learn how to set up EasyFortniteStats' radio feature,
+  bringing Fortnite's in-game radio straight to your server.
+---
+
 # Radio
 
 The radio function allows you to listen to the radio stations from the game, which are usually only available when driving a car.
