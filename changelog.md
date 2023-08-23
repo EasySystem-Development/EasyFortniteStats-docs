@@ -39,6 +39,7 @@ description: >-
 
 ### Fixes
 
+* Solved an issue that caused the bot to be unresponsive (interaction failed error) for specific time periods &#x20;
 * Resolved an error encountered when using `/account refund` and `/account undo` if a user had no recent purchases.
 
 ## V3.4.1 - 2023-06-09
