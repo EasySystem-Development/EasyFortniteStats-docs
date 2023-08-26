@@ -1,10 +1,3 @@
----
-description: >-
-  Stay updated with the latest changes to the EasyFortniteStats Bot. Here,
-  you'll find version histories, feature updates, and bug fixes detailed
-  chronologically.
----
-
 # Changelog
 
 ## V3.4.2 - 2023-08-XX \[BETA]
