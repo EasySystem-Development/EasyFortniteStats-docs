@@ -23,22 +23,23 @@ The command list can be accessed with `/help`.&#x20;
 
 ## Account Commands
 
-| Command                   | Description                                                                       |
-| ------------------------- | --------------------------------------------------------------------------------- |
-| `/account login`          | Login into your Fortnite account.                                                 |
-| `/account logout`         | Logout of your Fortnite account.                                                  |
-| `/account logout-all`     | Logout of all devices. This can be useful when your account has been compromised. |
-| `/account locker`         | View your account locker.                                                         |
-| `/account info`           | View your profile including V-Bucks.                                              |
-| `/account claim-daily`    | Collect your daily Save the World rewards.                                        |
-| `/account shop buy`       | Buy an item from the item shop.                                                   |
-| `/account shop gift`      | Gift an item to a friend.                                                         |
-| `/account shop undo`      | Undo the last purchase you made from the item shop.                               |
-| `/account shop refund`    | Refund a purchase you bought from the item shop. Some require a refund token.     |
-| `/account friends add`    | Add a player as a friend or accept their friend request.                          |
-| `/account friends remove` | Remove a friend or reject their friend request.                                   |
-| `/account platform`       | Change your V-Bucks platform.                                                     |
-| `/account creator-code`   | Set your creator code.                                                            |
+| Command                          | Description                                                                   |
+| -------------------------------- | ----------------------------------------------------------------------------- |
+| `/account login`                 | Login into your Fortnite account.                                             |
+| `/account logout`                | Logout of your Fortnite account.                                              |
+| `/account locker`                | View your account locker.                                                     |
+| `/account info`                  | View your profile including V-Bucks.                                          |
+| `/account claim-daily`           | Collect your daily Save the World rewards.                                    |
+| `/account shop buy`              | Buy an item from the item shop.                                               |
+| `/account shop gift`             | Gift an item to a friend.                                                     |
+| `/account shop undo`             | Undo the last purchase you made from the item shop.                           |
+| `/account shop refund`           | Refund a purchase you bought from the item shop. Some require a refund token. |
+| `/account battlepass buy`        | Buy the battle pass.                                                          |
+| `/account battlepass buy-levels` | Buy battle pass levels. Discounts get applied automatically.                  |
+| `/account friends add`           | Add a player as a friend or accept their friend request.                      |
+| `/account friends remove`        | Remove a friend or reject their friend request.                               |
+| `/account creator-code`          | Set your creator code.                                                        |
+| `/account platform`              | Change your V-Bucks platform.                                                 |
 
 ## Shop Commands
 

@@ -7,7 +7,7 @@
 * **New Ranked Stats:**
   * Build and Zero Build Rank with progress tracking
   * Unreal Global Ranking
-  * Lifetime Competitive Stats expansion: now includes Ranked Stats, Tournament Stats, and Legacy Arena Stats.
+  * Lifetime Competitive Stats expansion: now includes Ranked Stats, Tournament Stats and Legacy Arena Stats.
 
 <figure><img src=".gitbook/assets/CleanShot 2023-07-03 at 23.49.16@2x.png" alt=""><figcaption><p>New Competitive Stats including Ranked</p></figcaption></figure>
 
@@ -29,11 +29,15 @@
     * The Link and Verify processes have been merged into a single system. Users simply need to open the EpicGames verification page.
 * Disabled the account verification feature in the account system due to its confusing nature and potential misuse by account traders.
 * The `/cosmetics` command's shop history now groups consecutive days, offering a clearer overview.
+* Improved `/event`'s message output
 
 ### Fixes
 
 * Solved an issue that caused the bot to be unresponsive (interaction failed error) for specific time periods &#x20;
 * Resolved an error encountered when using `/account refund` and `/account undo` if a user had no recent purchases.
+* Resolved an issue that prevented the inital message to not be send after setting up the item shop, server status or news
+* Fixed an issue that caused the automated item shop or server status posts to include not intended information. Messages on premium servers may included ads.
+* Fixed an error message for `/account shop gift` command, if player isn't eligable for gifting
 
 ## V3.4.1 - 2023-06-09
 

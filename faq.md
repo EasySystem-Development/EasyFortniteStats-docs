@@ -94,8 +94,7 @@ Whether you can trust us or not is ultimately up to you. But we would like to li
 
 * EasyFortniteStats has been around since 2018 and has not made any mistakes that would allow unauthorized people to access such data. We have always prioritized our morals throughout these years to provide the best possible experience for our users.
 * We take security seriously. Our server is secured according to the latest security standards. Additionally sensitive data is encrypted with military grade encryption
-* The owner (Luc1412#1412) is working with EpicGames to maintain the Discords bots in the [Official Fortnite Germany Discord](https://discord.gg/fortnitede)
-* We have decided against possibly higher profits and have included a verification that should restrain account trading with the bot.
+* The owner (@luc1412) is working with EpicGames to maintain the Discords bots in the [Official Fortnite Germany Discord](https://discord.gg/fortnitede)
 * We inform the users about possible risks and security measures.
 
 ### Can I get banned for using it?
