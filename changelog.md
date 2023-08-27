@@ -36,6 +36,7 @@
 * Resolved an issue that prevented the inital message to not be send after setting up the item shop, server status or news
 * Fixed an issue that caused the automated item shop or server status posts to include not intended information. Messages on premium servers may included ads.
 * Fixed an error message for `/account shop gift` command, if player isn't eligable for gifting
+* Fix shop image stroke for discounted prices being off
 
 ## V3.4.1 - 2023-06-09
 
