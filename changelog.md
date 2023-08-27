@@ -1,42 +1,42 @@
 # Changelog
 
-## V3.4.2 - 2023-08-XX \[BETA]
+## V3.4.2 - 2023-08-27
 
 ### Additions
 
 * **New Ranked Stats:**
   * Build and Zero Build Rank with progress tracking
   * Unreal Global Ranking
-  * Lifetime Competitive Stats expansion: now includes Ranked Stats, Tournament Stats and Legacy Arena Stats.
+  * Lifetime Competitive Stats expansion: now includes Ranked Stats, Tournament Stats and Legacy Arena Stats
 
 <figure><img src=".gitbook/assets/CleanShot 2023-07-03 at 23.49.16@2x.png" alt=""><figcaption><p>New Competitive Stats including Ranked</p></figcaption></figure>
 
 * **Discord App Premium Integration:**
   * Subscription is now available both via the Bot's profile and the [App Directory](https://ptb.discord.com/application-directory/444203099331231746)
-  * ubscription pricing remains the same ($5 + tax). However, a $0.5 discount is applied on Patreon to offset fees
+  * Subscription pricing remains the same ($5 + tax). However, a $0.5 discount is applied on Patreon to offset fees
   * Enhanced view for the Premium overview
 * Added a feature to the `/drop` command: users can now choose only named locations. _\[Suggested by `@fhl09`]_
 
 ### Changes/Improvements
 
 * **Stats Commands Overhaul:**
-  * Stats commands now mandatorily require the `player` option. This lets users select the linked account or Discord user or search for a player.
+  * Stats commands now mandatorily require the `player` option. This lets users select the linked account or Discord user or search for a player
   * The input type option and pre-selection has been removed, instead the accumulated Global input is selected by default
 * **Streamlined Account Linking:**
-  * The Link and Verify processes have been merged into a single system. Users simply need to open the EpicGames verification page.
-* Disabled the account verification feature in the account system due to its confusing nature and potential misuse by account traders.
-* Redesigned `/help` command with new icons and added missing commands from Account and Misc category
-* The `/cosmetics` command's shop history now groups consecutive days, offering a clearer overview.
-* Improved `/event`'s message output
+  * The Link and Verify processes have been merged into a single system. Users simply need to open the EpicGames verification page
+* Disabled the account verification feature in the account system due to its confusing nature and potential misuse by account traders
+* Revamped the `/help` command by introducing new icons and incorporating previously missing commands from the Account and Misc categories
+* Enhanced the `/cosmetics` command's shop history feature, which now organizes consecutive days to provide a more coherent and concise overview
+* Optimized the message output for the `/event` command to offer a more refined and informative experience
 
 ### Fixes
 
-* Solved an issue that caused the bot to be unresponsive (interaction failed error) for specific time periods &#x20;
-* Resolved an error encountered when using `/account refund` and `/account undo` if a user had no recent purchases.
-* Resolved an issue that prevented the inital message to not be send after setting up the item shop, server status or news
-* Fixed an issue that caused the automated item shop or server status posts to include not intended information. Messages on premium servers may included ads.
-* Fixed an error message for `/account shop gift` command, if player isn't eligable for gifting
-* Fix shop image stroke for discounted prices being off
+* Addressed an unresponsiveness issue (resulting in an "interaction failed" error) occurring during specific time periods
+* Rectified an error encountered when utilizing the `/account refund` and `/account undo` commands in cases where a user had no recent purchases
+* Resolved an issue that was preventing the initial message from being sent after configuring the item shop, server status, or news
+* Corrected an issue that caused unintended information to be included in automated item shop or server status posts, potentially leading to advertisements in premium server messages
+* Enhanced the error message handling for the `/account shop gift` command to provide clarity when a player is ineligible for gifting
+* Adjusted the shop image stroke for discounted prices
 
 ## V3.4.1 - 2023-06-09
 
