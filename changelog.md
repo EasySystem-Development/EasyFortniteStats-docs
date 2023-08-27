@@ -19,15 +19,13 @@
 
 ### Changes/Improvements
 
-*   **Stats Commands Overhaul:**
-
-    * Stats commands now mandatorily require the `player` option. This lets users select the linked account or Discord user or search for a player.
-    * The input type option and pre-selection has been removed, instead the accumulated Global input is selected by default
-
-    **Streamlined Account Linking:**
-
-    * The Link and Verify processes have been merged into a single system. Users simply need to open the EpicGames verification page.
+* **Stats Commands Overhaul:**
+  * Stats commands now mandatorily require the `player` option. This lets users select the linked account or Discord user or search for a player.
+  * The input type option and pre-selection has been removed, instead the accumulated Global input is selected by default
+* **Streamlined Account Linking:**
+  * The Link and Verify processes have been merged into a single system. Users simply need to open the EpicGames verification page.
 * Disabled the account verification feature in the account system due to its confusing nature and potential misuse by account traders.
+* Redesigned `/help` command with new icons and added missing commands from Account and Misc category
 * The `/cosmetics` command's shop history now groups consecutive days, offering a clearer overview.
 * Improved `/event`'s message output
 
