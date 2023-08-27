@@ -29,7 +29,6 @@ The command list can be accessed with `/help`.&#x20;
 | `/account logout`                | Logout of your Fortnite account.                                              |
 | `/account locker`                | View your account locker.                                                     |
 | `/account info`                  | View your profile including V-Bucks.                                          |
-| `/account claim-daily`           | Collect your daily Save the World rewards.                                    |
 | `/account shop buy`              | Buy an item from the item shop.                                               |
 | `/account shop gift`             | Gift an item to a friend.                                                     |
 | `/account shop undo`             | Undo the last purchase you made from the item shop.                           |
