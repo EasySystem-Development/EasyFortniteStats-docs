@@ -11,14 +11,15 @@ These are the planned features.
 #### Just Implemented \[V3.4.1]
 
 * Account System: Buy BattlePass and Levels
+* `/account info`: Ban Information, XP Information
 
 #### Next Update
 
+* Account System: Locker filters (x days not in ItemShop, Exclusive Items)
 * Account System: Friends overview
-* Account System: Auto Creator Code and Auto Daily Reward Claiming (Premium)
-* Account System: Code claiming and viewing information
+* Account System: Auto Creator Code (Premium)
+* Account System: Code overview and claiming
 * Account System: Creator Code earnings Stats (Premium)
-* `/account info`: Ban Information, XP Information
 * `/account creator-code`: Creator code search support
 * `/player-count`: more time windows including 1 Month, 1 Year
 
