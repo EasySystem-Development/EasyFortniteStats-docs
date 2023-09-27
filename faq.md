@@ -120,3 +120,8 @@ We're pleased to advertise our Creator Code through the account feature. We appr
 
 We prioritize transparency and user consent in all aspects of our platform and strive to provide a seamless and enjoyable experience for all users.
 
+### What is the locker value and how do we determine it?
+
+This isn't an exact representation on how much money you spent on Fortnite.
+
+Instead we accumulate the Item Shop V-Bucks price of all items you own. So it won't respect any discounts e.g. when purchased in a bundle. The real money value is a conversion based on the current V-Bucks price (1$ = 125 V-Bucks). This price is based on the cheapest V-Bucks bundle (1000 V-Bucks for $7.99).
