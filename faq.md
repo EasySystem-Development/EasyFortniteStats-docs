@@ -125,3 +125,5 @@ We prioritize transparency and user consent in all aspects of our platform and s
 This isn't an exact representation on how much money you spent on Fortnite.
 
 Instead we accumulate the Item Shop V-Bucks price of all items you own. So it won't respect any discounts e.g. when purchased in a bundle. The real money value is a conversion based on the current V-Bucks price (1$ = 125 V-Bucks). This price is based on the cheapest V-Bucks bundle (1000 V-Bucks for $7.99).
+
+With the upcoming [price increase](https://www.fortnite.com/news/upcoming-fortnite-pricing-alignment-in-czech-republic-denmark-eurozone-countries-united-states-and-more-in-october-2023) we plan on updating this to 1$ = 111 V-Bucks (based on 1000 V-Bucks for $8.99)
