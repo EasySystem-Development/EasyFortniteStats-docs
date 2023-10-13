@@ -20,6 +20,7 @@ These are the planned features.
 * Account System: Auto Creator Code (Premium)
 * Account System: Code overview and claiming
 * Account System: Creator Code earnings Stats (Premium)
+* `/island` to lookup a creative island
 * `/account creator-code`: Creator code search support
 * `/player-count`: more time windows including 1 Month, 1 Year
 
@@ -32,7 +33,7 @@ These are the planned features.
 
 * Competetive Turnement Feed + Placement
 * Overhaul news command with blog entries + Blog entry auto channel
-* Item Shop Reminders + Autobuy for Account System
+* Item Shop Reminders + Autobuy for Account System + Overview of purchased items
 * Command translations
 
 #### Unforeseeable future
