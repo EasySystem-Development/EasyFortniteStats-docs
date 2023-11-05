@@ -1,5 +1,36 @@
 # Changelog
 
+## V3.5.0 - 2023-12-XX \[BETA]
+
+### Additions
+
+* Added new `/island` command to provide a nice overview about a creative island including current player count
+* Added a small account overview when using `/account login` as an already logged in user
+
+### Changes/Improvements
+
+* When using the `/stats` command as an unlinked user, an option is now provided to link the account directly (without using extra `/link`)
+* When setting/changing channels or roles in the settings, the selected values are now always displayed
+* Updated locker account value formular from 1$ = 125 V-Bucks to 1$ = 111 V-Bucks based on the [V-Bucks price changes](https://www.fortnite.com/news/upcoming-fortnite-pricing-alignment-in-czech-republic-denmark-eurozone-countries-united-states-and-more-in-october-2023) <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
+* A note has been added to the `/account locker` command on how the locker value is determined
+* Improved calculation of player count for `/player-count` by including more maps to be count
+* General performance improvements
+
+### Fixes
+
+* Fixed an issue that a user could receive premium, after end their subscription trough Discord
+* Fixed an issue in `/account` commands that resulted in timeouts (The application did not respond)
+* Fixed an issue with bundle discounts in the `/account buy` command that if you already had most of the items in a bundle, it would no longer be displayed instead of being offered for the minimum price
+* Fixed an issue that caused refundable items to not be displayed correctly in `/account shop refund` <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
+* Fixed an issue that prevent the shop from being updated <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
+* Fixed an issue that caused gift selection to not be available <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
+* Fixed an issue with the Shop command that if the command was executed by a person who did not set the same language as the server, premium elements such as Custom Background or Creator Code were not displayed <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
+* Fixed a problem with the distribution of premium rights to Patreon subscribers, which occurred due to the introduction of free Patreon memberships <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
+* Fixed shop command in DMs <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
+* Fixed an issue that casued far to high numbers for `/player-count` <mark style="color:purple;">Hotfixed in V3.4.2]</mark>
+
+
+
 ## V3.4.2 - 2023-08-27
 
 ### Additions
