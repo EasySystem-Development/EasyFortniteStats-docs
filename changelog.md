@@ -1,10 +1,15 @@
 # Changelog
 
-## V3.5.1 - 2023-11-06 \[BETA]
+## V3.6.8 - 2023-12-XX \[BETA]
 
 ### Additions
 
 * Added new `/island` command to provide a nice overview about a creative island including current player count
+
+## V3.5.1 - 2023-11-06
+
+### Additions
+
 * Added a small account overview when using `/account login` as an already logged in user
 
 ### Changes/Improvements
