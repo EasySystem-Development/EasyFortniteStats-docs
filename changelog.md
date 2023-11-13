@@ -10,38 +10,41 @@
 
 ### Additions
 
-* Added a small account overview when using `/account login` as an already logged in user
+* Implemented a small account overview feature that activates when an already logged-in user utilizes the `/account login` command. This provides users with a quick summary of their account details for added convenience and awareness.
 
 ### Changes/Improvements
 
-* When using the `/stats` command as an unlinked user, an option is now provided to link the account directly (without using extra `/link`)
-* When setting/changing channels or roles in the settings, the selected values are now always displayed
-* Updated locker account value formular from 1$ = 125 V-Bucks to 1$ = 111 V-Bucks based on the [V-Bucks price changes](https://www.fortnite.com/news/upcoming-fortnite-pricing-alignment-in-czech-republic-denmark-eurozone-countries-united-states-and-more-in-october-2023) <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
-* A note has been added to the `/account locker` command on how the locker value is determined
-* Improved calculation of player count for `/player-count` by including more maps to be count
-* The Creator Code command has been changed from `/account creator-code` to `/account creator-code set` for future proofing
-* Added a way for premium users to select a creator code before purchasing items
-* General performance improvements
+* Not linked users can now use the `/stats` command with the added option to directly link their account, eliminating the need for an additional `/link` command.
+* When setting or changing channels or roles in the settings, the selected values are now consistently displayed, providing users with clear confirmation of their choices.
+* Updated the locker account value formula from 1$ = 125 V-Bucks to 1$ = 111 V-Bucks to align with recent [changes in V-Bucks pricing](https://www.fortnite.com/news/upcoming-fortnite-pricing-alignment-in-czech-republic-denmark-eurozone-countries-united-states-and-more-in-october-2023). <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
+* Added a note to the `/account locker` command explaining how the locker value is determined, providing users with transparency and clarity.
+* Enhanced the calculation of player count for the `/player-count` command by including more maps, resulting in a more accurate representation of active players.
+* Changed the Creator Code command from `/account creator-code` to `/account creator-code set` for future-proofing and clarity in command usage.
+* Premium users now have the ability to select a creator code before making purchases trough the account system
+* Implemented various optimizations to enhance overall system performance, ensuring a smoother and more efficient user experience.
 
 ### Fixes
 
-* Fixed an issue that a user could receive premium, after end their subscription trough Discord
-* Fixed an issue in `/account` commands that resulted in timeouts (The application did not respond)
-* Fixed an issue with bundle discounts in the `/account buy` command that if you already had most of the items in a bundle, it would no longer be displayed instead of being offered for the minimum price
-* Fixed an rare issue that caused the shop to appear multiple times
-* Solved an issue that caused the creator code ads to appear when purchasing items trough the bot for premium users
-* Fixed an issues that caused game mode specific player counts to not being updated and peak player count to be inaccurate
-* Fixed an issue where users get stuck, after an error message from the bot during account login
-* Implemented a workaround, for account commands to always fail for a small amount of players
-* Fixed `/account battlepass buy-levels` to show an error message in specific cases
-* Fixed an issue that caused refundable items to not be displayed correctly in `/account shop refund` <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
-* Fixed an issue that prevent the shop from being updated <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
-* Fixed an issue that caused gift selection to not be available <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
-* Fixed an issue with the Shop command that if the command was executed by a person who did not set the same language as the server, premium elements such as Custom Background or Creator Code were not displayed <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
-* Fixed a problem with the distribution of premium rights to Patreon subscribers, which occurred due to the introduction of free Patreon memberships <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
-* Fixed shop command in DMs <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
-* Fixed an issue that casued far to high numbers for `/player-count` <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
-* Fixed `/account battlepass buy` command for the new season due to large changes  <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
+* Resolved an issue where users could unintentionally receive premium benefits after ending their subscription through Discord
+* Addressed timeouts occurring in the `/account` commands, where the application failed to respond.
+* Fixed a problem with bundle discounts in the `/account buy` command; when users already possessed most items in a bundle, it now correctly displays and offers the bundle at the minimum price.
+* Rectified a rare occurrence where the shop would appear multiple times.
+* Eliminated the occurrence of creator code ads appearing when premium users purchased items through the bot.
+* Corrected game mode-specific player counts not updating and inaccurate peak player counts.
+* Resolved users getting stuck after encountering an error message during account login.
+* Implemented a workaround for account commands to consistently fail for a small subset of players.
+* Improved the error messaging for specific cases in the `/account battlepass buy-levels` command.
+* Fixed delays in the `/account shop` commands, ensuring the latest items are promptly displayed.
+* Addressed an issue where an error message was shown instead of proper information when using `/account shop gift` without selecting a valid friend.
+* Fixed an issue causing an error message when users searched for refundable items without recent purchases.
+* Rectified display issues with refundable items in `/account shop refund` <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
+* Corrected the prevention of the shop from being updated <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
+* Fixed the unavailability of gift selection <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
+* Resolved issues with the Shop command when executed by users with a different language setting than the server, ensuring premium elements display correctly <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
+* Fixed premium rights distribution to Patreon subscribers due to the introduction of free Patreon memberships <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
+* Rectified the Shop command in DMs <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
+* Addressed inflated numbers in the `/player-count` command <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
+* Corrected the `/account battlepass buy` command for the new season following significant changes  <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
 
 
 
