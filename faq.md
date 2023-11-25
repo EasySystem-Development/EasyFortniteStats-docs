@@ -92,10 +92,10 @@ This bears the risk that your account could be stolen by a third party hacking t
 
 Whether you can trust us or not is ultimately up to you. But we would like to list here what makes us so that you can trust us:
 
-* EasyFortniteStats has been around since 2018 and has not made any mistakes that would allow unauthorized people to access such data. We have always prioritized our morals throughout these years to provide the best possible experience for our users.
-* We take security seriously. Our server is secured according to the latest security standards. Additionally sensitive data is encrypted with military grade encryption
+* EasyFortniteStats has been around since 2018 and since then we have always tried to offer our users the best possible experience.
+* We take security seriously. Our server is secured according to the latest security standards. Additionally sensitive data, as your account data, is encrypted with military grade encryption
 * The owner (@luc1412) is working with EpicGames to maintain the Discords bots in the [Official Fortnite Germany Discord](https://discord.gg/fortnitede)
-* We inform the users about possible risks and security measures.
+* We are transparent and inform our users about possible risks and security measures
 
 ### Can I get banned for using it?
 
