@@ -1,6 +1,6 @@
 # Changelog
 
-## V3.6.8 - 2023-12-XX \[BETA]
+## V3.6.0 - 2023-12-XX \[BETA]
 
 ### Additions
 
