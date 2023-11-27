@@ -5,6 +5,18 @@
 ### Additions
 
 * Added new `/island` command to provide a nice overview about a creative island including current player count
+  * This command supports island searching by Name, Tag and Code
+
+### Changes/Improvements&#x20;
+
+* Enhanced the calculation of player count for the `/player-count` command again by including more maps, resulting in an even more accurate representation of active players
+
+### Fixes
+
+* Fixed an issue that prevent creator code info to appear for premium users on `/account battlepass buy-levels`
+* Fixed an issue that caused Fortnite player searching might not work as expected (e.g. `/stats` command)
+* Fixed an issue when user tries to add themselves as a friend
+* Resolved a bug where the shop image failed to include the section title, leading to a misalignment of items displayed in an extended, single row. <mark style="color:purple;">\[Hotfixed in V3.5.1]</mark>
 
 ## V3.5.1 - 2023-11-06
 
@@ -16,7 +28,7 @@
 
 * Not linked users can now use the `/stats` command with the added option to directly link their account, eliminating the need for an additional `/link` command.
 * When setting or changing channels or roles in the settings, the selected values are now consistently displayed, providing users with clear confirmation of their choices.
-* Updated the locker account value formula from 1$ = 125 V-Bucks to 1$ = 111 V-Bucks to align with recent [changes in V-Bucks pricing](https://www.fortnite.com/news/upcoming-fortnite-pricing-alignment-in-czech-republic-denmark-eurozone-countries-united-states-and-more-in-october-2023). <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
+* Updated the locker account value formula from 1$ = 125 V-Bucks to 1$ = 111 V-Bucks to align with recent [changes in V-Bucks pricing](https://www.fortnite.com/news/upcoming-fortnite-pricing-alignment-in-czech-republic-denmark-eurozone-countries-united-states-and-more-in-october-2023). <mark style="color:purple;">\[Hotfixed in V3.5]</mark>
 * Added a note to the `/account locker` command explaining how the locker value is determined, providing users with transparency and clarity.
 * Enhanced the calculation of player count for the `/player-count` command by including more maps, resulting in a more accurate representation of active players.
 * Changed the Creator Code command from `/account creator-code` to `/account creator-code set` for future-proofing and clarity in command usage.
@@ -37,18 +49,18 @@
 * Fixed delays in the `/account shop` commands, ensuring the latest items are promptly displayed.
 * Addressed an issue where an error message was shown instead of proper information when using `/account shop gift` without selecting a valid friend.
 * Fixed an issue causing an error message when users searched for refundable items without recent purchases.
-* Rectified display issues with refundable items in `/account shop refund` <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
-* Corrected the prevention of the shop from being updated <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
-* Fixed the unavailability of gift selection <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
-* Resolved issues with the Shop command when executed by users with a different language setting than the server, ensuring premium elements display correctly <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
-* Fixed premium rights distribution to Patreon subscribers due to the introduction of free Patreon memberships <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
-* Rectified the Shop command in DMs <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
-* Addressed inflated numbers in the `/player-count` command <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
-* Corrected the `/account battlepass buy` command for the new season following significant changes  <mark style="color:purple;">\[Hotfixed in V3.4.2]</mark>
+* Rectified display issues with refundable items in `/account shop refund` <mark style="color:purple;">\[Hotfixed in V3.5]</mark>
+* Corrected the prevention of the shop from being updated <mark style="color:purple;">\[Hotfixed in V3.5]</mark>
+* Fixed the unavailability of gift selection <mark style="color:purple;">\[Hotfixed in V3.5]</mark>
+* Resolved issues with the Shop command when executed by users with a different language setting than the server, ensuring premium elements display correctly <mark style="color:purple;">\[Hotfixed in V3.5]</mark>
+* Fixed premium rights distribution to Patreon subscribers due to the introduction of free Patreon memberships <mark style="color:purple;">\[Hotfixed in V3.5]</mark>
+* Rectified the Shop command in DMs <mark style="color:purple;">\[Hotfixed in V3.5]</mark>
+* Addressed inflated numbers in the `/player-count` command <mark style="color:purple;">\[Hotfixed in V3.5]</mark>
+* Corrected the `/account battlepass buy` command for the new season following significant changes  <mark style="color:purple;">\[Hotfixed in V3.5]</mark>
 
 
 
-## V3.5.8 - 2023-08-27
+## V3.5 - 2023-08-27
 
 ### Additions
 
