@@ -4,18 +4,25 @@
 
 ### Additions
 
-* Added new `/island` command to provide a nice overview about a creative island including current player count
-  * This command supports island searching by Name, Tag and Code
+* Introduced the new `/account redeem-code` command for effortless code redemption within Discord
+* Added the `/island` command, offering a comprehensive overview of creative islands, complete with the current player count. This command supports island searches by Name, Tag, and Code
 
 ### Changes/Improvements&#x20;
 
+* Reworked Server Status:
+  * Now includes Crew, Fortnite Lego, Rocket League Racing, and Fortnite Festival status
+  * Shifted to using Discord timestamps for a more accurate countdown, eliminating the need for frequent updates every few minutes
 * Enhanced the calculation of player count for the `/player-count` command again by including more maps, resulting in an even more accurate representation of active players
 
 ### Fixes
 
-* Fixed an issue that prevent creator code info to appear for premium users on `/account battlepass buy-levels`
-* Fixed an issue that caused Fortnite player searching might not work as expected (e.g. `/stats` command)
-* Fixed an issue when user tries to add themselves as a friend
+* Resolved an issue preventing creator code info from appearing for premium users on the `/account battlepass buy-levels` command
+* Fixed a bug causing Fortnite player searches to not function as expected (e.g., the `/stats` command).
+* Addressed an issue occurring when a user attempted to add themselves as a friend
+* Corrected the gift requirement to be set at 2 days instead of 3
+* Fixed issues with the account system after deleting user data with the `/data user delete` command
+* Resolved an issue where users were being logged out during server issues with EpicGames servers
+* Fixed a bug causing the shop to be sent again, even though no visible item was changed
 * Resolved a bug where the shop image failed to include the section title, leading to a misalignment of items displayed in an extended, single row. <mark style="color:purple;">\[Hotfixed in V3.5.1]</mark>
 
 ## V3.5.1 - 2023-11-06
