@@ -5,6 +5,7 @@
 ### Additions
 
 * Introduced the new `/account redeem-code` command for effortless code redemption within Discord
+* Added `/account friends overview` for a comprehensive view of your friends
 * Added the `/island` command, offering a comprehensive overview of creative islands, complete with the current player count. This command supports island searches by Name, Tag, and Code
 
 ### Changes/Improvements&#x20;
@@ -13,6 +14,7 @@
   * Now includes Crew, Fortnite Lego, Rocket League Racing, and Fortnite Festival status
   * Shifted to using Discord timestamps for a more accurate countdown, eliminating the need for frequent updates every few minutes
 * Enhanced the calculation of player count for the `/player-count` command again by including more maps, resulting in an even more accurate representation of active players
+* The bot will no longer respond when replying to its messages, only when mentioned
 
 ### Fixes
 
@@ -21,8 +23,11 @@
 * Addressed an issue occurring when a user attempted to add themselves as a friend
 * Corrected the gift requirement to be set at 2 days instead of 3
 * Fixed issues with the account system after deleting user data with the `/data user delete` command
-* Resolved an issue where users were being logged out during server issues with EpicGames servers
+* Resolved an issue where users were being logged out during server issues with Epic Games servers
 * Fixed a bug causing the shop to be sent again, even though no visible item was changed
+* Fixed a bug where some emotes may appear multiple times
+* Fixed an issue preventing a return to already viewed cosmetic selections in locker
+* Fixed an issue preventing changing pages in the locker
 * Resolved a bug where the shop image failed to include the section title, leading to a misalignment of items displayed in an extended, single row. <mark style="color:purple;">\[Hotfixed in V3.5.1]</mark>
 
 ## V3.5.1 - 2023-11-06
