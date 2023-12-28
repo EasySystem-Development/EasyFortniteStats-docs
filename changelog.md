@@ -4,6 +4,10 @@
 
 ### Additions
 
+* Added support for LEGO Fortnite:
+  * Generate worlds with `/account lego generate` and delete them with `/account lego delete`
+  * Manage access to your worlds with `/account lego share-key` and `/account lego remove-key` to add or remove key holders who can play at any time.
+  * Gain a comprehensive overview of your LEGO Fortnite worlds with `/account lego list`, providing information on settings, total playtime, key holders, and currently playing players.
 * Introduced the new `/account redeem-code` command for effortless code redemption within Discord
 * Added `/account friends overview` for a comprehensive view of your friends
 * Added the `/island` command, offering a comprehensive overview of creative islands, complete with the current player count. This command supports island searches by Name, Tag, and Code
