@@ -1,38 +1,50 @@
 # Changelog
 
-## V3.6.0 - 2023-12-XX \[BETA]
+## V3.6.0 - 2024-01-XX \[BETA]
 
 ### Additions
 
-* Added support for LEGO Fortnite:
-  * Generate worlds with `/account lego generate` and delete them with `/account lego delete`
+* **New Filters for Locker:**
+  * Introducing additional filters for the locker, including options to filter cosmetics that are exclusive, unique, available from Fortnite Crew, FNCS, Save the World, those not in the Item Shop for 1000+ days, and Battle Pass items.
+  * Now you can also filter cosmetics by chapter.
+  * When selecting a filter within a single category (e.g., different cosmetic types), all items associated with each selected option will be included. However, when opting for options from distinct filters (e.g., cosmetic type + chapter), only items present in both filters will be visible.
+* **Support for New Cosmetic Types:**
+  * The item shop, `/cosmetic` command, and `/account shop` commands now support new cosmetic types, including Car Bodies, Decals, Wheels, Jam Tracks, Guitars, Basses, Drums, Microphones, and Keytars.
+* **LEGO Fortnite Support:**
+  * Generate worlds with `/account lego generate` and delete them with `/account lego delete`.
   * Manage access to your worlds with `/account lego share-key` and `/account lego remove-key` to add or remove key holders who can play at any time.
   * Gain a comprehensive overview of your LEGO Fortnite worlds with `/account lego list`, providing information on settings, total playtime, key holders, and currently playing players.
-* Introduced the new `/account redeem-code` command for effortless code redemption within Discord
-* Added `/account friends overview` for a comprehensive view of your friends
-* Added the `/island` command, offering a comprehensive overview of creative islands, complete with the current player count. This command supports island searches by Name, Tag, and Code
+* Introduced the new `/account redeem-code` command for effortless code redemption within Discord.
+* Added `/account friends overview` for a comprehensive view of your friends.
+* Added the `/island` command, offering a comprehensive overview of creative islands, complete with the current player count. This command supports island searches by Name, Tag, and Code.
 
 ### Changes/Improvements&#x20;
 
 * Reworked Server Status:
   * Now includes Crew, Fortnite Lego, Rocket League Racing, and Fortnite Festival status
-  * Shifted to using Discord timestamps for a more accurate countdown, eliminating the need for frequent updates every few minutes
-* Enhanced the calculation of player count for the `/player-count` command again by including more maps, resulting in an even more accurate representation of active players
-* The bot will no longer respond when replying to its messages, only when mentioned
+  * Switched to using Discord timestamps for a more accurate countdown, eliminating the need for frequent updates every few minutes
+* When not selecting a cosmetic type filter, the overall amount of cosmetics will now be displayed.
+* Enhanced the calculation of player count for the `/player-count` command by including more maps, resulting in an even more accurate representation of active players.
+* The bot will no longer respond when replying to its messages, only when mentioned.
+* Reversed the V-Bucks purchase history to show recently purchased items first.
 
 ### Fixes
 
-* Resolved an issue preventing creator code info from appearing for premium users on the `/account battlepass buy-levels` command
+* Resolved an issue preventing creator code info from appearing for premium users on the `/account battlepass buy-levels` command.
 * Fixed a bug causing Fortnite player searches to not function as expected (e.g., the `/stats` command).
-* Addressed an issue occurring when a user attempted to add themselves as a friend
-* Corrected the gift requirement to be set at 2 days instead of 3
-* Fixed issues with the account system after deleting user data with the `/data user delete` command
-* Resolved an issue where users were being logged out during server issues with Epic Games servers
-* Fixed a bug causing the shop to be sent again, even though no visible item was changed
-* Fixed a bug where some emotes may appear multiple times
-* Fixed an issue preventing a return to already viewed cosmetic selections in locker
-* Fixed an issue preventing changing pages in the locker
+* Addressed an issue occurring when a user attempted to add themselves as a friend.
+* Corrected the gift requirement to be set at 2 days instead of 3.
+* Fixed issues with the account system after deleting user data with the `/data user delete` command.
+* Resolved an issue where users were being logged out during server issues with Epic Games servers.
+* Fixed a bug causing the shop to be sent again, even though no visible item was changed.
+* Fixed a bug where some emotes may appear multiple times.
+* Fixed an issue preventing a return to already viewed cosmetic selections in the locker.
+* Fixed an issue preventing changing pages in the locker.
+* Fixed an issue that showed the cosmetic amount in filters 1 higher than it was actually.
+* Solved an issue that caused all cosmetics to be shown when selecting a filter that included no owned cosmetics. Instead, a proper message will be shown.
+* Fixed an issue that caused cosmetics in the locker to be sorted improperly.
 * Resolved a bug where the shop image failed to include the section title, leading to a misalignment of items displayed in an extended, single row. <mark style="color:purple;">\[Hotfixed in V3.5.1]</mark>
+* Solved an issue that caused cosmetic sources to display as "???" even though the source is already known. <mark style="color:purple;">\[Hotfixed in V3.5.1]</mark>
 
 ## V3.5.1 - 2023-11-06
 
