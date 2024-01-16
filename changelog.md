@@ -17,8 +17,13 @@
 * Introduced the new `/account redeem-code` command for effortless code redemption within Discord.
 * Added `/account friends overview` for a comprehensive view of your friends.
 * Added the `/island` command, offering a comprehensive overview of creative islands, complete with the current player count. This command supports island searches by Name, Tag, and Code.
+* 🔸Added auto Creator Code refresh for premium users. This can be set up with the new `/account settings` command.
 
 ### Changes/Improvements&#x20;
+
+* Reworked shop image to be significantly wider and better readable.
+
+<figure><img src=".gitbook/assets/2024_01_16_en.png" alt="" width="375"><figcaption><p>Improved shop design</p></figcaption></figure>
 
 * Reworked Server Status:
   * Now includes Crew, Fortnite Lego, Rocket League Racing, and Fortnite Festival status
@@ -45,6 +50,9 @@
 * Fixed an issue that caused cosmetics in the locker to be sorted improperly.
 * Resolved a bug where the shop image failed to include the section title, leading to a misalignment of items displayed in an extended, single row. <mark style="color:purple;">\[Hotfixed in V3.5.1]</mark>
 * Solved an issue that caused cosmetic sources to display as "???" even though the source is already known. <mark style="color:purple;">\[Hotfixed in V3.5.1]</mark>
+* Fixed an issue that after changing premium shop settings, the bot doesn't shop a image after using `/shop` <mark style="color:purple;">\[Hotfixed in V3.5.1]</mark>
+
+
 
 ## V3.5.1 - 2023-11-06
 
