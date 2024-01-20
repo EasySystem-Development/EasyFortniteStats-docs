@@ -1,6 +1,6 @@
 # Changelog
 
-## V3.6.0 - 2024-01-XX \[BETA]
+## V3.6.0 - 2024-01-20
 
 ### Additions
 

@@ -6,35 +6,31 @@ description: >-
 
 # Upcoming Features
 
-These are the planned features.
-
-#### Just Implemented \[V3.4.1]
-
-* Account System: Buy BattlePass and Levels
-* `/account info`: Ban Information, XP Information
-
-#### Next Update
+#### Just Implemented \[V3.6.0]
 
 * Account System: Locker filters (x days not in ItemShop, Exclusive Items)
 * Account System: Friends overview
 * Account System: Auto Creator Code (Premium)
 * Account System: Code overview and claiming
-* Account System: Creator Code earnings Stats (Premium)
 * `/island` to lookup a creative island
+
+#### Next Update
+
+* Account System: Creator Code earnings Stats (Premium)
 * `/account creator-code`: Creator code search support
 * `/player-count`: more time windows including 1 Month, 1 Year
 
 #### Soon
 
 * [Linked Roles](https://discord.com/build/linked-roles): Fortnite Connection
-* Button below Item Shop message for Shop History
+* Item Shop Reminders + Autobuy for Account System + Overview of purchased items
 
 #### Near Future
 
 * Competetive Turnement Feed + Placement
 * Overhaul news command with blog entries + Blog entry auto channel
-* Item Shop Reminders + Autobuy for Account System + Overview of purchased items
 * Command translations
+* Button below Item Shop message for Shop History
 
 #### Unforeseeable future
 
