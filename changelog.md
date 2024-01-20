@@ -4,34 +4,41 @@
 
 ### Additions
 
-* **New Filters for Locker:**
-  * Introducing additional filters for the locker, including options to filter cosmetics that are exclusive, unique, available from Fortnite Crew, FNCS, Save the World, those not in the Item Shop for 1000+ days, and Battle Pass items.
-  * Now you can also filter cosmetics by chapter.
+* **New Locker Filters:**
+  * Introducing additional filters for the locker, enabling users to filter cosmetics based on exclusivity, uniqueness, availability from Fortnite Crew, FNCS, Save the World, those not in the Item Shop for 1000+ days, and Battle Pass items.
+  * Added the ability to filter cosmetics by chapter.
   * When selecting a filter within a single category (e.g., different cosmetic types), all items associated with each selected option will be included. However, when opting for options from distinct filters (e.g., cosmetic type + chapter), only items present in both filters will be visible.
 * **Support for New Cosmetic Types:**
-  * The item shop, `/cosmetic` command, and `/account shop` commands now support new cosmetic types, including Car Bodies, Decals, Wheels, Jam Tracks, Guitars, Basses, Drums, Microphones, and Keytars.
+  * Extended support for new cosmetic types, including Car Bodies, Decals, Wheels, Jam Tracks, Guitars, Basses, Drums, Microphones, and Keytars in the item shop, `/cosmetic` command, and `/account shop` commands.
 * **LEGO Fortnite Support:**
   * Generate worlds with `/account lego generate` and delete them with `/account lego delete`.
   * Manage access to your worlds with `/account lego share-key` and `/account lego remove-key` to add or remove key holders who can play at any time.
   * Gain a comprehensive overview of your LEGO Fortnite worlds with `/account lego list`, providing information on settings, total playtime, key holders, and currently playing players.
+* Added an overview for purchased/redeemed V-Bucks in the `/account info` section.
 * Introduced the new `/account redeem-code` command for effortless code redemption within Discord.
 * Added `/account friends overview` for a comprehensive view of your friends.
-* Added the `/island` command, offering a comprehensive overview of creative islands, complete with the current player count. This command supports island searches by Name, Tag, and Code.
-* 🔸Added auto Creator Code refresh for premium users. This can be set up with the new `/account settings` command.
+* Added the `/island` command, offering a detailed overview of creative islands, complete with the current player count. This command supports island searches by Name, Tag, and Code.
+* 🔸Added auto Creator Code refresh for premium users. Set this up with the new `/account settings` command.
 
 ### Changes/Improvements&#x20;
 
-* Reworked shop image to be significantly wider and better readable.
+* Reworked the shop image to be significantly wider and more readable.
 
 <figure><img src=".gitbook/assets/2024_01_16_en.png" alt="" width="375"><figcaption><p>Improved shop design</p></figcaption></figure>
 
 * Reworked Server Status:
-  * Now includes Crew, Fortnite Lego, Rocket League Racing, and Fortnite Festival status
-  * Switched to using Discord timestamps for a more accurate countdown, eliminating the need for frequent updates every few minutes
+  * Now includes Crew, Fortnite Lego, Rocket League Racing, and Fortnite Festival status.
+  * Switched to using Discord timestamps for a more accurate countdown, eliminating the need for frequent updates every few minutes.
+* Improved the `/account login` command by allowing its use again while in an active login session. Old sessions are now closed, and the command has a 30-second cooldown.
+* Reworked the radio system's internal structure for a potentially more stable experience.
 * When not selecting a cosmetic type filter, the overall amount of cosmetics will now be displayed.
 * Enhanced the calculation of player count for the `/player-count` command by including more maps, resulting in an even more accurate representation of active players.
 * The bot will no longer respond when replying to its messages, only when mentioned.
 * Reversed the V-Bucks purchase history to show recently purchased items first.
+
+### Removals
+
+* Removed the ability to pause the radio player.
 
 ### Fixes
 
@@ -50,7 +57,8 @@
 * Fixed an issue that caused cosmetics in the locker to be sorted improperly.
 * Resolved a bug where the shop image failed to include the section title, leading to a misalignment of items displayed in an extended, single row. <mark style="color:purple;">\[Hotfixed in V3.5.1]</mark>
 * Solved an issue that caused cosmetic sources to display as "???" even though the source is already known. <mark style="color:purple;">\[Hotfixed in V3.5.1]</mark>
-* Fixed an issue that after changing premium shop settings, the bot doesn't shop a image after using `/shop` <mark style="color:purple;">\[Hotfixed in V3.5.1]</mark>
+* Fixed an issue that, after changing premium shop settings, the bot doesn't show an image after using `/shop` <mark style="color:purple;">\[Hotfixed in V3.5.1]</mark>
+* Fixed an issue which was caused when using disabled accounts with the account system. Now, a proper message will be displayed. <mark style="color:purple;">\[Hotfixed in V3.5.1]</mark>
 
 
 
