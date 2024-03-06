@@ -1,5 +1,38 @@
 # Changelog
 
+
+
+{% hint style="info" %}
+**Live patches** are updates in which changes are published directly after development. In contrast, with normal updates, the changes are first published in a preview on the beta bot and then published all at once on the normal bot after completion.
+{% endhint %}
+
+## V3.6.1 - 2024-03-XX - Live Patch
+
+### Additions
+
+* Added support for Drift Trails and Aura cosmetics
+* Added support for new Friendly Damage option in `/account lego` commands.
+
+### Changes/Improvements
+
+* Improve visualisation for crowned wins for season stats in `/account info`.
+
+### Removals
+
+* Removed creative news, since they got discontinued in late 2021
+
+### Fixes
+
+* Fixed shop being hung, when item shop is empty.
+* Fixed an issue that items be available in `/account shop undo` or `/account shop refund` as undoable (free refundable), even trough they aren't. This was the case, when an item has been purchased, undone, purchased again and then tried to undo again.
+* Fixed an issue that caused a wrong message to be displayed when logging out.
+* Fixed an error when using `/account friends overview`, but no friend got an avatar.
+* Fixed an issue, where users where available to bypass the Creator Code ad.
+* Fixed an issue, which caused the Battle Pass related feature to be unavailable.
+* Fixed an issue, so a proper error message will be shown, when using invalid friends in `/account shop gift`.
+* Fixed an issue with the Server Status, that caused maintenance state to cause issues.
+* Fixed an issue with the V-Bucks overview in `/account info`.
+
 ## V3.6.0 - 2024-01-20
 
 ### Additions
