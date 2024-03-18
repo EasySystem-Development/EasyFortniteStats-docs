@@ -10,11 +10,12 @@
 
 ### Additions
 
-* Added support for Drift Trails and Aura cosmetics
+* Added support for Aura, Drift Trail, Boost, Lego Build and Lego Decor Bundle cosmetics
 * Added support for new Friendly Damage option in `/account lego` commands.
 
 ### Changes/Improvements
 
+* Locker cosmetic type filter now summarizes a few types e.g. all car related items in "Cars"
 * Improve visualisation for crowned wins for season stats in `/account info`.
 
 ### Removals
@@ -32,6 +33,8 @@
 * Fixed an issue, so a proper error message will be shown, when using invalid friends in `/account shop gift`.
 * Fixed an issue with the Server Status, that caused maintenance state to cause issues.
 * Fixed an issue with the V-Bucks overview in `/account info`.
+* Fixed an issue for gifting autocomplete, due to friends have never played the game.
+* Fixed an issue with `/cosmetic` showing an error message for a few cosmetics
 
 ## V3.6.0 - 2024-01-20
 
