@@ -6,6 +6,18 @@
 **Live patches** are updates in which changes are published directly after development. In contrast, with normal updates, the changes are first published in a preview on the beta bot and then published all at once on the normal bot after completion.
 {% endhint %}
 
+## V3.7.0 - 2024-04-XX - BETA <a href="#v3.7.0" id="v3.7.0"></a>
+
+### Additions
+
+* **New Reminder feature**
+  * Setup reminders with `/reminder add` to get notified, once an item is available in the item shop
+  * List all your reminders with /reminder list
+  * Delete single reminders with `/reminder remove` or delete multiple reminders with `/reminder clear`
+  * Normal users can setup up to 10 reminders,🔸Premium users however up to 50 reminders.
+* **Added**  [**Linked Roles**](https://support.discord.com/hc/articles/10388356626711-Connections-Linked-Roles-Admins)
+  * You now can setup roles that users can self-assign based on linking their account to EasyFortniteStats
+
 ## V3.6.1 - 2024-03-24 - Live Patch <a href="#v3.6.1" id="v3.6.1"></a>
 
 ### Additions
@@ -16,7 +28,7 @@
 ### Changes/Improvements
 
 * Locker cosmetic type filter now summarizes a few types e.g. all car related items in "Cars"
-* Improve visualisation for crowned wins for season stats in `/account info`.
+* Improve visualization for crowned wins for season stats in `/account info`.
 
 ### Removals
 
