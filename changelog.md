@@ -16,7 +16,28 @@
   * Delete single reminders with `/reminder remove` or delete multiple reminders with `/reminder clear`
   * Normal users can setup up to 10 reminders,🔸Premium users however up to 50 reminders.
 * **Added**  [**Linked Roles**](https://support.discord.com/hc/articles/10388356626711-Connections-Linked-Roles-Admins)
+  * The connection will show your Fortnite player name, Battle Pass level, lifetime wins and best current rank in Battle Royale or Zero Build
   * You now can setup roles that users can self-assign based on linking their account to EasyFortniteStats
+* Add support for installing EasyFortniteStats to your user account. You now can select if you want to add the app (bot) to your server or account.
+* Added recent gifts to gift overview in `/account info`.
+
+### Changes/Improvements
+
+* Reworked `/account info`:
+  * Reordered sections to show more relevant ones higher
+  * Recent V-Bucks purchase selection has been improved
+  * Improved visual formatting of information
+
+### Removals
+
+* Removed `/faq` commands, since it isn't used much.
+
+### Fixes
+
+* Fixed an issue with `/cosmetic` not working for some cosmetics.
+* Fixed `/island` not working.
+* Fixed an issue with `/account info`'s recent purchases causing error for some purchases.
+* Fix issue with `/account friends overview` selection not working properly when having many friends.
 
 ## V3.6.1 - 2024-03-24 - Live Patch <a href="#v3.6.1" id="v3.6.1"></a>
 
