@@ -10,23 +10,33 @@
 
 ### Additions
 
-* **New Reminder feature**
-  * Setup reminders with `/reminder add` to get notified, once an item is available in the item shop
-  * List all your reminders with /reminder list
-  * Delete single reminders with `/reminder remove` or delete multiple reminders with `/reminder clear`
-  * Normal users can setup up to 10 reminders,🔸Premium users however up to 50 reminders.
+* **New Reminder Feature**
+  * Set reminders using `/reminder add` to receive notifications once an item is available in the item shop.
+  * View all your reminders with `/reminder list`.
+  * Delete single reminders with `/reminder remove` or clear multiple reminders with `/reminder clear`.
+  * Normal users can set up to 10 reminders, while🔸Premium users can set up to 50 reminders.
 * **Added**  [**Linked Roles**](https://support.discord.com/hc/articles/10388356626711-Connections-Linked-Roles-Admins)
-  * The connection will show your Fortnite player name, Battle Pass level, lifetime wins and best current rank in Battle Royale or Zero Build
-  * You now can setup roles that users can self-assign based on linking their account to EasyFortniteStats
-* Add support for installing EasyFortniteStats to your user account. You now can select if you want to add the app (bot) to your server or account.
-* Added recent gifts to gift overview in `/account info`.
+  * The connection will show your Fortnite player name, Battle Pass level, lifetime wins and best current rank in Battle Royale or Zero Build.
+  * Enable users to self-assign roles by linking their account to EasyFortniteStats.
+* Support for installing EasyFortniteStats to your user account, allowing you to add the app (bot) to your server or account.
+* Added recent gifts to the gift overview in `/account info`.
+* The bot now automatically redeems all real-money purchases upon login or starting a new account session, ensuring that recently purchased V-Bucks and other items are always available.
+* Added Power System option to Lego island settings.
 
 ### Changes/Improvements
 
+* **Reworked Item Shop Image**:
+  * Redesigned to closely resemble the in-game interface.
+  * Improved visualization of new cosmetics such as LEGO sets and car bundles.
+  * Enhanced visibility of Creator Code.
+  * Aspect ratio adjusted to almost a square, increasing preview size.
+  * Significantly reduced image size for faster loading, especially on mobile devices.
 * Reworked `/account info`:
-  * Reordered sections to show more relevant ones higher
-  * Recent V-Bucks purchase selection has been improved
-  * Improved visual formatting of information
+  * Reordered sections to prioritize relevant information.
+  * Improved selection process for recent V-Bucks purchases.
+  * Enhanced visual formatting for better readability.
+* Clarified instructions in select menus for setting up channels or roles for auto-updates.
+* Improved error messaging when selecting an invalid friend in `/account battlepass gift` and `/account shop gift`.
 
 ### Removals
 
@@ -34,10 +44,12 @@
 
 ### Fixes
 
-* Fixed an issue with `/cosmetic` not working for some cosmetics.
-* Fixed `/island` not working.
-* Fixed an issue with `/account info`'s recent purchases causing error for some purchases.
-* Fix issue with `/account friends overview` selection not working properly when having many friends.
+* Resolved issue preventing some cosmetics from being displayed with `/cosmetic`.
+* Resolved issue with `/island` not working.
+* Fixed errors occurring with recent purchases in`/account info`.
+* Resolved issue with friend overview selection in `/account friends overview` when having many friends.
+* Fixed an issue, when trying to redeem an expired code with `/account redeem-code`.
+* Resolved issue when attempting to gift an item to a friend who does not accept gifts with `/account shop gift.`
 
 ## V3.6.1 - 2024-03-24 - Live Patch <a href="#v3.6.1" id="v3.6.1"></a>
 
