@@ -6,7 +6,7 @@
 **Live patches** are updates in which changes are published directly after development. In contrast, with normal updates, the changes are first published in a preview on the beta bot and then published all at once on the normal bot after completion.
 {% endhint %}
 
-## V3.7.0 - 2024-04-XX - BETA <a href="#v3.7.0" id="v3.7.0"></a>
+## V3.7.0 - 2024-06-25 <a href="#v3.7.0" id="v3.7.0"></a>
 
 ### Additions
 
@@ -18,20 +18,22 @@
 * **Added**  [**Linked Roles**](https://support.discord.com/hc/articles/10388356626711-Connections-Linked-Roles-Admins)
   * The connection will show your Fortnite player name, Battle Pass level, lifetime wins and best current rank in Battle Royale or Zero Build.
   * Enable users to self-assign roles by linking their account to EasyFortniteStats.
-* Support for installing EasyFortniteStats to your user account, allowing you to add the app (bot) to your server or account.
+* **Added support for User Apps**
+  * You can now [add EasyFortniteStats to your account](https://discord.com/oauth2/authorize?client\_id=444203099331231746).
+  * All commands are available, except: `/setup`, `/nickstats`, `/image`, `/settings`, `/radio`, `/data` (support will be added soon)
 * Added recent gifts to the gift overview in `/account info`.
 * The bot now automatically redeems all real-money purchases upon login or starting a new account session, ensuring that recently purchased V-Bucks and other items are always available.
 * Added Power System option to Lego island settings.
 
 ### Changes/Improvements
 
-* **Reworked Item Shop Image**:
+* **Reworked Item Shop Image**
   * Redesigned to closely resemble the in-game interface.
   * Improved visualization of new cosmetics such as LEGO sets and car bundles.
   * Enhanced visibility of Creator Code.
   * Aspect ratio adjusted to almost a square, increasing preview size.
   * Significantly reduced image size for faster loading, especially on mobile devices.
-* Reworked `/account info`:
+* Reworked `/account info`
   * Reordered sections to prioritize relevant information.
   * Improved selection process for recent V-Bucks purchases.
   * Enhanced visual formatting for better readability.
@@ -49,7 +51,9 @@
 * Fixed errors occurring with recent purchases in`/account info`.
 * Resolved issue with friend overview selection in `/account friends overview` when having many friends.
 * Fixed an issue, when trying to redeem an expired code with `/account redeem-code`.
-* Resolved issue when attempting to gift an item to a friend who does not accept gifts with `/account shop gift.`
+* Resolved issue when attempting to gift an item to a friend who does not accept gifts with `/account shop gift`.
+* Fixed an issue that caused all `/account` commands to fail <mark style="color:purple;">\[Hotfixed in V3.6.1]</mark>
+* Fixed an issue that prevented the shop from being published <mark style="color:purple;">\[Hotfixed in V3.6.1]</mark>
 
 ## V3.6.1 - 2024-03-24 - Live Patch <a href="#v3.6.1" id="v3.6.1"></a>
 
@@ -62,6 +66,7 @@
 
 * Locker cosmetic type filter now summarizes a few types e.g. all car related items in "Cars"
 * Improve visualization for crowned wins for season stats in `/account info`.
+* The voting advertisement in the automatic shop updates has now been better integrated as a button
 
 ### Removals
 
@@ -81,7 +86,7 @@
 * Fixed an issue for gifting autocomplete, due to friends have never played the game.
 * Fixed an issue with `/cosmetic` showing an error message for a few cosmetics
 
-## V3.6.0 - 2024-01-20
+## V3.6 - 2024-01-20
 
 ### Additions
 

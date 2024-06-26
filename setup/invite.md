@@ -6,6 +6,8 @@ description: >-
 
 # Invite Bot
 
+###
+
 ### Step one
 
 Visit the following site: [https://easyfnstats.com/invite](https://easyfnstats.com/invite)
