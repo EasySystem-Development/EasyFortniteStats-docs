@@ -6,6 +6,28 @@
 **Live patches** are updates in which changes are published directly after development. In contrast, with normal updates, the changes are first published in a preview on the beta bot and then published all at once on the normal bot after completion.
 {% endhint %}
 
+## V3.7.1 - 2024-09-XX  - Live Patch <a href="#v3.7.0" id="v3.7.0"></a>
+
+### Changes/Improvements
+
+* Updated the Item Shop image to more closely resemble the in-game interface, reflecting the Chapter 5 Season 4 update.
+* Item Shop reminders now include information on when items will leave the shop.
+* Emojis displayed by the bot will now always appear, regardless of External Emoji permissions.
+* Updated selectable V-Bucks platforms for the `/account platform` command based on recent platform changes: Samsung removed, Apple iOS added.
+* Updated Lego commands with new Cozy and Hardcore modes and new options for Storm-Wild enemies, Village Animals Removed on Elimination and Player Fly Mode.
+* Improved recommendations for custom background images for the Item Shop image.
+
+### Fixes
+
+* Fixed recent stability issues that caused the bot to become unresponsive.
+* Fixed `/account lego` commands not responding.
+* Fixed issue with `/island` auto-complete not working.
+* Fixed an error message that duplicated the title when a user isn't logged in.
+* Fixed issue with that`/setup` command was usable in DMs.
+* Fixed issue with `/reminder remove` auto-completion when the user has no reminders.
+* Fixed issue where the language selected in the `/cosmetic` command wasn't being respected.
+* Fixed issue that occurred when using `/reminder list` without any reminders set up.
+
 ## V3.7.0 - 2024-06-25 <a href="#v3.7.0" id="v3.7.0"></a>
 
 ### Additions
