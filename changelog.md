@@ -22,11 +22,14 @@
 * Fixed recent stability issues that caused the bot to become unresponsive.
 * Fixed `/account lego` commands not responding.
 * Fixed issue with `/island` auto-complete not working.
-* Fixed an error message that duplicated the title when a user isn't logged in.
-* Fixed issue with that`/setup` command was usable in DMs.
-* Fixed issue with `/reminder remove` auto-completion when the user has no reminders.
-* Fixed issue where the language selected in the `/cosmetic` command wasn't being respected.
-* Fixed issue that occurred when using `/reminder list` without any reminders set up.
+* Fixed an error message that duplicated the title when a user wasn't logged in.
+* Fixed issue where the `/setup` command was usable in DMs.
+* Fixed issue with `/reminder` remove auto-complete when the user has no reminders.
+* Fixed issue where the language selected in the `/cosmetic` command wasn't respected.
+* Fixed issue that occurred when using `/reminder` list without any reminders set up.
+* Fixed issue with `/account shop gift` auto-complete not displaying items.
+* Fixed issue with the `/stats` command when selecting the option to link an account.
+* Fixed issue where purchases couldn't be undone in certain cases.
 
 ## V3.7.0 - 2024-06-25 <a href="#v3.7.0" id="v3.7.0"></a>
 
