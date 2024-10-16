@@ -1,6 +1,6 @@
 ---
-hidden: true
 icon: hand-wave
+hidden: true
 layout: landing
 ---
 
@@ -9,10 +9,6 @@ layout: landing
 #### You have successfully invited EasyFortniteStats!&#x20;
 
 ### Need Support or stay updated about the latest changes? Join the Support Server.
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
 
 ### Get a list of all commands:
 

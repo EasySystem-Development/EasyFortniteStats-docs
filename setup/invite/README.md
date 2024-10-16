@@ -1,36 +1,28 @@
 ---
+icon: rocket
 description: >-
-  Ready to level up? Follow our simple steps to invite the EasyFortniteStats Bot
-  to your server.
-icon: robot
+  Ready to level up? Follow our simple steps to install EasyFortniteStats to
+  your server or account.
 ---
 
-# Invite Bot
+# Install the App
 
-###
+There 2 ways to install EasyFortniteStats:
 
-### Step one
+* Add to My Apps
+* Add to Server
 
-Visit the following site: [https://easyfnstats.com/invite](https://easyfnstats.com/invite)
+In most cases, adding the App to My Apps, is the easiest way to install. It allows you to use the App anywhere with most of it's features.
 
-### Step two
+{% content-ref url="add-to-my-apps.md" %}
+[add-to-my-apps.md](add-to-my-apps.md)
+{% endcontent-ref %}
 
-You should now see a menu like this:
+If you own or manage a server, you might want to add the app directly to it. This allows you to use the full feature set of EasyFortniteStats to enhance your server.
 
-![](../.gitbook/assets/brave\_YBpE1iopsY.png)
-
-Now tap or click `Select a server`. A drop-down menu should appear including all servers you got`Manage Server` permissions in. Select the server you want the bot to join. Afterwards click **continue**.
-
-![](../.gitbook/assets/q78Qvg2jx7.gif)
-
-### Step three
-
-After selecting a server, you should see something like this:
-
-![](../.gitbook/assets/brave\_NF4XimBew5.png)
-
-As long you are not experienced with Discord's permissions system, keep all permissions selected.\
-Click the **Authorize** button and complete the **Captcha**. You now should get redirected to [this page](https://docs.easyfnstats.com/invite).
+{% content-ref url="add-to-server.md" %}
+[add-to-server.md](add-to-server.md)
+{% endcontent-ref %}
 
 ## Invite troubleshooting
 
@@ -38,7 +30,7 @@ Click the **Authorize** button and complete the **Captcha**. You now should get 
 
 The main reason for your server not appearing in the drop-down menu is the use of the wrong account. Make sure you're logged into the right account which you can check on the top of the invite screen. You should see your profile picture and Discord tag. If it's the wrong account, press the **Not you?** button.
 
-![](../.gitbook/assets/mQwiyUpVdw.png)
+<figure><img src="../../.gitbook/assets/CleanShot 2024-10-17 at 01.06.00@2x.png" alt="" width="317"><figcaption></figcaption></figure>
 
 ### Discord asks me to verify my e-mail address.
 

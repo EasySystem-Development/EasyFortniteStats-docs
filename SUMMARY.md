@@ -9,7 +9,9 @@
 
 ## Setup Bot Features <a href="#setup" id="setup"></a>
 
-* [Invite Bot](setup/invite.md)
+* [Install the App](setup/invite/README.md)
+  * [Add to My Apps](setup/invite/add-to-my-apps.md)
+  * [Add to Server](setup/invite/add-to-server.md)
 * [Language](setup/language.md)
 * [Item Shop](setup/shop.md)
 * [Server Status](setup/status.md)
@@ -20,7 +22,8 @@
 
 ## Beta
 
-* [Beta Info](beta/info.md)
+* [Beta Info](beta/info/README.md)
+  * [Add Beta App](https://easyfnstats.com/beta)
 
 ***
 
