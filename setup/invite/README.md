@@ -40,17 +40,17 @@ If you like to add a bot to a server you require an account with a verified e-ma
 
 | Manage Nicknames                        | NickStats¹                                                                         |
 | --------------------------------------- | ---------------------------------------------------------------------------------- |
-| Manage Webhooks                         | Automatically Shop, Challenges and Server Status updates                           |
-| View Audit Log                          | Optional for NickStats¹                                                            |
-| Read Messages                           | Optional for some interactions                                                     |
-| Send Messages (in Threads)              | Optional for some interactions                                                     |
-| Embed Links                             | Almost every command                                                               |
-| Attach Files                            | Few commands upload files like images                                              |
-| Read Message History                    | Automatically Shop, Challenges and Server Status updates                           |
+| Manage Webhooks                         | Automatically Shop, News and Server Status updates                                 |
+| View Audit Log                          | NickStats¹ (Optional)                                                              |
+| View Channels                           | Any command                                                                        |
+| Send Messages                           | Any command                                                                        |
+| Send Messages in Threads                | Any command                                                                        |
+| Embed Links                             | Any command                                                                        |
+| Attach Files                            | Few commands that upload files like images                                         |
+| Read Message History                    | Automatically Shop, News and Server Status updates                                 |
 | Mention @everyone, @here, and All Roles | Automatically Shop, News, and Server Status updates (when mention role is enabled) |
-| Use External Emojis                     | Many commands, for a better visual experience                                      |
 | Connect                                 | Fortnite Radio feature                                                             |
 | Speak                                   | Fortnite Radio feature                                                             |
 | Defean Members                          | Fortnite Radio feature                                                             |
 
-¹ Members can set their BattlePass level or wins in their nickname
+¹ NickStats allows members to display stats in their nickname
