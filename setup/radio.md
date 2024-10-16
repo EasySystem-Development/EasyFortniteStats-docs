@@ -2,6 +2,7 @@
 description: >-
   Tune in and game on! Learn how to set up EasyFortniteStats' radio feature,
   bringing Fortnite's in-game radio straight to your server.
+icon: radio
 ---
 
 # Radio

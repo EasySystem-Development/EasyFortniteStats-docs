@@ -1,3 +1,7 @@
+---
+icon: flask-round-potion
+---
+
 # Beta Info
 
 The Beta Program allows you to test new upcoming features.

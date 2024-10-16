@@ -2,6 +2,7 @@
 description: >-
   Got questions? Explore our FAQ for answers on the EasyFortniteStats Bot. Learn
   more, troubleshoot issues, and optimize your bot experience.
+icon: comments-question-check
 ---
 
 # FAQ

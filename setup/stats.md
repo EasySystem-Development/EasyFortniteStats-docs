@@ -1,3 +1,7 @@
+---
+icon: chart-simple
+---
+
 # Stats
 
 ## 🔸Premium features

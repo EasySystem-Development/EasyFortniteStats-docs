@@ -1,4 +1,6 @@
 ---
+hidden: true
+icon: hand-wave
 layout: landing
 ---
 

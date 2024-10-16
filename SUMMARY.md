@@ -27,5 +27,5 @@
 
 * [Thanks for inviting EasyFortniteStats](invite.md)
 * [Join Discord Support Server](https://easyfnstats.com/discord)
-* [You successfully authenticated with your Fortnite account](oauth-success.md)
+* [You've successfully authenticated with your Fortnite account](oauth-success.md)
 * [How to solve verification issues](oauth-error.md)

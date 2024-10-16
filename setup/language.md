@@ -2,6 +2,7 @@
 description: >-
   Speak your language! Learn how to customise the EasyFortniteStats Bot to
   communicate in your preferred language.
+icon: flag-usa
 ---
 
 # Language

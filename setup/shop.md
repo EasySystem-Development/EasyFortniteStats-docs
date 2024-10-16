@@ -2,6 +2,7 @@
 description: >-
   Gear up in style! Configure EasyFortniteStats to show Fortnite's latest item
   shop offerings right within your Discord.
+icon: cart-shopping
 ---
 
 # Item Shop

@@ -2,6 +2,7 @@
 description: >-
   Stay informed with the latest! Configure EasyFortniteStats to deliver
   Fortnite's recent updates and news directly to your Discord.
+icon: newspaper
 ---
 
 # News

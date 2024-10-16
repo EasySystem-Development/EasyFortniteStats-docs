@@ -2,6 +2,7 @@
 description: >-
   Browse the commands for the EasyFortniteStats Bot. Get player data, game
   insights, and more, all within Discord.
+icon: slash-forward
 ---
 
 # Commands

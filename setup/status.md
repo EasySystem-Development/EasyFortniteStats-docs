@@ -2,6 +2,7 @@
 description: >-
   Always be informed! Configure the EasyFortniteStats Bot to provide real-time
   Fortnite server updates in Discord.
+icon: server
 ---
 
 # Server Status

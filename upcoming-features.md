@@ -2,6 +2,7 @@
 description: >-
   Get a sneak peek! Discover what's on the horizon for the EasyFortniteStats
   Bot.
+icon: sparkles
 ---
 
 # Upcoming Features
@@ -17,7 +18,6 @@ description: >-
 #### Next Update
 
 * Account System: Creator Code earnings Stats (Premium)
-* `/account creator-code`: Creator code search support
 * `/player-count`: more time windows including 1 Month, 1 Year
 
 #### Soon
@@ -38,3 +38,4 @@ description: >-
 * LTM Updates + Active command
 * Item Shop Voting with global results
 * Weapon Info command
+* `/account creator-code`: Creator code search support

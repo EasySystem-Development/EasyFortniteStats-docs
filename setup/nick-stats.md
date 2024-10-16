@@ -3,6 +3,7 @@ description: >-
   Showcase your achievements! Set up EasyFortniteStats to reflect your Fortnite
   Wins and BattlePass Level in your Discord nickname. A dynamic way to share
   your progress with others.
+icon: address-card
 ---
 
 # Nick Stats
