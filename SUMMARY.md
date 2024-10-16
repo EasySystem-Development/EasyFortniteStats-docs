@@ -21,7 +21,6 @@
 ## Beta
 
 * [Beta Info](beta/info.md)
-* [Invite Beta Bot](https://easyfnstats.com/beta)
 
 ***
 

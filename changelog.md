@@ -1,5 +1,9 @@
 ---
 icon: list-ul
+description: >-
+  Stay updated with the latest changes to the EasyFortniteStats Bot. Here,
+  you'll find version histories, feature updates, and bug fixes detailed
+  chronologically.
 ---
 
 # Changelog
@@ -8,22 +12,23 @@ icon: list-ul
 **Live patches** are updates in which changes are published directly after development. In contrast, with normal updates, the changes are first published in a preview on the beta bot and then published all at once on the normal bot after completion.
 {% endhint %}
 
-## V3.7.1 - 2024-10-XX  - Live Patch <a href="#v3.7.0" id="v3.7.0"></a>
+## V3.7.1 - 2024-10-XX  - Live Patch <a href="#v3.7.1" id="v3.7.1"></a>
 
 ### Changes/Improvements
 
 * Updated the Item Shop image to more closely resemble the in-game interface, reflecting the Chapter 5 Season 4 update.
 * Item Shop reminders now include information on when items will leave the shop.
 * Emojis displayed by the bot will now always appear, regardless of External Emoji permissions.
-* When gifting items trough `/account shop gift`, the new [gift policy](https://www.epicgames.com/help/en-US/c-Category\_Fortnite/c-Fortnite\_Billingandpayment/how-does-gifting-work-in-fortnite-a000084676) regarding dynamically priced bundles is now respected.
+* The new [gift policy](https://www.epicgames.com/help/en-US/c-Category\_Fortnite/c-Fortnite\_Billingandpayment/how-does-gifting-work-in-fortnite-a000084676) regarding dynamically priced bundles is now respected when gifting items through `/account shop gift`.
 * Updated selectable V-Bucks platforms for the `/account platform` command based on recent platform changes: Samsung removed, Apple iOS added.
-* When searching a cosmetic with the `/cosmetic` command, the search language is now overwritten by the selected language within the command.
+* When searching for a cosmetic with the `/cosmetic` command, the search language is now overridden by the language selected within the command.
 * Updated Lego commands with new Cozy and Hardcore modes and new options for Storm-Wild enemies, Village Animals Removed on Elimination and Player Fly Mode.
 * Improved recommendations for custom background images for the Item Shop image.
 
 ### Fixes
 
 * Fixed recent stability issues that caused the bot to become unresponsive.
+* Fixed an issue where Power Ranking and earnings always displayed as 0 in `/stats competitive`.
 * Fixed `/account lego` commands not responding.
 * Fixed issue with `/island` auto-complete not working.
 * Fixed an error message that duplicated the title when a user wasn't logged in.
@@ -32,11 +37,10 @@ icon: list-ul
 * Fixed issue where the language selected in the `/cosmetic` command wasn't respected.
 * Fixed issue that occurred when using `/reminder` list without any reminders set up.
 * Fixed issue with `/account shop gift` auto-complete not displaying items.
-* Fixed error message not appearing when selecting an item with /account shop gift
+* Fixed error message not appearing when selecting an item with `/account shop gift` for a player who doesn't accept gifts.
 * Fixed issue with the `/stats` command when selecting the option to link an account.
 * Fixed issue where purchases couldn't be undone in certain cases.
-* Fixed the error message not properly appearing when interacting with an account that is inactive trough `/account` commands.
-*
+* Fixed error message not appearing properly when interacting with an inactive account through `/account` commands.
 
 ## V3.7.0 - 2024-06-25 <a href="#v3.7.0" id="v3.7.0"></a>
 
