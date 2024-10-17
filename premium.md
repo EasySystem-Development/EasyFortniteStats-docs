@@ -1,5 +1,9 @@
 ---
 icon: sparkles
+description: >-
+  Unlock exclusive benefits with our Premium plans, whether for your user
+  account or your server. Enjoy enhanced functionality and priority access to
+  features.
 hidden: true
 noIndex: true
 ---
@@ -8,39 +12,39 @@ noIndex: true
 
 ## User Subscription
 
-The user subscription grants you perks for your user account. This currently includes:
+A user subscription grants you special perks across the platform, designed to improve your experience.
 
 ### EasyFortniteStats Perks
 
 <details>
 
-<summary>Extended amount of item shop reminders</summary>
+<summary>Extended Item Shop Reminders</summary>
 
-As a normal user you are only allowed to setup item shop reminders for 10 items. With premium you're allowed to setup up to 50 reminders.
-
-</details>
-
-<details>
-
-<summary>No Creator Code ads</summary>
-
-You won't get our creator code advertised while using the Account System. This means when logging in or spending V-Bucks trough the bot, you won't have to wait for the Creator Code ad.
+As a standard user, you're limited to 10 item shop reminders. With Premium, you can set up to 50 reminders, helping you track more of your favorite items.
 
 </details>
 
 <details>
 
-<summary>Creator Code preview</summary>
+<summary>No Creator Code Ads</summary>
 
-Get a preview of what creator code you using when purchasing items with V-Bucks trough the bot. You also able to customize the Creator Code before purchasing
+When using the Account System, you won't see any ads for our creator code, meaning no interruptions while logging in or spending V-Bucks through the bot.
 
 </details>
 
 <details>
 
-<summary>Automatic creator code refresh</summary>
+<summary>Creator Code Preview</summary>
 
-Setup a Creator Code that will be automatically set for you. The bot will also refresh the code every 14 days, so it'll never expire
+See a preview of the creator code you'll be using when purchasing items with V-Bucks through the bot. You can also customize the creator code before finalizing your purchase.
+
+</details>
+
+<details>
+
+<summary>Automatic Creator Code Refresh</summary>
+
+Set up a creator code that automatically refreshes every 14 days, so it never expires. This ensures a creator code is always set when purchasing items.
 
 </details>
 
@@ -50,7 +54,7 @@ Setup a Creator Code that will be automatically set for you. The bot will also r
 
 <summary>Premium Role</summary>
 
-You'll receive a premium role in the official support server that makes you stand out with a special color and elevated position in the member list.
+Receive a special Premium role in the official support server, giving you a unique color and higher position in the member list.
 
 </details>
 
@@ -58,7 +62,7 @@ You'll receive a premium role in the official support server that makes you stan
 
 <summary>Priority Support</summary>
 
-Get access to the priority support, which is a dedicated channel for premium members. You will be prioritized when it comes to receiving help or getting issues fixed.
+Gain access to a dedicated channel for Premium members, where you'll receive faster support and priority when it comes to resolving issues.
 
 </details>
 
@@ -66,31 +70,31 @@ Get access to the priority support, which is a dedicated channel for premium mem
 
 <summary>Premium Chat</summary>
 
-Get access to an exclusive channel where only premium users get access. There you can chat and will receive important updates regarding premium features.
+Join an exclusive chat channel for Premium users. Here, you'll receive important updates about premium features and can engage with other premium members.
 
 </details>
 
 ## Server Subscription
 
-{% hint style="success" %}
-Every server subscribtion includes 1 free user subscribtion for the one subscribing.
+{% hint style="info" %}
+Every server subscription includes 1 free user subscription for the account subscribing.
 {% endhint %}
 
-The user subscription grants perks for one server you select.&#x20;
+The **Server Subscription** provides exclusive perks for the server you choose.
 
 <details>
 
 <summary>Priority Updates</summary>
 
-Your server will be prioritized when it comes to automated updates, which may make it up to 45 minutes faster. This includes: Item Shop, Server Status, News
+Your server will receive priority for automated updates, such as Item Shop, Server Status, and News. This means updates will arrive up to 45 minutes faster than for non-premium servers.
 
 </details>
 
 <details>
 
-<summary>Custom Background Image</summary>
+<summary>Custom Background Images</summary>
 
-You will be able to set custom background images for  the Item Shop and Stats images.
+Set custom background images for Item Shop and Stats visuals to give your server a unique look.
 
 </details>
 
@@ -98,7 +102,7 @@ You will be able to set custom background images for  the Item Shop and Stats im
 
 <summary>No Advertising</summary>
 
-Premium removes all ads regarding the bot, including ads for voting the bots creator code. _\[Account System isn't covered]_
+Premium removes all ads related to the bot, including ads for voting or the creator code (Note: Account System ads are not included).
 
 </details>
 
@@ -106,38 +110,38 @@ Premium removes all ads regarding the bot, including ads for voting the bots cre
 
 <summary>Custom Creator Code</summary>
 
-You are able to set a custom creator code that will always be displyed in the item shop image on your server. This includes automated updates and the /shop command
+Display your custom creator code in the Item Shop image on your server. This applies to automated updates and the `/shop` command.
 
 </details>
 
 <details>
 
-<summary>24/7 Radio playback</summary>
+<summary>24/7 Radio Playback</summary>
 
-You are able to set the radio playback in 24/7 mode. The player won't stop playing when all users leave the channel and also reconnects when the bot restarts
-
-</details>
-
-<details>
-
-<summary>Radio volume control</summary>
-
-By default the radio volume is set to 50% to save bandwidth. You will be able to customize the volume up to 200%.
+Keep your radio playing continuously, even when all users leave the channel. The bot will also automatically reconnect after restarts to ensure uninterrupted playback.
 
 </details>
 
 <details>
 
-<summary>Faster Nick Stats updates</summary>
+<summary>Radio Volume Control</summary>
 
-Nick Stats will update every hour instead of every 3 hours.
+Customize the radio volume, with the ability to increase it up to 200%. The default setting is 50% to conserve bandwidth.
 
 </details>
 
 <details>
 
-<summary>Forbid Nick Stats Changes</summary>
+<summary>Faster Nick Stats Updates</summary>
 
-This feature prevents users from using fake stats within their nickname. The bot will always reset the stats to the real value
+Nick Stats will update every hour instead of every 3 hours, providing more timely information.
+
+</details>
+
+<details>
+
+<summary>Restrict Nick Stats Changes</summary>
+
+Prevent users from using fake stats in their nicknames. The bot will automatically reset any altered stats to the correct values.
 
 </details>
