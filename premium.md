@@ -4,8 +4,6 @@ description: >-
   Unlock exclusive benefits with our Premium plans, whether for your user
   account or your server. Enjoy enhanced functionality and priority access to
   features.
-hidden: true
-noIndex: true
 ---
 
 # Premium
@@ -76,11 +74,11 @@ Join an exclusive chat channel for Premium users. Here, you'll receive important
 
 </details>
 
-### How to subscribe
+### How to Subscribe
 
-The user premium subscription is as of now exclusivly avilable on Patreon at a price of $1/month.
+The User Premium Subscription is currently available exclusively through Patreon for just $1 per month.
 
-> [patreon.com/easyfortnitestats](https://patreon.com/easyfortnitestats)
+> [Subscribe on Patreon](https://patreon.com/easyfortnitestats)
 
 ## Server Subscription
 
@@ -158,21 +156,10 @@ Prevent users from using fake stats in their nicknames. The bot will automatical
 
 ### How to subscribe?
 
-The user premium subscription is available on Patreon for $4.5/month. There are also discounted bundles available which grant you the server subscription for multiple servers.
+The Server Premium Subscription is available on Patreon for $4.50 per month. You can also opt for discounted bundle plans that provide server subscriptions for multiple servers.
 
-> [patreon.com/easyfortnitestats](https://patreon.com/easyfortnitestats)
+> [Subscribe on Patreon](https://patreon.com/easyfortnitestats)
 
-Alternativly you are able to subscribe directly within Discord. This could be a more comfortable, since all is managed within Discord including the payment process. Due to higher fees, the subscribtion costs $5/month.
+Alternatively, you can subscribe directly within Discord, which might be more convenient since everything, including payment, is managed within the platform. However, due to higher fees, the cost is $5 per month via Discord.
 
-<details>
-
-<summary>How to subscribe in Discord?</summary>
-
-1. Click on EasyFortniteStats' profile.
-2. Click on **Store**
-3. Click on the blue button within the Server Premium card.
-4. Choose a payment method (or add one) and follow the instrcutions.
-
-<img src=".gitbook/assets/premium-discord.gif" alt="" data-size="original">
-
-</details>
+> [Subscribe on Discord](https://ptb.discord.com/application-directory/444203099331231746/store/1135707837524349069)
