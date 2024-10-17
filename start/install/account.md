@@ -1,6 +1,6 @@
 ---
+icon: user
 description: Add EasyFortniteStats to your account and use it everywhere!
-icon: plus
 layout:
   title:
     visible: true

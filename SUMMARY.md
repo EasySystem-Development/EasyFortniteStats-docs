@@ -2,20 +2,23 @@
 
 * [EasyFortniteStats Documentation](README.md)
 * [Commands](commands.md)
-* [Changelog](changelog.md)
+* [Changelog](changelog/README.md)
+  * [Upcoming Features](changelog/upcoming.md)
 * [FAQ](faq.md)
 * [Tutorials](tutorials.md)
-* [Upcoming Features](upcoming-features.md)
 * [Join Discord Support Server](https://easyfnstats.com/discord)
+
+## Getting Started <a href="#start" id="start"></a>
+
+* [Install the App](start/install/README.md)
+  * [Add to My Apps](start/install/account.md)
+  * [Add to Server](start/install/server.md)
 
 ## Setup Bot Features <a href="#setup" id="setup"></a>
 
-* [Install the App](setup/invite/README.md)
-  * [Add to My Apps](setup/invite/account.md)
-  * [Add to Server](setup/invite/server.md)
 * [Language](setup/language.md)
 * [Item Shop](setup/shop.md)
-* [Server Status](setup/status.md)
+* [Server Status](setup/server-status.md)
 * [Radio](setup/radio.md)
 * [News](setup/news.md)
 * [Nick Stats](setup/nick-stats.md)

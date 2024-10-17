@@ -27,8 +27,8 @@ layout:
 
 ### Get started with installing the app:
 
-{% content-ref url="setup/invite/" %}
-[invite](setup/invite/)
+{% content-ref url="start/install/" %}
+[install](start/install/)
 {% endcontent-ref %}
 
 ### Do you like to get started with all commands?

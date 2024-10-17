@@ -1,5 +1,5 @@
 ---
-icon: rocket
+icon: square-plus
 description: >-
   Ready to level up? Follow our simple steps to install EasyFortniteStats to
   your server or account.

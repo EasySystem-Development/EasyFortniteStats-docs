@@ -1,8 +1,8 @@
 ---
+icon: people-group
 description: >-
   Add EasyFortniteStats to your server and use it's full potential to enhance
   your server.
-icon: plus
 ---
 
 # Add to Server
