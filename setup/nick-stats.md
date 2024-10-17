@@ -1,9 +1,9 @@
 ---
+icon: address-card
 description: >-
   Showcase your achievements! Set up EasyFortniteStats to reflect your Fortnite
   Wins and BattlePass Level in your Discord nickname. A dynamic way to share
   your progress with others.
-icon: address-card
 ---
 
 # Nick Stats
@@ -25,13 +25,13 @@ First, enter the following command. It doesn't matter if you like to set up Batt
 
 Depending on which Nick Stats type you like to set up you can press the appropriate button. Green means enabled, red means disabled.
 
-![](../.gitbook/assets/Z47qOcchUD.gif)
+![](../.gitbook/assets/nickstats-toggle.gif)
 
 ### :small\_orange\_diamond:Forbid Changes \[Premium only]
 
 You can toggle this feature by pressing the button. Green means enabled, red means disabled.
 
-![](../.gitbook/assets/ojV2vdhsaj.gif)
+![](../.gitbook/assets/nickstats-forbid-changes.gif)
 
 ## Reset Settings
 

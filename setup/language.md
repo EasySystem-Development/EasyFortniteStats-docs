@@ -1,8 +1,8 @@
 ---
+icon: flag-usa
 description: >-
   Speak your language! Learn how to customise the EasyFortniteStats Bot to
   communicate in your preferred language.
-icon: flag-usa
 ---
 
 # Language
@@ -23,12 +23,12 @@ First, enter the following command to get into the settings menu:
 
 Click the `Language` Button:
 
-![](../.gitbook/assets/7w0IX7G0d7.gif)
+![](../.gitbook/assets/language-option.gif)
 
 \
 Now a further menu will appear. You can click the dropdown to select the language:
 
-![](../.gitbook/assets/NThSQpafIq.gif)
+![](../.gitbook/assets/language-select.gif)
 
 {% hint style="success" %}
 The language has now been successfully switched.

@@ -1,8 +1,8 @@
 ---
+icon: comments-question-check
 description: >-
   Got questions? Explore our FAQ for answers on the EasyFortniteStats Bot. Learn
   more, troubleshoot issues, and optimize your bot experience.
-icon: comments-question-check
 ---
 
 # FAQ
@@ -17,7 +17,7 @@ On August 31, bots can no longer read all message content. This means that the b
 
 You only need to type `/` in the chat window, which opens a menu with all available commands, sorted by bot. You just need to select the command of your choice. Read more [here](https://support.discord.com/hc/en-us/articles/1500000368501-Slash-Commands-FAQ) about slash commands.
 
-![How to execute the /help command.](.gitbook/assets/2x6C3RQ.gif)
+![How to execute the /help command.](.gitbook/assets/slash-help.gif)
 
 ### I can't see a slash command, how can I change that?
 
@@ -35,7 +35,7 @@ In rare cases, it might be caused by a bot restart or outage. If you checked the
 
 Discord recently introduced the [Command Permissions System](https://discord.com/blog/slash-commands-permissions-discord-apps-bots). This allows you to allow or deny specific **Slash Commands** to certain roles, users or channels. To get started go to "Server Settings" -> "Integrations" -> "EasyFortniteStats" and modify the given settings.
 
-![](.gitbook/assets/NVIDIA\_Share\_ZvSuTTiHDu.gif)
+![](.gitbook/assets/slash-permissions.gif)
 
 ## Stats
 

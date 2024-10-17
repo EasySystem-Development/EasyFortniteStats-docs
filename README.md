@@ -21,11 +21,11 @@ layout:
 
 <div data-full-width="false">
 
-<figure><img src=".gitbook/assets/Frame 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/banner.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-### Get Started with inviting the bot:
+### Get started with installing the app:
 
 {% content-ref url="setup/invite/" %}
 [invite](setup/invite/)

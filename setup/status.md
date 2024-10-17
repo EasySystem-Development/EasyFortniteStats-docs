@@ -1,8 +1,8 @@
 ---
+icon: server
 description: >-
   Always be informed! Configure the EasyFortniteStats Bot to provide real-time
   Fortnite server updates in Discord.
-icon: server
 ---
 
 # Server Status
@@ -27,7 +27,7 @@ Now you need to **select** at least one **channel** where the Server Status will
 
 You can set a channel by selecting it from the dropdown menu:
 
-<figure><img src="../.gitbook/assets/DiscordPTB_PxqHnXVIIb.gif" alt=""><figcaption><p>Set Server Status Channel</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/server-status-channel.gif" alt=""><figcaption><p>Set Server Status Channel</p></figcaption></figure>
 
 #### Possible Errors
 
@@ -40,4 +40,4 @@ Once you have selected a channel, the server status is set up. It should now app
 
 You can disable or enable Server Status posts while keeping all settings. Just click the Enable or Disable button.
 
-<figure><img src="../.gitbook/assets/DiscordPTB_xyQgZ91pSK.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/server-status-toggle.gif" alt=""><figcaption></figcaption></figure>

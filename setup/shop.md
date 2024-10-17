@@ -1,8 +1,8 @@
 ---
+icon: cart-shopping
 description: >-
   Gear up in style! Configure EasyFortniteStats to show Fortnite's latest item
   shop offerings right within your Discord.
-icon: cart-shopping
 ---
 
 # Item Shop
@@ -30,7 +30,7 @@ Now you need to **select** at least one **channel** where the Item Shop will be 
 
 You can set a channel by selecting it from the dropdown menu:
 
-<figure><img src="../.gitbook/assets/DiscordPTB_qiZtyuVlEg.gif" alt=""><figcaption><p>Setting the item shop channel</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/shop-channel.gif" alt=""><figcaption><p>Setting the item shop channel</p></figcaption></figure>
 
 #### Possible Errors
 
@@ -43,7 +43,7 @@ Once you have selected a channel, the item shop is set up. It should now appear 
 
 In addition, you can select a role that should always be mentioned when a new item shop appears. This can be selected via the second dropdown menu as follows:
 
-<figure><img src="../.gitbook/assets/DiscordPTB_xEQLsqxT4H.gif" alt=""><figcaption><p>Setting the item shop mention role</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/shop-role.gif" alt=""><figcaption><p>Setting the item shop mention role</p></figcaption></figure>
 
 #### Possible Errors
 
@@ -58,7 +58,7 @@ You might want to select a custom background image for the item shop. Therefore 
 * Recommended Image Resolution: The resolution of the image may differ a lot. The bot will automatically resize the image to fit the card, so high resolution images are recommended.
 * Max. image size: `5MB`
 
-<figure><img src="../.gitbook/assets/DiscordPTB_fTmFaorU58.gif" alt=""><figcaption><p>Setting a custom Background Image</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/shop-background.gif" alt=""><figcaption><p>Setting a custom Background Image</p></figcaption></figure>
 
 You can also deselect the image from the dropdown menu, which will disable the custom background image.
 
@@ -66,7 +66,7 @@ You can also deselect the image from the dropdown menu, which will disable the c
 
 As a premium member, the bots Creator Code will be hidden from the Item Shop image. You my also want to provide your own Creator Code. After Clicking the Creator Code Button, a popup will appear where you can enter the Code in a text field.
 
-<figure><img src="../.gitbook/assets/DiscordPTB_361ln6Y1RV.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shop-creator-code.gif" alt=""><figcaption></figcaption></figure>
 
 #### Possible Errors
 
@@ -81,4 +81,4 @@ You can disable or enable Item Shop posts while keeping all settings. Just click
 * If the green Disable button is shown, Server Status posts are currently active
 * If the red Enable button is shown, Server Status posts are currently disabled
 
-<figure><img src="../.gitbook/assets/DiscordPTB_LtgZ7cnwCf.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shop-toggle.gif" alt=""><figcaption></figcaption></figure>

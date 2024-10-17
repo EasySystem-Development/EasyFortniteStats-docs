@@ -14,7 +14,7 @@ You might link the wrong account. Make sure you own the account which you linked
 
 You might be logged in to the wrong EpicGames/Fortnite Account. You can check that by visiting the [EpicGames Website](https://www.epicgames.com/account/personal). If you need to log in proceed by providing your account details. If you are already logged in check if the given account name is identical to the linked one.
 
-![](<.gitbook/assets/image (1).png>)
+![](.gitbook/assets/wrong-loggedin-account.png)
 
 ### Other errors
 

@@ -25,6 +25,6 @@ You might want to select a custom background image for the stats image. Therefor
 * Recommended Competitive Image Resolution: `1505 × 624`
 * Max. image size: `1MB`
 
-<figure><img src="../.gitbook/assets/DiscordPTB_iCWF2ponQ7.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/stats-background.gif" alt=""><figcaption></figcaption></figure>
 
 You can also deselect the image from the dropdown menu, which will disable the custom background image.

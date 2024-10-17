@@ -14,14 +14,14 @@ There 2 ways to install EasyFortniteStats:
 
 In most cases, adding the App to My Apps, is the easiest way to install. It allows you to use the App anywhere with most of it's features.
 
-{% content-ref url="add-to-my-apps.md" %}
-[add-to-my-apps.md](add-to-my-apps.md)
+{% content-ref url="account.md" %}
+[account.md](account.md)
 {% endcontent-ref %}
 
 If you own or manage a server, you might want to add the app directly to it. This allows you to use the full feature set of EasyFortniteStats to enhance your server.
 
-{% content-ref url="add-to-server.md" %}
-[add-to-server.md](add-to-server.md)
+{% content-ref url="server.md" %}
+[server.md](server.md)
 {% endcontent-ref %}
 
 ## Invite troubleshooting
@@ -30,7 +30,7 @@ If you own or manage a server, you might want to add the app directly to it. Thi
 
 The main reason for your server not appearing in the drop-down menu is the use of the wrong account. Make sure you're logged into the right account which you can check on the top of the invite screen. You should see your profile picture and Discord tag. If it's the wrong account, press the **Not you?** button.
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-10-17 at 01.06.00@2x.png" alt="" width="317"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/invite-change-user.png" alt="" width="317"><figcaption></figcaption></figure>
 
 ### Discord asks me to verify my e-mail address.
 

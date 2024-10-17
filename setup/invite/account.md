@@ -1,5 +1,6 @@
 ---
 description: Add EasyFortniteStats to your account and use it everywhere!
+icon: plus
 layout:
   title:
     visible: true
@@ -25,7 +26,7 @@ Click **Add to My Apps**, then confirm by clicking **Authorize**.
 
 <div data-full-width="true">
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-10-17 at 00.29.26.gif" alt="" width="339"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/invite-account.gif" alt="" width="339"><figcaption></figcaption></figure>
 
 </div>
 

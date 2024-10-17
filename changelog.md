@@ -146,7 +146,7 @@ description: >-
 
 * Reworked the shop image to be significantly wider and more readable.
 
-<figure><img src=".gitbook/assets/2024_01_16_en.png" alt="" width="375"><figcaption><p>Improved shop design</p></figcaption></figure>
+<figure><img src=".gitbook/assets/shop-3_6_0.png" alt="" width="375"><figcaption><p>Improved shop design</p></figcaption></figure>
 
 * Reworked Server Status:
   * Now includes Crew, Fortnite Lego, Rocket League Racing, and Fortnite Festival status.
@@ -235,7 +235,7 @@ description: >-
   * Unreal Global Ranking
   * Lifetime Competitive Stats expansion: now includes Ranked Stats, Tournament Stats and Legacy Arena Stats
 
-<figure><img src=".gitbook/assets/CleanShot 2023-07-03 at 23.49.16@2x.png" alt=""><figcaption><p>New Competitive Stats including Ranked</p></figcaption></figure>
+<figure><img src=".gitbook/assets/stats-competitive-3_5_0.png" alt=""><figcaption><p>New Competitive Stats including Ranked</p></figcaption></figure>
 
 * **Discord App Premium Integration:**
   * Subscription is now available both via the Bot's profile and the [App Directory](https://ptb.discord.com/application-directory/444203099331231746)
@@ -319,13 +319,13 @@ This patch is the finalize the migration from prefixed commands (e.g. `!fn shop`
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/locker-3_4_0.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 * Added new `/player-count` command that's displays the current and past player count history
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/player-count_4_3_0.png" alt=""><figcaption></figcaption></figure>
 
 * Added a new `/image` command to manage images for premium custom backgrounds
 * Added [discordlist.gg](https://discordlist.gg/bot/444203099331231746) support
@@ -528,7 +528,7 @@ This update introduces a 3 month transition period from normal Text Commands (eg
 
 * Competitive Stats: Get just your Arena and Tournament matches including Arena Hype, Division, Earnings, and FortniteTracker.com's Power Ranking (`!fn comp`)
 
-![](<.gitbook/assets/Stats Competitive.png>)
+![](.gitbook/assets/stats-comp-3\_1\_0.png)
 
 * Seasonal Stats: Only display the stats that you have earned in the current season. (`!fn season`)
 * Season Command: View info on the current season and progress (`!fn seasoninfo`)
@@ -541,7 +541,7 @@ This update introduces a 3 month transition period from normal Text Commands (eg
 
 * Reformatted Stats Image
 
-![](<.gitbook/assets/Stats (1).png>)
+![](.gitbook/assets/stats-3\_1\_0.png)
 
 * Moved FAQ to docs (`!fn faq`)
 
@@ -583,11 +583,11 @@ V3 is a complete overhaul of V2. The source code has been 100% re-written and no
   * Bot Lobby rounds are no more counted
 * New Stats image design (`!fn stats`)&#x20;
 
-![New Stats Image Design](.gitbook/assets/Stats.png)
+![New Stats Image Design](.gitbook/assets/stats-3\_0\_0.png)
 
 * New Item Shop image design (`!fn shop`)
 
-![New Shop Image Design](.gitbook/assets/2021\_02\_02\_en.png)
+![New Shop Image Design](.gitbook/assets/shop-3\_0\_0.png)
 
 * `!fn challenges` now support up to 15 instead of 10 weeks
 * `!fn drop` has been overhauled by adding more locations that get automatically updated. Also, the location gets marked on the map.&#x20;
