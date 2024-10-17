@@ -14,7 +14,9 @@ noIndex: true
 
 A user subscription grants you special perks across the platform, designed to improve your experience.
 
-### EasyFortniteStats Perks
+### Perks
+
+#### EasyFortniteStats Perks
 
 <details>
 
@@ -48,7 +50,7 @@ Set up a creator code that automatically refreshes every 14 days, so it never ex
 
 </details>
 
-### Support Server perks
+#### Support Server perks
 
 <details>
 
@@ -74,6 +76,12 @@ Join an exclusive chat channel for Premium users. Here, you'll receive important
 
 </details>
 
+### How to subscribe
+
+The user premium subscription is as of now exclusivly avilable on Patreon at a price of $1/month.
+
+> [patreon.com/easyfortnitestats](https://patreon.com/easyfortnitestats)
+
 ## Server Subscription
 
 {% hint style="info" %}
@@ -81,6 +89,8 @@ Every server subscription includes 1 free user subscription for the account subs
 {% endhint %}
 
 The **Server Subscription** provides exclusive perks for the server you choose.
+
+### Perks
 
 <details>
 
@@ -143,5 +153,26 @@ Nick Stats will update every hour instead of every 3 hours, providing more timel
 <summary>Restrict Nick Stats Changes</summary>
 
 Prevent users from using fake stats in their nicknames. The bot will automatically reset any altered stats to the correct values.
+
+</details>
+
+### How to subscribe?
+
+The user premium subscription is available on Patreon for $4.5/month. There are also discounted bundles available which grant you the server subscription for multiple servers.
+
+> [patreon.com/easyfortnitestats](https://patreon.com/easyfortnitestats)
+
+Alternativly you are able to subscribe directly within Discord. This could be a more comfortable, since all is managed within Discord including the payment process. Due to higher fees, the subscribtion costs $5/month.
+
+<details>
+
+<summary>How to subscribe in Discord?</summary>
+
+1. Click on EasyFortniteStats' profile.
+2. Click on **Store**
+3. Click on the blue button within the Server Premium card.
+4. Choose a payment method (or add one) and follow the instrcutions.
+
+<img src=".gitbook/assets/premium-discord.gif" alt="" data-size="original">
 
 </details>
