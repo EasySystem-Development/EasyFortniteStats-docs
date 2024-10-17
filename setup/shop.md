@@ -9,7 +9,7 @@ description: >-
 
 ## 🔸Premium features
 
-* **Priority Updates** - Receive the item shop image in your server up to 15 minutes faster
+* **Priority Updates** - Receive the item shop image in your server up to 45 minutes faster
 * **Custom Background Image** - Use a custom image as background image for the item shop
 * **No Advertising** - Remove the ad for voting and the bots Creator Code
 * **Custom Support A Creator Code** - Set a custom creator code that is always displayed
@@ -55,7 +55,7 @@ In addition, you can select a role that should always be mentioned when a new it
 You might want to select a custom background image for the item shop. Therefore you first need to upload an image with `/image upload`. If it falls below the maximum image size specified below, you can select it.&#x20;
 
 * Image Format: `.png`, `.jpg` and `jpeg`
-* Recommended Image Resolution: The resolution of the image may differ a lot. The bot will automatically resize the image to fit the card, so high resolution images are recommended.
+* Recommended Image Resolution: Square-like aspect ratio with dynamic resolution.
 * Max. image size: `5MB`
 
 <figure><img src="../.gitbook/assets/shop-background.gif" alt=""><figcaption><p>Setting a custom Background Image</p></figcaption></figure>
