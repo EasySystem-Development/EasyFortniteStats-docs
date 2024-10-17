@@ -35,7 +35,3 @@
 * [Thanks for inviting EasyFortniteStats](invite.md)
 * [You've successfully authenticated with your Fortnite account](oauth-success.md)
 * [How to solve verification issues](oauth-error.md)
-
-## Group 1
-
-* [Page 1](group-1/page-1.md)
