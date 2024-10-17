@@ -154,7 +154,7 @@ Prevent users from using fake stats in their nicknames. The bot will automatical
 
 </details>
 
-### How to subscribe?
+### How to Subscribe
 
 The Server Premium Subscription is available on Patreon for $4.50 per month. You can also opt for discounted bundle plans that provide server subscriptions for multiple servers.
 
