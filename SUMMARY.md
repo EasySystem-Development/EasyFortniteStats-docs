@@ -4,6 +4,7 @@
 * [Commands](commands.md)
 * [Changelog](changelog/README.md)
   * [Upcoming Features](changelog/upcoming.md)
+* [Premium](premium.md)
 * [FAQ](faq.md)
 * [Tutorials](tutorials.md)
 * [Join Discord Support Server](https://easyfnstats.com/discord)
@@ -13,16 +14,16 @@
 * [Install the App](start/install/README.md)
   * [Add to My Apps](start/install/account.md)
   * [Add to Server](start/install/server.md)
+* [Language](start/language.md)
 
-## Setup Bot Features <a href="#setup" id="setup"></a>
+## Features
 
-* [Language](setup/language.md)
-* [Item Shop](setup/shop.md)
-* [Server Status](setup/server-status.md)
-* [Radio](setup/radio.md)
-* [News](setup/news.md)
-* [Nick Stats](setup/nick-stats.md)
-* [Stats](setup/stats.md)
+* [Item Shop](features/shop.md)
+* [Server Status](features/server-status.md)
+* [Radio](features/radio.md)
+* [News](features/news.md)
+* [Nick Stats](features/nick-stats.md)
+* [Stats](features/stats.md)
 
 ## Beta
 
@@ -34,3 +35,7 @@
 * [Thanks for inviting EasyFortniteStats](invite.md)
 * [You've successfully authenticated with your Fortnite account](oauth-success.md)
 * [How to solve verification issues](oauth-error.md)
+
+## Group 1
+
+* [Page 1](group-1/page-1.md)

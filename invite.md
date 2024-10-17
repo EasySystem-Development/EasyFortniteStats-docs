@@ -18,6 +18,6 @@ layout: landing
 
 ### Get started with setting the language:
 
-{% content-ref url="setup/language.md" %}
-[language.md](setup/language.md)
+{% content-ref url="start/language.md" %}
+[language.md](start/language.md)
 {% endcontent-ref %}

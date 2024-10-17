@@ -1,8 +1,8 @@
 ---
+icon: square-arrow-up-right
 description: >-
   Get a sneak peek! Discover what's on the horizon for the EasyFortniteStats
   Bot.
-icon: sparkles
 ---
 
 # Upcoming Features
