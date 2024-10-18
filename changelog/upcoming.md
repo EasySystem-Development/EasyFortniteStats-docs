@@ -7,13 +7,10 @@ description: >-
 
 # Upcoming Features
 
-#### Just Implemented \[V3.6.0]
+#### Just Implemented \[V3.7.0]
 
-* Account System: Locker filters (x days not in ItemShop, Exclusive Items)
-* Account System: Friends overview
-* Account System: Auto Creator Code (Premium)
-* Account System: Code overview and claiming
-* `/island` to lookup a creative island
+* Item Shop Reminders
+* [Linked Roles](https://discord.com/build/linked-roles): Fortnite Connection
 
 #### Next Update
 
@@ -22,8 +19,7 @@ description: >-
 
 #### Soon
 
-* [Linked Roles](https://discord.com/build/linked-roles): Fortnite Connection
-* Item Shop Reminders + Autobuy for Account System + Overview of purchased items
+* &#x20;Autobuy for Account System + Overview of purchased items
 
 #### Near Future
 
