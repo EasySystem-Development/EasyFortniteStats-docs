@@ -27,8 +27,8 @@
 
 ## Beta
 
-* [Beta Info](beta/info/README.md)
-  * [Add Beta App](https://easyfnstats.com/beta)
+* [Beta Info](beta/info.md)
+* [Add Beta App](https://easyfnstats.com/beta)
 
 ***
 

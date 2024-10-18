@@ -11,10 +11,23 @@ The radio function allows you to listen to the radio stations from the game, whi
 
 To start a radio session, simply join a voice channel where the bot also has access to. The `/radio` command makes the bot join and starts playback.
 
-## 🔸Premium features
+## <img src="../.gitbook/assets/premium.png" alt="" data-size="line"> Premium Features
 
-* **24/7 playback** - The player won't stop, if you leave the channel and also reconnect, after the bot restarts
-* **Volume control** - By default volume is set to 50% to save bandwidth. You will be able to adjust it up to 200%
+<details>
+
+<summary>24/7 Radio Playback</summary>
+
+Keep your radio playing continuously, even when all users leave the channel. The bot will also automatically reconnect after restarts to ensure uninterrupted playback.
+
+</details>
+
+<details>
+
+<summary>Radio Volume Control</summary>
+
+Customize the radio volume, with the ability to increase it up to 200%. The default setting is 50% to conserve bandwidth.
+
+</details>
 
 ## Permissions and DJ Role
 

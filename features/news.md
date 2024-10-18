@@ -7,9 +7,15 @@ description: >-
 
 # News
 
-## 🔸Premium features
+## <img src="../.gitbook/assets/premium.png" alt="" data-size="line"> Premium Features
 
-* **Priority Updates** - Receive news posts in your server up to 10 minutes faster
+<details>
+
+<summary>Priority Updates</summary>
+
+Your server will receive priority for News updates. This means updates will arrive up to 15 minutes faster than for non-premium servers.
+
+</details>
 
 ## Setup News updates
 

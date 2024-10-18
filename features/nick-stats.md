@@ -8,10 +8,23 @@ description: >-
 
 # Nick Stats
 
-## 🔸Premium features
+## <img src="../.gitbook/assets/premium.png" alt="" data-size="line"> Premium Features
 
-* **Faster updates** - Nicks will update every 1 hour instead of every 3 hours
-* **Forbid Changes** - Prevent users from providing fake stats in their name
+<details>
+
+<summary>Faster Nick Stats Updates</summary>
+
+Nick Stats will update every hour instead of every 3 hours, providing more timely information.
+
+</details>
+
+<details>
+
+<summary>Restrict Nick Stats Changes</summary>
+
+Prevent users from using fake stats in their nicknames. The bot will automatically reset any altered stats to the correct values.
+
+</details>
 
 ## Modify Nick Stats settings
 
@@ -27,7 +40,7 @@ Depending on which Nick Stats type you like to set up you can press the appropri
 
 ![](../.gitbook/assets/nickstats-toggle.gif)
 
-### :small\_orange\_diamond:Forbid Changes \[Premium only]
+### <img src="../.gitbook/assets/premium.png" alt="" data-size="line"> Forbid Changes \[Premium only]
 
 You can toggle this feature by pressing the button. Green means enabled, red means disabled.
 

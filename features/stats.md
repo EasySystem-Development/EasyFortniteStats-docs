@@ -4,9 +4,15 @@ icon: chart-simple
 
 # Stats
 
-## 🔸Premium features
+## <img src="../.gitbook/assets/premium.png" alt="" data-size="line"> Premium Features
 
-* **Custom Background Image** - Use a custom image as background image for the stats. You can select individual images for lifetime/season and competitive stats.
+<details>
+
+<summary>Custom Background Images</summary>
+
+Set custom background images for Stats visuals to give your server a unique look.
+
+</details>
 
 ## Modify Stats Settings
 
@@ -16,7 +22,7 @@ First, enter the following command:
 /setup stats
 ```
 
-### :small\_orange\_diamond:Background Image \[Premium only]
+### <img src="../.gitbook/assets/premium.png" alt="" data-size="line"> Background Image \[Premium only]
 
 You might want to select a custom background image for the stats image. Therefore you first need to upload an image with `/image upload`. If it falls below the maximum image size specified below, you can select it.&#x20;
 

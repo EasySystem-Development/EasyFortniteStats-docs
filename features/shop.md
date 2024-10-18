@@ -7,12 +7,39 @@ description: >-
 
 # Item Shop
 
-## 🔸Premium features
+## <img src="../.gitbook/assets/premium.png" alt="" data-size="line"> Premium Features
 
-* **Priority Updates** - Receive the item shop image in your server up to 45 minutes faster
-* **Custom Background Image** - Use a custom image as background image for the item shop
-* **No Advertising** - Remove the ad for voting and the bots Creator Code
-* **Custom Support A Creator Code** - Set a custom creator code that is always displayed
+<details>
+
+<summary>Priority Updates</summary>
+
+Your server will receive priority for Item Shop updates. This means updates will arrive up to 45 minutes faster than for non-premium servers.
+
+</details>
+
+<details>
+
+<summary>Custom Background Images</summary>
+
+Set custom background images for Item Shop visuals to give your server a unique look.
+
+</details>
+
+<details>
+
+<summary>No Advertising</summary>
+
+Premium removes all ads related to the bot within the shop image and message, including ads for voting or the creator code.
+
+</details>
+
+<details>
+
+<summary>Custom Creator Code</summary>
+
+Display your custom creator code in the Item Shop image on your server. This applies to automated updates and the `/shop` command.
+
+</details>
 
 ## Setup Item Shop updates
 
@@ -50,7 +77,7 @@ In addition, you can select a role that should always be mentioned when a new it
 * **Role mentionable by everyone •** Servers larger than 250 members can't use a role that is mentionable by everyone. This is for security reason to prevent possible abuse. Disable that @everone can mention this role in the server settings.
 * **Missing permissions** **•** The Bot missing mention everyone permissions. If you are inexperienced with Discord check out [this guide](https://support.discord.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-) to set up permissions.
 
-### :small\_orange\_diamond:Background Image \[Premium only]
+### <img src="../.gitbook/assets/premium.png" alt="" data-size="line"> Background Image \[Premium only]
 
 You might want to select a custom background image for the item shop. Therefore you first need to upload an image with `/image upload`. If it falls below the maximum image size specified below, you can select it.&#x20;
 
@@ -62,7 +89,7 @@ You might want to select a custom background image for the item shop. Therefore 
 
 You can also deselect the image from the dropdown menu, which will disable the custom background image.
 
-### :small\_orange\_diamond:Creator Code \[Premium only]&#x20;
+### <img src="../.gitbook/assets/premium.png" alt="" data-size="line"> Creator Code \[Premium only]&#x20;
 
 As a premium member, the bots Creator Code will be hidden from the Item Shop image. You my also want to provide your own Creator Code. After Clicking the Creator Code Button, a popup will appear where you can enter the Code in a text field.
 
