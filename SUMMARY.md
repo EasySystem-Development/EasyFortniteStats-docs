@@ -24,6 +24,9 @@
 * [News](features/news.md)
 * [Nick Stats](features/nick-stats.md)
 * [Stats](features/stats.md)
+* [Verification](features/verify/README.md)
+  * [Successfully linked](features/verify/success.md)
+  * [How to solve verification issues](features/verify/error.md)
 
 ## Beta
 
@@ -33,5 +36,3 @@
 ***
 
 * [Thanks for inviting EasyFortniteStats](invite.md)
-* [You've successfully authenticated with your Fortnite account](oauth-success.md)
-* [How to solve verification issues](oauth-error.md)
