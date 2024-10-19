@@ -1,5 +1,8 @@
 ---
 icon: chart-simple
+description: >-
+  Track your Fortnite metrics! Use EasyFortniteStats to view detailed stats like
+  Wins and Battle Pass Level, all accessible with simple commands.
 ---
 
 # Stats

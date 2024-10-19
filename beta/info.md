@@ -1,6 +1,8 @@
 ---
 icon: flask-round-potion
-description: Test cutting edge features of EasyFortniteStats.
+description: >-
+  Experience the latest experimental features of EasyFortniteStats before
+  they’re officially released.
 ---
 
 # Beta Info
