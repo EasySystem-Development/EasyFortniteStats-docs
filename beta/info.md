@@ -15,7 +15,7 @@ We do not recommend using the Beta version as your primary bot due to the follow
 
 * Longer and more frequent downtimes
 * Increased likelihood of errors
-* Delays of up to 30 minutes for Shop, Challenges, and Server Status updates (except for Premium users)
+* Delays of up to 30 minutes for Shop, News, and Server Status updates (except for Premium users)
 * Premium access may be delayed by up to 1 hour
 
 If you're okay with these potential issues, feel free to add the Beta bot.
