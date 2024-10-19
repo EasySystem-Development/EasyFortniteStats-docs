@@ -26,7 +26,7 @@ Click **Add to My Apps**, then confirm by clicking **Authorize**.
 
 <div data-full-width="true">
 
-<figure><img src="../../.gitbook/assets/invite-account.gif" alt="" width="339"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/invite-account.gif" alt=""><figcaption></figcaption></figure>
 
 </div>
 

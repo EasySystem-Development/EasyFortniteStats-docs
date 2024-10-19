@@ -15,11 +15,11 @@ Visit [easyfnstats.com/invite](https://easyfnstats.com/invite)
 
 Click **Add to Server**
 
-<figure><img src="../../.gitbook/assets/invite-server.gif" alt="" width="298"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/invite-server.gif" alt=""><figcaption></figcaption></figure>
 
 Now click **Select a server**. A drop-down menu should appear including all servers you got `Manage Server` permissions in. Select the server you want the bot to join. Afterwards click **Continue**.
 
-<figure><img src="../../.gitbook/assets/invite-server-select.gif" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/invite-server-select.gif" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -27,7 +27,7 @@ Now click **Select a server**. A drop-down menu should appear including all serv
 
 After selecting a server, you should see something like this:
 
-<figure><img src="../../.gitbook/assets/invite-server-permissions.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/invite-server-permissions.png" alt=""><figcaption></figcaption></figure>
 
 As long you are not experienced with Discord's permissions system, keep all permissions selected.\
 Click the **Authorize** button and complete the **Captcha**. You now should get redirected to [this page](https://docs.easyfnstats.com/invite).
