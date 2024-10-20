@@ -12,7 +12,7 @@ description: >-
 **Live patches** are updates in which changes are published directly after development. In contrast, with normal updates, the changes are first published in a preview on the beta bot and then published all at once on the normal bot after completion.
 {% endhint %}
 
-## V3.7.1 - 2024-10-XX  - Live Patch <a href="#v3.7.1" id="v3.7.1"></a>
+## V3.7.1 - 2024-10-20 - Live Patch <a href="#v3.7.1" id="v3.7.1"></a>
 
 ### Changes/Improvements
 
