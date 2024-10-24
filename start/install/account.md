@@ -20,7 +20,7 @@ layout:
 
 Visit [easyfnstats.com/invite](https://easyfnstats.com/invite)
 
-Step 2
+### Step 2
 
 Click **Add to My Apps**, then confirm by clicking **Authorize**.
 

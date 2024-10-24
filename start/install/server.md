@@ -23,7 +23,7 @@ Now click **Select a server**. A drop-down menu should appear including all serv
 
 
 
-### Step three
+### Step 3
 
 After selecting a server, you should see something like this:
 
